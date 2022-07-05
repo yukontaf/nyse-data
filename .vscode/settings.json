@@ -1,0 +1,4 @@
+{
+    "python.linting.flake8Path": "/usr/local/Cellar/flake8/4.0.1/libexec/bin/flake8",
+    "python.linting.pylintPath": "/usr/local/Cellar/pylint/2.14.4/libexec/bin/pylint"
+}

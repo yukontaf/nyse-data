@@ -1,0 +1,1711 @@
+,Ticker Symbol,Years,Period Ending,Total Revenue,Cost of Goods Sold,"Sales, General and Admin.",Research and Development,Other Operating Items,GICS Sector,GICS Sub Industry,Total Revenue_sum,Cost of Goods Sold_sum,"Sales, General and Admin._sum",Other Operating Items_sum,Research and Development_sum
+0,AAL,Year 1,2012-12-31,24,10.0,12.977,,0.845,Industrials,Airlines,132,47.0,67.851,4.357,0.0
+1,AAL,Year 2,2013-12-31,26,11.0,12.913,,0.853,Industrials,Airlines,132,47.0,67.851,4.357,0.0
+2,AAL,Year 3,2014-12-31,42,15.0,20.686,,1.295,Industrials,Airlines,132,47.0,67.851,4.357,0.0
+3,AAL,Year 4,2015-12-31,40,11.0,21.275,,1.364,Industrials,Airlines,132,47.0,67.851,4.357,0.0
+4,AAP,Year 1,2012-12-29,6,3.0,2.440721,,,Consumer Discretionary,Automotive Retail,30,16.0,12.231444,0.0,0.0
+5,AAP,Year 2,2013-12-28,6,3.0,2.591828,,,Consumer Discretionary,Automotive Retail,30,16.0,12.231444,0.0,0.0
+6,AAP,Year 3,2015-01-03,9,5.0,3.601903,,,Consumer Discretionary,Automotive Retail,30,16.0,12.231444,0.0,0.0
+7,AAP,Year 4,2016-01-02,9,5.0,3.596992,,,Consumer Discretionary,Automotive Retail,30,16.0,12.231444,0.0,0.0
+8,AAPL,Year 1,2013-09-28,170,106.0,10.83,4.475,,Information Technology,Computer Hardware,800,489.0,51.346000000000004,0.0,28.628
+9,AAPL,Year 2,2014-09-27,182,112.0,11.993,6.041,,Information Technology,Computer Hardware,800,489.0,51.346000000000004,0.0,28.628
+10,AAPL,Year 3,2015-09-26,233,140.0,14.329,8.067,,Information Technology,Computer Hardware,800,489.0,51.346000000000004,0.0,28.628
+11,AAPL,Year 4,2016-09-24,215,131.0,14.194,10.045,,Information Technology,Computer Hardware,800,489.0,51.346000000000004,0.0,28.628
+12,ABBV,Year 1,2012-12-31,18,4.0,4.989,2.778,,Health Care,Pharmaceuticals,77,16.0,25.202,0.0,13.215
+13,ABBV,Year 2,2013-12-31,18,4.0,5.352,2.855,,Health Care,Pharmaceuticals,77,16.0,25.202,0.0,13.215
+14,ABBV,Year 3,2014-12-31,19,4.0,8.474,3.297,,Health Care,Pharmaceuticals,77,16.0,25.202,0.0,13.215
+15,ABBV,Year 4,2015-12-31,22,4.0,6.387,4.285,,Health Care,Pharmaceuticals,77,16.0,25.202,0.0,13.215
+16,ABC,Year 1,2013-09-30,87,85.0,1.447234,,0.162186,Health Care,Health Care Distributors,487,475.0,8.699384,0.964236,0.0
+17,ABC,Year 2,2014-09-30,119,116.0,2.011595,,0.18868,Health Care,Health Care Distributors,487,475.0,8.699384,0.964236,0.0
+18,ABC,Year 3,2015-09-30,135,132.0,2.858458,,0.248635,Health Care,Health Care Distributors,487,475.0,8.699384,0.964236,0.0
+19,ABC,Year 4,2016-09-30,146,142.0,2.382097,,0.364735,Health Care,Health Care Distributors,487,475.0,8.699384,0.964236,0.0
+20,ABT,Year 1,2012-12-31,19,8.0,6.735,1.461,0.595,Health Care,Health Care Equipment,78,34.0,26.422,2.339,5.582
+21,ABT,Year 2,2013-12-31,19,9.0,6.372,1.371,0.588,Health Care,Health Care Equipment,78,34.0,26.422,2.339,5.582
+22,ABT,Year 3,2014-12-31,20,9.0,6.53,1.345,0.555,Health Care,Health Care Equipment,78,34.0,26.422,2.339,5.582
+23,ABT,Year 4,2015-12-31,20,8.0,6.785,1.405,0.601,Health Care,Health Care Equipment,78,34.0,26.422,2.339,5.582
+24,ADBE,Year 1,2013-11-29,4,0.0,2.140578,0.826631,0.052254,Information Technology,Application Software,17,0.0,9.039286,0.251861,3.509701
+25,ADBE,Year 2,2014-11-28,4,0.0,2.19564,0.844353,0.052424,Information Technology,Application Software,17,0.0,9.039286,0.251861,3.509701
+26,ADBE,Year 3,2015-11-27,4,0.0,2.215161,0.86273,0.068649,Information Technology,Application Software,17,0.0,9.039286,0.251861,3.509701
+27,ADBE,Year 4,2016-12-02,5,0.0,2.487907,0.975987,0.078534,Information Technology,Application Software,17,0.0,9.039286,0.251861,3.509701
+28,ADI,Year 1,2013-11-02,2,0.0,0.396233,0.513035,0.00022,Information Technology,Semiconductors,10,3.0,2.014991,0.18468099999999998,2.363996
+29,ADI,Year 2,2014-11-01,2,1.0,0.454676,0.559686,0.02602,Information Technology,Semiconductors,10,3.0,2.014991,0.18468099999999998,2.363996
+30,ADI,Year 3,2015-10-31,3,1.0,0.702644,0.637459,0.088318,Information Technology,Semiconductors,10,3.0,2.014991,0.18468099999999998,2.363996
+31,ADI,Year 4,2016-10-29,3,1.0,0.461438,0.653816,0.070123,Information Technology,Semiconductors,10,3.0,2.014991,0.18468099999999998,2.363996
+32,ADM,Year 1,2012-12-31,90,86.0,1.665,,,Consumer Staples,Agricultural Products,327,310.0,7.340999999999999,0.0,0.0
+33,ADM,Year 2,2013-12-31,89,85.0,1.759,,,Consumer Staples,Agricultural Products,327,310.0,7.340999999999999,0.0,0.0
+34,ADM,Year 3,2014-12-31,81,76.0,1.907,,,Consumer Staples,Agricultural Products,327,310.0,7.340999999999999,0.0,0.0
+35,ADM,Year 4,2015-12-31,67,63.0,2.01,,,Consumer Staples,Agricultural Products,327,310.0,7.340999999999999,0.0,0.0
+36,ADS,Year 1,2012-12-31,3,2.0,0.108059,,0.166876,Information Technology,Data Processing & Outsourced Services,18,11.0,0.667632,1.188217,0.0
+37,ADS,Year 2,2013-12-31,4,2.0,0.109115,,0.216119,Information Technology,Data Processing & Outsourced Services,18,11.0,0.667632,1.188217,0.0
+38,ADS,Year 3,2014-12-31,5,3.0,0.247412,,0.313082,Information Technology,Data Processing & Outsourced Services,18,11.0,0.667632,1.188217,0.0
+39,ADS,Year 4,2015-12-31,6,4.0,0.203046,,0.49214,Information Technology,Data Processing & Outsourced Services,18,11.0,0.667632,1.188217,0.0
+40,ADSK,Year 1,2013-01-31,2,0.0,1.0818,0.6,0.0421,Information Technology,Application Software,8,0.0,4.7264,0.1516,2.7263
+41,ADSK,Year 2,2014-01-31,2,0.0,1.0544,0.6111,0.0365,Information Technology,Application Software,8,0.0,4.7264,0.1516,2.7263
+42,ADSK,Year 3,2015-01-31,2,0.0,1.2813,0.7252,0.0398,Information Technology,Application Software,8,0.0,4.7264,0.1516,2.7263
+43,ADSK,Year 4,2016-01-31,2,0.0,1.3089,0.79,0.0332,Information Technology,Application Software,8,0.0,4.7264,0.1516,2.7263
+44,AEE,Year 1,2012-12-31,5,3.0,0.443,,0.673,Utilities,MultiUtilities,22,12.0,1.911,2.92,0.0
+45,AEE,Year 2,2013-12-31,5,3.0,0.458,,0.706,Utilities,MultiUtilities,22,12.0,1.911,2.92,0.0
+46,AEE,Year 3,2014-12-31,6,3.0,0.468,,0.745,Utilities,MultiUtilities,22,12.0,1.911,2.92,0.0
+47,AEE,Year 4,2015-12-31,6,3.0,0.542,,0.796,Utilities,MultiUtilities,22,12.0,1.911,2.92,0.0
+48,AEP,Year 1,2012-12-31,14,6.0,3.812,,1.782,Utilities,Electric Utilities,60,26.0,14.4862,7.4018,0.0
+49,AEP,Year 2,2013-12-31,14,6.0,3.3298,,1.7125,Utilities,Electric Utilities,60,26.0,14.4862,7.4018,0.0
+50,AEP,Year 3,2014-12-31,16,7.0,3.6679,,1.8976,Utilities,Electric Utilities,60,26.0,14.4862,7.4018,0.0
+51,AEP,Year 4,2015-12-31,16,7.0,3.6765,,2.0097,Utilities,Electric Utilities,60,26.0,14.4862,7.4018,0.0
+52,AFL,Year 1,2012-12-31,25,17.0,,,3.727,Financials,Life & Health Insurance,90,59.0,0.0,14.435,0.0
+53,AFL,Year 2,2013-12-31,23,15.0,,,3.489,Financials,Life & Health Insurance,90,59.0,0.0,14.435,0.0
+54,AFL,Year 3,2014-12-31,22,14.0,,,3.547,Financials,Life & Health Insurance,90,59.0,0.0,14.435,0.0
+55,AFL,Year 4,2015-12-31,20,13.0,,,3.672,Financials,Life & Health Insurance,90,59.0,0.0,14.435,0.0
+56,AIG,Year 1,2012-12-31,71,37.0,21.491,,,Financials,Property & Casualty Insurance,261,140.0,78.404,0.0,0.0
+57,AIG,Year 2,2013-12-31,68,34.0,22.005,,,Financials,Property & Casualty Insurance,261,140.0,78.404,0.0,0.0
+58,AIG,Year 3,2014-12-31,64,33.0,18.491,,,Financials,Property & Casualty Insurance,261,140.0,78.404,0.0,0.0
+59,AIG,Year 4,2015-12-31,58,36.0,16.417,,,Financials,Property & Casualty Insurance,261,140.0,78.404,0.0,0.0
+60,AIV,Year 1,2012-12-31,0,0.0,0.061732,,0.325173,Real Estate,REITs,0,0.0,0.224972,1.205992,0.0
+61,AIV,Year 2,2013-12-31,0,0.0,0.053073,,0.29191,Real Estate,REITs,0,0.0,0.224972,1.205992,0.0
+62,AIV,Year 3,2014-12-31,0,0.0,0.056621,,0.282608,Real Estate,REITs,0,0.0,0.224972,1.205992,0.0
+63,AIV,Year 4,2015-12-31,0,0.0,0.053546,,0.306301,Real Estate,REITs,0,0.0,0.224972,1.205992,0.0
+64,AIZ,Year 1,2013-12-31,9,6.0,,,1.470287,Financials,Multi-line Insurance,36,27.0,0.0,5.709732,0.0
+65,AIZ,Year 2,2014-12-31,10,8.0,,,1.485558,Financials,Multi-line Insurance,36,27.0,0.0,5.709732,0.0
+66,AIZ,Year 3,2015-12-31,10,8.0,,,1.402573,Financials,Multi-line Insurance,36,27.0,0.0,5.709732,0.0
+67,AIZ,Year 4,2016-12-31,7,5.0,,,1.351314,Financials,Multi-line Insurance,36,27.0,0.0,5.709732,0.0
+68,AKAM,Year 1,2012-12-31,1,0.0,0.433448,0.074744,0.020962,Information Technology,Internet Software & Services,5,0.0,2.5031790000000003,0.101633,0.4425
+69,AKAM,Year 2,2013-12-31,1,0.0,0.535598,0.093879,0.021547,Information Technology,Internet Software & Services,5,0.0,2.5031790000000003,0.101633,0.4425
+70,AKAM,Year 3,2014-12-31,1,0.0,0.70488,0.125286,0.032057,Information Technology,Internet Software & Services,5,0.0,2.5031790000000003,0.101633,0.4425
+71,AKAM,Year 4,2015-12-31,2,0.0,0.829253,0.148591,0.027067,Information Technology,Internet Software & Services,5,0.0,2.5031790000000003,0.101633,0.4425
+72,ALB,Year 1,2012-12-31,2,1.0,0.308456,0.078919,,Materials,Specialty Chemicals,9,5.0,1.334054,0.0,0.352346
+73,ALB,Year 2,2013-12-31,2,1.0,0.158189,0.082246,,Materials,Specialty Chemicals,9,5.0,1.334054,0.0,0.352346
+74,ALB,Year 3,2014-12-31,2,1.0,0.355135,0.08831,,Materials,Specialty Chemicals,9,5.0,1.334054,0.0,0.352346
+75,ALB,Year 4,2015-12-31,3,2.0,0.512274,0.102871,,Materials,Specialty Chemicals,9,5.0,1.334054,0.0,0.352346
+76,ALK,Year 1,2012-12-31,4,2.0,1.542,,0.264,Industrials,Airlines,19,7.0,7.0649999999999995,1.1480000000000001,0.0
+77,ALK,Year 2,2013-12-31,5,2.0,1.693,,0.27,Industrials,Airlines,19,7.0,7.0649999999999995,1.1480000000000001,0.0
+78,ALK,Year 3,2014-12-31,5,2.0,1.817,,0.294,Industrials,Airlines,19,7.0,7.0649999999999995,1.1480000000000001,0.0
+79,ALK,Year 4,2015-12-31,5,1.0,2.013,,0.32,Industrials,Airlines,19,7.0,7.0649999999999995,1.1480000000000001,0.0
+80,ALL,Year 1,2012-12-31,33,21.0,,,8.002,Financials,Property & Casualty Insurance,137,83.0,2.958,33.312,0.0
+81,ALL,Year 2,2013-12-31,34,19.0,1.278,,8.389,Financials,Property & Casualty Insurance,137,83.0,2.958,33.312,0.0
+82,ALL,Year 3,2014-12-31,35,21.0,0.919,,8.476,Financials,Property & Casualty Insurance,137,83.0,2.958,33.312,0.0
+83,ALL,Year 4,2015-12-31,35,22.0,0.761,,8.445,Financials,Property & Casualty Insurance,137,83.0,2.958,33.312,0.0
+84,ALLE,Year 1,2013-12-31,2,1.0,0.4831,,,Industrials,Building Products,8,4.0,2.0808,0.0,0.0
+85,ALLE,Year 2,2014-12-31,2,1.0,0.5274,,,Industrials,Building Products,8,4.0,2.0808,0.0,0.0
+86,ALLE,Year 3,2015-12-31,2,1.0,0.5105,,,Industrials,Building Products,8,4.0,2.0808,0.0,0.0
+87,ALLE,Year 4,2016-12-31,2,1.0,0.5598,,,Industrials,Building Products,8,4.0,2.0808,0.0,0.0
+88,ALXN,Year 1,2013-12-31,1,0.0,0.493726,0.317093,0.000417,Health Care,Biotechnology,8,0.0,3.060726,0.439417,2.2970930000000003
+89,ALXN,Year 2,2014-12-31,2,0.0,0.65,0.514,,Health Care,Biotechnology,8,0.0,3.060726,0.439417,2.2970930000000003
+90,ALXN,Year 3,2015-12-31,2,0.0,0.927,0.709,0.117,Health Care,Biotechnology,8,0.0,3.060726,0.439417,2.2970930000000003
+91,ALXN,Year 4,2016-12-31,3,0.0,0.99,0.757,0.322,Health Care,Biotechnology,8,0.0,3.060726,0.439417,2.2970930000000003
+92,AMAT,Year 1,2013-10-27,7,4.0,0.898,1.32,,Information Technology,Semiconductor Equipment,35,20.0,3.42,0.0,5.739
+93,AMAT,Year 2,2014-10-26,9,5.0,0.895,1.428,,Information Technology,Semiconductor Equipment,35,20.0,3.42,0.0,5.739
+94,AMAT,Year 3,2015-10-25,9,5.0,0.808,1.451,,Information Technology,Semiconductor Equipment,35,20.0,3.42,0.0,5.739
+95,AMAT,Year 4,2016-10-30,10,6.0,0.819,1.54,,Information Technology,Semiconductor Equipment,35,20.0,3.42,0.0,5.739
+96,AME,Year 1,2012-12-31,3,2.0,0.380532,,0.053677,Industrials,Electrical Components & Equipment,13,8.0,1.689938,0.243346,0.0
+97,AME,Year 2,2013-12-31,3,2.0,0.398177,,0.057238,Industrials,Electrical Components & Equipment,13,8.0,1.689938,0.243346,0.0
+98,AME,Year 3,2014-12-31,4,2.0,0.462637,,0.063724,Industrials,Electrical Components & Equipment,13,8.0,1.689938,0.243346,0.0
+99,AME,Year 4,2015-12-31,3,2.0,0.448592,,0.068707,Industrials,Electrical Components & Equipment,13,8.0,1.689938,0.243346,0.0
+100,AMGN,Year 1,2013-12-31,18,3.0,5.38,4.083,,Health Care,Biotechnology,81,15.0,20.622999999999998,0.0,16.29
+101,AMGN,Year 2,2014-12-31,20,4.0,5.153,4.297,,Health Care,Biotechnology,81,15.0,20.622999999999998,0.0,16.29
+102,AMGN,Year 3,2015-12-31,21,4.0,4.895,4.07,,Health Care,Biotechnology,81,15.0,20.622999999999998,0.0,16.29
+103,AMGN,Year 4,2016-12-31,22,4.0,5.195,3.84,,Health Care,Biotechnology,81,15.0,20.622999999999998,0.0,16.29
+104,AMP,Year 1,2012-12-31,10,1.0,3.927,,2.877,Financials,Asset Management & Custody Banks,45,5.0,15.347,13.242,0.0
+105,AMP,Year 2,2013-12-31,11,1.0,3.862,,3.132,Financials,Asset Management & Custody Banks,45,5.0,15.347,13.242,0.0
+106,AMP,Year 3,2014-12-31,12,1.0,3.808,,3.603,Financials,Asset Management & Custody Banks,45,5.0,15.347,13.242,0.0
+107,AMP,Year 4,2015-12-31,12,2.0,3.75,,3.63,Financials,Asset Management & Custody Banks,45,5.0,15.347,13.242,0.0
+108,AMT,Year 1,2012-12-31,2,0.0,0.389486,,0.644276,Real Estate,Specialized REITs,13,2.0,1.9561600000000001,3.7335510000000003,0.0
+109,AMT,Year 2,2013-12-31,3,0.0,0.487084,,0.800145,Real Estate,Specialized REITs,13,2.0,1.9561600000000001,3.7335510000000003,0.0
+110,AMT,Year 3,2014-12-31,4,1.0,0.515059,,1.003802,Real Estate,Specialized REITs,13,2.0,1.9561600000000001,3.7335510000000003,0.0
+111,AMT,Year 4,2015-12-31,4,1.0,0.564531,,1.285328,Real Estate,Specialized REITs,13,2.0,1.9561600000000001,3.7335510000000003,0.0
+112,AMZN,Year 1,2013-12-31,74,54.0,19.526,,,Consumer Discretionary,Internet & Direct Marketing Retail,404,275.0,122.242,0.0,0.0
+113,AMZN,Year 2,2014-12-31,88,62.0,26.058,,,Consumer Discretionary,Internet & Direct Marketing Retail,404,275.0,122.242,0.0,0.0
+114,AMZN,Year 3,2015-12-31,107,71.0,33.122,,,Consumer Discretionary,Internet & Direct Marketing Retail,404,275.0,122.242,0.0,0.0
+115,AMZN,Year 4,2016-12-31,135,88.0,43.536,,,Consumer Discretionary,Internet & Direct Marketing Retail,404,275.0,122.242,0.0,0.0
+116,AN,Year 1,2013-12-31,17,14.0,1.9243,,0.0953,Consumer Discretionary,Specialty Stores,77,65.0,8.511199999999999,0.473,0.0
+117,AN,Year 2,2014-12-31,19,16.0,2.061,,0.1069,Consumer Discretionary,Specialty Stores,77,65.0,8.511199999999999,0.473,0.0
+118,AN,Year 3,2015-12-31,20,17.0,2.2456,,0.1274,Consumer Discretionary,Specialty Stores,77,65.0,8.511199999999999,0.473,0.0
+119,AN,Year 4,2016-12-31,21,18.0,2.2803,,0.1434,Consumer Discretionary,Specialty Stores,77,65.0,8.511199999999999,0.473,0.0
+120,ANTM,Year 1,2012-12-31,61,48.0,8.6805,,0.233,Health Care,Managed Health Care,284,221.0,42.9166,0.9293,0.0
+121,ANTM,Year 2,2013-12-31,71,56.0,9.9529,,0.2453,Health Care,Managed Health Care,284,221.0,42.9166,0.9293,0.0
+122,ANTM,Year 3,2014-12-31,73,56.0,11.7484,,0.2209,Health Care,Managed Health Care,284,221.0,42.9166,0.9293,0.0
+123,ANTM,Year 4,2015-12-31,79,61.0,12.5348,,0.2301,Health Care,Managed Health Care,284,221.0,42.9166,0.9293,0.0
+124,APA,Year 1,2012-12-31,16,3.0,1.333,,6.881,Energy,Oil & Gas Exploration & Production,48,9.0,4.505,51.839,0.0
+125,APA,Year 2,2013-12-31,14,2.0,1.286,,5.866,Energy,Oil & Gas Exploration & Production,48,9.0,4.505,51.839,0.0
+126,APA,Year 3,2014-12-31,12,2.0,1.095,,9.72,Energy,Oil & Gas Exploration & Production,48,9.0,4.505,51.839,0.0
+127,APA,Year 4,2015-12-31,6,2.0,0.791,,29.372,Energy,Oil & Gas Exploration & Production,48,9.0,4.505,51.839,0.0
+128,APC,Year 1,2013-12-31,14,2.0,2.256,,3.927,Energy,Oil & Gas Exploration & Production,47,10.0,9.075,17.381,0.0
+129,APC,Year 2,2014-12-31,18,3.0,2.725,,4.55,Energy,Oil & Gas Exploration & Production,47,10.0,9.075,17.381,0.0
+130,APC,Year 3,2015-12-31,8,3.0,2.0,,4.603,Energy,Oil & Gas Exploration & Production,47,10.0,9.075,17.381,0.0
+131,APC,Year 4,2016-12-31,7,2.0,2.094,,4.301,Energy,Oil & Gas Exploration & Production,47,10.0,9.075,17.381,0.0
+132,APD,Year 1,2013-09-30,10,7.0,1.0186,0.1337,,Materials,Industrial Gases,38,26.0,3.7189,0.0,0.5426
+133,APD,Year 2,2014-09-30,10,7.0,1.0074,0.1398,,Materials,Industrial Gases,38,26.0,3.7189,0.0,0.5426
+134,APD,Year 3,2015-09-30,9,6.0,0.8953,0.1371,,Materials,Industrial Gases,38,26.0,3.7189,0.0,0.5426
+135,APD,Year 4,2016-09-30,9,6.0,0.7976,0.132,,Materials,Industrial Gases,38,26.0,3.7189,0.0,0.5426
+136,APH,Year 1,2012-12-31,4,2.0,0.5129,,,Information Technology,Electronic Components,18,11.0,2.3751,0.0,0.0
+137,APH,Year 2,2013-12-31,4,3.0,0.548,,,Information Technology,Electronic Components,18,11.0,2.3751,0.0,0.0
+138,APH,Year 3,2014-12-31,5,3.0,0.6451,,,Information Technology,Electronic Components,18,11.0,2.3751,0.0,0.0
+139,APH,Year 4,2015-12-31,5,3.0,0.6691,,,Information Technology,Electronic Components,18,11.0,2.3751,0.0,0.0
+140,ARNC,Year 1,2012-12-31,23,20.0,0.997,0.197,1.46,Industrials,Aerospace & Defense,91,76.0,3.979,5.532,0.845
+141,ARNC,Year 2,2013-12-31,23,19.0,1.008,0.192,1.421,Industrials,Aerospace & Defense,91,76.0,3.979,5.532,0.845
+142,ARNC,Year 3,2014-12-31,23,19.0,0.995,0.218,1.371,Industrials,Aerospace & Defense,91,76.0,3.979,5.532,0.845
+143,ARNC,Year 4,2015-12-31,22,18.0,0.979,0.238,1.28,Industrials,Aerospace & Defense,91,76.0,3.979,5.532,0.845
+144,ATVI,Year 1,2012-12-31,4,1.0,1.139,0.604,,Information Technology,Home Entertainment Software,16,4.0,4.478,0.0,2.405
+145,ATVI,Year 2,2013-12-31,4,1.0,1.096,0.584,,Information Technology,Home Entertainment Software,16,4.0,4.478,0.0,2.405
+146,ATVI,Year 3,2014-12-31,4,1.0,1.129,0.571,,Information Technology,Home Entertainment Software,16,4.0,4.478,0.0,2.405
+147,ATVI,Year 4,2015-12-31,4,1.0,1.114,0.646,,Information Technology,Home Entertainment Software,16,4.0,4.478,0.0,2.405
+148,AVGO,Year 1,2015-11-01,6,3.0,0.486,1.049,0.249,Information Technology,Semiconductors,19,10.0,1.292,2.122,3.723
+149,AVGO,Year 2,2016-10-30,13,7.0,0.806,2.674,1.873,Information Technology,Semiconductors,19,10.0,1.292,2.122,3.723
+150,AVY,Year 1,2012-12-31,5,4.0,1.1489,,,Materials,Paper Packaging,22,16.0,4.5901,0.0,0.0
+151,AVY,Year 2,2013-12-28,6,4.0,1.1742,,,Materials,Paper Packaging,22,16.0,4.5901,0.0,0.0
+152,AVY,Year 3,2015-01-03,6,4.0,1.1589,,,Materials,Paper Packaging,22,16.0,4.5901,0.0,0.0
+153,AVY,Year 4,2016-01-02,5,4.0,1.1081,,,Materials,Paper Packaging,22,16.0,4.5901,0.0,0.0
+154,AWK,Year 1,2012-12-31,2,1.0,0.220758,,0.380402,Utilities,Water Utilities,10,4.0,0.933758,1.651402,0.0
+155,AWK,Year 2,2013-12-31,2,1.0,0.234,,0.407,Utilities,Water Utilities,10,4.0,0.933758,1.651402,0.0
+156,AWK,Year 3,2014-12-31,3,1.0,0.236,,0.424,Utilities,Water Utilities,10,4.0,0.933758,1.651402,0.0
+157,AWK,Year 4,2015-12-31,3,1.0,0.243,,0.44,Utilities,Water Utilities,10,4.0,0.933758,1.651402,0.0
+158,AXP,Year 1,2012-12-31,33,0.0,23.392,,1.712,Financials,Consumer Finance,136,0.0,92.58699999999999,7.5760000000000005,0.0
+159,AXP,Year 2,2013-12-31,34,0.0,23.15,,1.832,Financials,Consumer Finance,136,0.0,92.58699999999999,7.5760000000000005,0.0
+160,AXP,Year 3,2014-12-31,35,0.0,23.153,,2.044,Financials,Consumer Finance,136,0.0,92.58699999999999,7.5760000000000005,0.0
+161,AXP,Year 4,2015-12-31,34,0.0,22.892,,1.988,Financials,Consumer Finance,136,0.0,92.58699999999999,7.5760000000000005,0.0
+162,AYI,Year 1,2013-08-31,2,1.0,0.6076,,,Industrials,Electrical Components & Equipment,9,4.0,2.9908,0.0,0.0
+163,AYI,Year 2,2014-08-31,2,1.0,0.6803,,,Industrials,Electrical Components & Equipment,9,4.0,2.9908,0.0,0.0
+164,AYI,Year 3,2015-08-31,2,1.0,0.7569,,,Industrials,Electrical Components & Equipment,9,4.0,2.9908,0.0,0.0
+165,AYI,Year 4,2016-08-31,3,1.0,0.946,,,Industrials,Electrical Components & Equipment,9,4.0,2.9908,0.0,0.0
+166,AZO,Year 1,2013-08-31,9,4.0,2.967837,,,Consumer Discretionary,Specialty Stores,38,17.0,12.994842,0.0,0.0
+167,AZO,Year 2,2014-08-30,9,4.0,3.104684,,,Consumer Discretionary,Specialty Stores,38,17.0,12.994842,0.0,0.0
+168,AZO,Year 3,2015-08-29,10,4.0,3.37398,,,Consumer Discretionary,Specialty Stores,38,17.0,12.994842,0.0,0.0
+169,AZO,Year 4,2016-08-27,10,5.0,3.548341,,,Consumer Discretionary,Specialty Stores,38,17.0,12.994842,0.0,0.0
+170,BA,Year 1,2013-12-31,86,73.0,3.742,3.071,,Industrials,Aerospace & Defense,366,311.0,13.786,0.0,14.076
+171,BA,Year 2,2014-12-31,90,76.0,3.48,3.047,,Industrials,Aerospace & Defense,366,311.0,13.786,0.0,14.076
+172,BA,Year 3,2015-12-31,96,82.0,3.251,3.331,,Industrials,Aerospace & Defense,366,311.0,13.786,0.0,14.076
+173,BA,Year 4,2016-12-31,94,80.0,3.313,4.627,,Industrials,Aerospace & Defense,366,311.0,13.786,0.0,14.076
+174,BAC,Year 1,2012-12-31,100,3.0,70.829,,9.433,Financials,Banks,389,10.0,269.496,21.281,0.0
+175,BAC,Year 2,2013-12-31,101,3.0,68.128,,4.642,Financials,Banks,389,10.0,269.496,21.281,0.0
+176,BAC,Year 3,2014-12-31,95,2.0,74.181,,3.211,Financials,Banks,389,10.0,269.496,21.281,0.0
+177,BAC,Year 4,2015-12-31,93,2.0,56.358,,3.995,Financials,Banks,389,10.0,269.496,21.281,0.0
+178,BAX,Year 1,2012-12-31,13,6.0,3.283,1.081,,Health Care,Health Care Equipment,41,22.0,12.776,0.0,2.876
+179,BAX,Year 2,2013-12-31,9,5.0,3.084,0.582,,Health Care,Health Care Equipment,41,22.0,12.776,0.0,2.876
+180,BAX,Year 3,2014-12-31,10,6.0,3.315,0.61,,Health Care,Health Care Equipment,41,22.0,12.776,0.0,2.876
+181,BAX,Year 4,2015-12-31,9,5.0,3.094,0.603,,Health Care,Health Care Equipment,41,22.0,12.776,0.0,2.876
+182,BBBY,Year 1,2013-03-02,10,6.0,2.750537,,,Consumer Discretionary,Specialty Stores,44,26.0,11.972425,0.0,0.0
+183,BBBY,Year 2,2014-03-01,11,6.0,2.950995,,,Consumer Discretionary,Specialty Stores,44,26.0,11.972425,0.0,0.0
+184,BBBY,Year 3,2015-02-28,11,7.0,3.065486,,,Consumer Discretionary,Specialty Stores,44,26.0,11.972425,0.0,0.0
+185,BBBY,Year 4,2016-02-27,12,7.0,3.205407,,,Consumer Discretionary,Specialty Stores,44,26.0,11.972425,0.0,0.0
+186,BBT,Year 1,2012-12-31,10,0.0,5.65,,1.167,Financials,Banks,39,0.0,22.986,2.74,0.0
+187,BBT,Year 2,2013-12-31,10,0.0,5.625,,0.698,Financials,Banks,39,0.0,22.986,2.74,0.0
+188,BBT,Year 3,2014-12-31,9,0.0,5.715,,0.342,Financials,Banks,39,0.0,22.986,2.74,0.0
+189,BBT,Year 4,2015-12-31,10,0.0,5.996,,0.533,Financials,Banks,39,0.0,22.986,2.74,0.0
+190,BBY,Year 1,2012-03-03,45,34.0,8.755,,,Consumer Discretionary,Computer & Electronics Retail,164,126.0,32.071,0.0,0.0
+191,BBY,Year 2,2014-02-01,40,31.0,8.106,,,Consumer Discretionary,Computer & Electronics Retail,164,126.0,32.071,0.0,0.0
+192,BBY,Year 3,2015-01-31,40,31.0,7.592,,,Consumer Discretionary,Computer & Electronics Retail,164,126.0,32.071,0.0,0.0
+193,BBY,Year 4,2016-01-30,39,30.0,7.618,,,Consumer Discretionary,Computer & Electronics Retail,164,126.0,32.071,0.0,0.0
+194,BCR,Year 1,2013-12-31,3,1.0,0.9203,0.2957,,Health Care,Health Care Equipment,12,4.0,4.0158000000000005,0.0,1.1497
+195,BCR,Year 2,2014-12-31,3,1.0,0.9815,0.302,,Health Care,Health Care Equipment,12,4.0,4.0158000000000005,0.0,1.1497
+196,BCR,Year 3,2015-12-31,3,1.0,1.0121,0.2592,,Health Care,Health Care Equipment,12,4.0,4.0158000000000005,0.0,1.1497
+197,BCR,Year 4,2016-12-31,3,1.0,1.1019,0.2928,,Health Care,Health Care Equipment,12,4.0,4.0158000000000005,0.0,1.1497
+198,BDX,Year 1,2013-09-30,8,3.0,2.422,0.494,,Health Care,Health Care Equipment,38,18.0,10.135,0.0,2.504
+199,BDX,Year 2,2014-09-30,8,4.0,2.145,0.55,,Health Care,Health Care Equipment,38,18.0,10.135,0.0,2.504
+200,BDX,Year 3,2015-09-30,10,5.0,2.563,0.632,,Health Care,Health Care Equipment,38,18.0,10.135,0.0,2.504
+201,BDX,Year 4,2016-09-30,12,6.0,3.005,0.828,,Health Care,Health Care Equipment,38,18.0,10.135,0.0,2.504
+202,BHI,Year 1,2013-12-31,22,18.0,1.306,0.556,,Energy,Oil & Gas Equipment & Services,70,60.0,4.423,0.0,2.019
+203,BHI,Year 2,2014-12-31,24,19.0,1.333,0.613,,Energy,Oil & Gas Equipment & Services,70,60.0,4.423,0.0,2.019
+204,BHI,Year 3,2015-12-31,15,14.0,0.969,0.466,,Energy,Oil & Gas Equipment & Services,70,60.0,4.423,0.0,2.019
+205,BHI,Year 4,2016-12-31,9,9.0,0.815,0.384,,Energy,Oil & Gas Equipment & Services,70,60.0,4.423,0.0,2.019
+206,BIIB,Year 1,2013-12-31,6,0.0,1.797,1.4441,0.3429,Health Care,Biotechnology,36,3.0,8.1069,1.6009,7.3236
+207,BIIB,Year 2,2014-12-31,9,1.0,2.1934,1.8934,0.4898,Health Care,Biotechnology,36,3.0,8.1069,1.6009,7.3236
+208,BIIB,Year 3,2015-12-31,10,1.0,2.1436,2.0128,0.3826,Health Care,Biotechnology,36,3.0,8.1069,1.6009,7.3236
+209,BIIB,Year 4,2016-12-31,11,1.0,1.9729,1.9733,0.3856,Health Care,Biotechnology,36,3.0,8.1069,1.6009,7.3236
+210,BLL,Year 1,2012-12-31,8,7.0,0.4883,,0.2829,Materials,Metal & Glass Containers,31,25.0,2.1787,1.1492,0.0
+211,BLL,Year 2,2013-12-31,8,6.0,0.4974,,0.2999,Materials,Metal & Glass Containers,31,25.0,2.1787,1.1492,0.0
+212,BLL,Year 3,2014-12-31,8,6.0,0.547,,0.2809,Materials,Metal & Glass Containers,31,25.0,2.1787,1.1492,0.0
+213,BLL,Year 4,2015-12-31,7,6.0,0.646,,0.2855,Materials,Metal & Glass Containers,31,25.0,2.1787,1.1492,0.0
+214,BMY,Year 1,2012-12-31,17,4.0,5.017,3.904,,Health Care,Health Care Distributors,64,14.0,19.619,0.0,18.089
+215,BMY,Year 2,2013-12-31,16,4.0,4.939,3.731,,Health Care,Health Care Distributors,64,14.0,19.619,0.0,18.089
+216,BMY,Year 3,2014-12-31,15,3.0,4.822,4.534,,Health Care,Health Care Distributors,64,14.0,19.619,0.0,18.089
+217,BMY,Year 4,2015-12-31,16,3.0,4.841,5.92,,Health Care,Health Care Distributors,64,14.0,19.619,0.0,18.089
+218,BSX,Year 1,2012-12-31,7,2.0,2.529,0.886,0.395,Health Care,Health Care Equipment,28,8.0,11.02,1.738,3.44
+219,BSX,Year 2,2013-12-31,7,2.0,2.678,0.861,0.41,Health Care,Health Care Equipment,28,8.0,11.02,1.738,3.44
+220,BSX,Year 3,2014-12-31,7,2.0,2.817,0.817,0.438,Health Care,Health Care Equipment,28,8.0,11.02,1.738,3.44
+221,BSX,Year 4,2015-12-31,7,2.0,2.996,0.876,0.495,Health Care,Health Care Equipment,28,8.0,11.02,1.738,3.44
+222,BWA,Year 1,2013-12-31,7,5.0,0.7023,,,Consumer Discretionary,Auto Parts & Equipment,32,24.0,3.9656000000000002,0.0,0.0
+223,BWA,Year 2,2014-12-31,8,6.0,0.7927,,,Consumer Discretionary,Auto Parts & Equipment,32,24.0,3.9656000000000002,0.0,0.0
+224,BWA,Year 3,2015-12-31,8,6.0,0.7634,,,Consumer Discretionary,Auto Parts & Equipment,32,24.0,3.9656000000000002,0.0,0.0
+225,BWA,Year 4,2016-12-31,9,7.0,1.7072,,,Consumer Discretionary,Auto Parts & Equipment,32,24.0,3.9656000000000002,0.0,0.0
+226,BXP,Year 1,2012-12-31,1,0.0,0.093782,,0.445875,Real Estate,REITs,7,0.0,0.41051,2.274627,0.0
+227,BXP,Year 2,2013-12-31,2,0.0,0.117073,,0.560637,Real Estate,REITs,7,0.0,0.41051,2.274627,0.0
+228,BXP,Year 3,2014-12-31,2,0.0,0.102077,,0.628573,Real Estate,REITs,7,0.0,0.41051,2.274627,0.0
+229,BXP,Year 4,2015-12-31,2,0.0,0.097578,,0.639542,Real Estate,REITs,7,0.0,0.41051,2.274627,0.0
+230,CAG,Year 1,2013-05-26,13,10.0,2.0659,,,Consumer Staples,Packaged Foods & Meats,46,35.0,7.5995,0.0,0.0
+231,CAG,Year 2,2014-05-25,11,8.0,1.7789,,,Consumer Staples,Packaged Foods & Meats,46,35.0,7.5995,0.0,0.0
+232,CAG,Year 3,2015-05-31,11,9.0,1.5453,,,Consumer Staples,Packaged Foods & Meats,46,35.0,7.5995,0.0,0.0
+233,CAG,Year 4,2016-05-29,11,8.0,2.2094,,,Consumer Staples,Packaged Foods & Meats,46,35.0,7.5995,0.0,0.0
+234,CAH,Year 1,2013-06-30,101,96.0,2.875,,0.158,Health Care,Health Care Distributors,415,392.0,12.791,1.121,0.0
+235,CAH,Year 2,2014-06-30,91,85.0,3.028,,0.223,Health Care,Health Care Distributors,415,392.0,12.791,1.121,0.0
+236,CAH,Year 3,2015-06-30,102,96.0,3.24,,0.281,Health Care,Health Care Distributors,415,392.0,12.791,1.121,0.0
+237,CAH,Year 4,2016-06-30,121,115.0,3.648,,0.459,Health Care,Health Care Distributors,415,392.0,12.791,1.121,0.0
+238,CAT,Year 1,2013-12-31,55,41.0,6.528,2.046,,Industrials,Construction & Farm Machinery & Heavy Trucks,195,144.0,28.238,0.0,8.496
+239,CAT,Year 2,2014-12-31,55,41.0,8.148,2.38,,Industrials,Construction & Farm Machinery & Heavy Trucks,195,144.0,28.238,0.0,8.496
+240,CAT,Year 3,2015-12-31,47,34.0,6.974,2.119,,Industrials,Construction & Farm Machinery & Heavy Trucks,195,144.0,28.238,0.0,8.496
+241,CAT,Year 4,2016-12-31,38,28.0,6.588,1.951,,Industrials,Construction & Farm Machinery & Heavy Trucks,195,144.0,28.238,0.0,8.496
+242,CB,Year 1,2012-12-31,17,12.0,2.096,,-0.006,Financials,Property & Casualty Insurance,73,49.0,8.822,0.046999999999999986,0.0
+243,CB,Year 2,2013-12-31,19,12.0,2.211,,0.015,Financials,Property & Casualty Insurance,73,49.0,8.822,0.046999999999999986,0.0
+244,CB,Year 3,2014-12-31,19,13.0,2.245,,-0.082,Financials,Property & Casualty Insurance,73,49.0,8.822,0.046999999999999986,0.0
+245,CB,Year 4,2015-12-31,18,12.0,2.27,,0.12,Financials,Property & Casualty Insurance,73,49.0,8.822,0.046999999999999986,0.0
+246,CBG,Year 1,2012-12-31,6,5.0,,,0.169645,Real Estate,Real Estate Services,32,28.0,0.0,0.939232,0.0
+247,CBG,Year 2,2013-12-31,7,6.0,,,0.19039,Real Estate,Real Estate Services,32,28.0,0.0,0.939232,0.0
+248,CBG,Year 3,2014-12-31,9,8.0,,,0.265101,Real Estate,Real Estate Services,32,28.0,0.0,0.939232,0.0
+249,CBG,Year 4,2015-12-31,10,9.0,,,0.314096,Real Estate,Real Estate Services,32,28.0,0.0,0.939232,0.0
+250,CCI,Year 1,2012-12-31,2,0.0,0.212572,,0.622592,Real Estate,REITs,10,2.0,0.994308,3.3858930000000003,0.0
+251,CCI,Year 2,2013-12-31,2,0.0,0.213519,,0.741342,Real Estate,REITs,10,2.0,0.994308,3.3858930000000003,0.0
+252,CCI,Year 3,2014-12-31,3,1.0,0.257296,,0.985781,Real Estate,REITs,10,2.0,0.994308,3.3858930000000003,0.0
+253,CCI,Year 4,2015-12-31,3,1.0,0.310921,,1.036178,Real Estate,REITs,10,2.0,0.994308,3.3858930000000003,0.0
+254,CCL,Year 1,2013-11-30,15,10.0,1.879,,1.59,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",61,38.0,8.197,6.591,0.0
+255,CCL,Year 2,2014-11-30,15,10.0,2.054,,1.637,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",61,38.0,8.197,6.591,0.0
+256,CCL,Year 3,2015-11-30,15,9.0,2.067,,1.626,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",61,38.0,8.197,6.591,0.0
+257,CCL,Year 4,2016-11-30,16,9.0,2.197,,1.738,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",61,38.0,8.197,6.591,0.0
+258,CELG,Year 1,2013-12-31,6,0.0,1.6845,2.2262,0.2628,Health Care,Biotechnology,33,0.0,8.6755,1.2591,12.824200000000001
+259,CELG,Year 2,2014-12-31,7,0.0,2.0279,2.4306,0.2583,Health Care,Biotechnology,33,0.0,8.6755,1.2591,12.824200000000001
+260,CELG,Year 3,2015-12-31,9,0.0,2.3054,3.6973,0.279,Health Care,Biotechnology,33,0.0,8.6755,1.2591,12.824200000000001
+261,CELG,Year 4,2016-12-31,11,0.0,2.6577,4.4701,0.459,Health Care,Biotechnology,33,0.0,8.6755,1.2591,12.824200000000001
+262,CERN,Year 1,2013-12-28,2,0.0,1.468434,0.338786,0.012794,Health Care,Health Care Technology,13,0.0,7.823798999999999,0.208343,1.822808
+263,CERN,Year 2,2015-01-03,3,0.0,1.628961,0.392805,0.013476,Health Care,Health Care Technology,13,0.0,7.823798999999999,0.208343,1.822808
+264,CERN,Year 3,2016-01-02,4,0.0,2.262024,0.539799,0.091527,Health Care,Health Care Technology,13,0.0,7.823798999999999,0.208343,1.822808
+265,CERN,Year 4,2016-12-31,4,0.0,2.46438,0.551418,0.090546,Health Care,Health Care Technology,13,0.0,7.823798999999999,0.208343,1.822808
+266,CF,Year 1,2012-12-31,6,2.0,0.2009,,,Materials,Fertilizers & Agricultural Chemicals,19,8.0,0.8753,0.0,0.0
+267,CF,Year 2,2013-12-31,5,2.0,0.1502,,,Materials,Fertilizers & Agricultural Chemicals,19,8.0,0.8753,0.0,0.0
+268,CF,Year 3,2014-12-31,4,2.0,0.2052,,,Materials,Fertilizers & Agricultural Chemicals,19,8.0,0.8753,0.0,0.0
+269,CF,Year 4,2015-12-31,4,2.0,0.319,,,Materials,Fertilizers & Agricultural Chemicals,19,8.0,0.8753,0.0,0.0
+270,CFG,Year 1,2012-12-31,5,0.0,3.38,,0.49,Financials,Regional Banks,20,0.0,12.882,1.983,0.0
+271,CFG,Year 2,2013-12-31,5,0.0,3.142,,0.581,Financials,Regional Banks,20,0.0,12.882,1.983,0.0
+272,CFG,Year 3,2014-12-31,5,0.0,3.247,,0.464,Financials,Regional Banks,20,0.0,12.882,1.983,0.0
+273,CFG,Year 4,2015-12-31,5,0.0,3.113,,0.448,Financials,Regional Banks,20,0.0,12.882,1.983,0.0
+274,CHD,Year 1,2012-12-31,2,1.0,0.7463,,,Consumer Staples,Household Products,11,4.0,3.2114,0.0,0.0
+275,CHD,Year 2,2013-12-31,3,1.0,0.8158,,,Consumer Staples,Household Products,11,4.0,3.2114,0.0,0.0
+276,CHD,Year 3,2014-12-31,3,1.0,0.8117,,,Consumer Staples,Household Products,11,4.0,3.2114,0.0,0.0
+277,CHD,Year 4,2015-12-31,3,1.0,0.8376,,,Consumer Staples,Household Products,11,4.0,3.2114,0.0,0.0
+278,CHK,Year 1,2012-12-31,12,7.0,0.723,,2.811,Energy,Integrated Oil & Gas,66,45.0,2.297,10.858,0.0
+279,CHK,Year 2,2013-12-31,19,12.0,0.686,,2.903,Energy,Integrated Oil & Gas,66,45.0,2.297,10.858,0.0
+280,CHK,Year 3,2014-12-31,23,16.0,0.554,,2.915,Energy,Integrated Oil & Gas,66,45.0,2.297,10.858,0.0
+281,CHK,Year 4,2015-12-31,12,10.0,0.334,,2.229,Energy,Integrated Oil & Gas,66,45.0,2.297,10.858,0.0
+282,CHRW,Year 1,2012-12-31,11,9.0,1.042251,,,Industrials,Air Freight & Logistics,49,41.0,4.8651,0.0,0.0
+283,CHRW,Year 2,2013-12-31,12,10.0,1.153445,,,Industrials,Air Freight & Logistics,49,41.0,4.8651,0.0,0.0
+284,CHRW,Year 3,2014-12-31,13,11.0,1.259234,,,Industrials,Air Freight & Logistics,49,41.0,4.8651,0.0,0.0
+285,CHRW,Year 4,2015-12-31,13,11.0,1.41017,,,Industrials,Air Freight & Logistics,49,41.0,4.8651,0.0,0.0
+286,CHTR,Year 1,2013-12-31,8,5.0,0.047,,1.854,Consumer Discretionary,Cable & Satellite,55,34.0,0.284,12.988,0.0
+287,CHTR,Year 2,2014-12-31,9,5.0,0.062,,2.102,Consumer Discretionary,Cable & Satellite,55,34.0,0.284,12.988,0.0
+288,CHTR,Year 3,2015-12-31,9,6.0,0.089,,2.125,Consumer Discretionary,Cable & Satellite,55,34.0,0.284,12.988,0.0
+289,CHTR,Year 4,2016-12-31,29,18.0,0.086,,6.907,Consumer Discretionary,Cable & Satellite,55,34.0,0.284,12.988,0.0
+290,CI,Year 1,2012-12-31,29,17.0,,,8.742,Health Care,Managed Health Care,132,81.0,0.0,39.616,0.0
+291,CI,Year 2,2013-12-31,32,20.0,,,9.339,Health Care,Managed Health Care,132,81.0,0.0,39.616,0.0
+292,CI,Year 3,2014-12-31,34,21.0,,,10.276,Health Care,Managed Health Care,132,81.0,0.0,39.616,0.0
+293,CI,Year 4,2015-12-31,37,23.0,,,11.259,Health Care,Managed Health Care,132,81.0,0.0,39.616,0.0
+294,CINF,Year 1,2012-12-31,4,3.0,,,0.014,Financials,Property & Casualty Insurance,17,14.0,0.0,0.056,0.0
+295,CINF,Year 2,2013-12-31,4,3.0,,,0.015,Financials,Property & Casualty Insurance,17,14.0,0.0,0.056,0.0
+296,CINF,Year 3,2014-12-31,4,4.0,,,0.014,Financials,Property & Casualty Insurance,17,14.0,0.0,0.056,0.0
+297,CINF,Year 4,2015-12-31,5,4.0,,,0.013,Financials,Property & Casualty Insurance,17,14.0,0.0,0.056,0.0
+298,CL,Year 1,2012-12-31,17,7.0,6.043,,,Consumer Staples,Household Products,67,27.0,25.85,0.0,0.0
+299,CL,Year 2,2013-12-31,17,7.0,6.645,,,Consumer Staples,Household Products,67,27.0,25.85,0.0,0.0
+300,CL,Year 3,2014-12-31,17,7.0,6.552,,,Consumer Staples,Household Products,67,27.0,25.85,0.0,0.0
+301,CL,Year 4,2015-12-31,16,6.0,6.61,,,Consumer Staples,Household Products,67,27.0,25.85,0.0,0.0
+302,CLX,Year 1,2013-06-30,5,3.0,1.291,0.13,,Consumer Staples,Household Products,20,12.0,5.259,0.0,0.532
+303,CLX,Year 2,2014-06-30,5,3.0,1.254,0.125,,Consumer Staples,Household Products,20,12.0,5.259,0.0,0.532
+304,CLX,Year 3,2015-06-30,5,3.0,1.321,0.136,,Consumer Staples,Household Products,20,12.0,5.259,0.0,0.532
+305,CLX,Year 4,2016-06-30,5,3.0,1.393,0.141,,Consumer Staples,Household Products,20,12.0,5.259,0.0,0.532
+306,CMA,Year 1,2013-12-31,2,0.0,1.67,,0.046,Financials,Regional Banks,8,0.0,6.976,0.46799999999999997,0.0
+307,CMA,Year 2,2014-12-31,2,0.0,1.611,,0.027,Financials,Regional Banks,8,0.0,6.976,0.46799999999999997,0.0
+308,CMA,Year 3,2015-12-31,2,0.0,1.859,,0.147,Financials,Regional Banks,8,0.0,6.976,0.46799999999999997,0.0
+309,CMA,Year 4,2016-12-31,2,0.0,1.836,,0.248,Financials,Regional Banks,8,0.0,6.976,0.46799999999999997,0.0
+310,CMG,Year 1,2013-12-31,3,2.0,0.203733,,0.096054,Consumer Discretionary,Restaurants,14,10.0,1.004084,0.483264,0.0
+311,CMG,Year 2,2014-12-31,4,2.0,0.273897,,0.110474,Consumer Discretionary,Restaurants,14,10.0,1.004084,0.483264,0.0
+312,CMG,Year 3,2015-12-31,4,3.0,0.250214,,0.130368,Consumer Discretionary,Restaurants,14,10.0,1.004084,0.483264,0.0
+313,CMG,Year 4,2016-12-31,3,3.0,0.27624,,0.146368,Consumer Discretionary,Restaurants,14,10.0,1.004084,0.483264,0.0
+314,CMI,Year 1,2013-12-31,17,13.0,1.827,0.713,,Industrials,Industrial Machinery,72,54.0,8.297,0.0,2.838
+315,CMI,Year 2,2014-12-31,19,14.0,2.112,0.754,,Industrials,Industrial Machinery,72,54.0,8.297,0.0,2.838
+316,CMI,Year 3,2015-12-31,19,14.0,2.169,0.735,,Industrials,Industrial Machinery,72,54.0,8.297,0.0,2.838
+317,CMI,Year 4,2016-12-31,17,13.0,2.189,0.636,,Industrials,Industrial Machinery,72,54.0,8.297,0.0,2.838
+318,CMS,Year 1,2013-12-31,6,4.0,0.234,,0.628,Utilities,MultiUtilities,25,17.0,1.029,2.874,0.0
+319,CMS,Year 2,2014-12-31,7,5.0,0.252,,0.685,Utilities,MultiUtilities,25,17.0,1.029,2.874,0.0
+320,CMS,Year 3,2015-12-31,6,4.0,0.262,,0.75,Utilities,MultiUtilities,25,17.0,1.029,2.874,0.0
+321,CMS,Year 4,2016-12-31,6,4.0,0.281,,0.811,Utilities,MultiUtilities,25,17.0,1.029,2.874,0.0
+322,CNC,Year 1,2012-12-31,8,6.0,1.105,,0.088,Health Care,Managed Health Care,56,43.0,7.3580000000000005,3.657,0.0
+323,CNC,Year 2,2013-12-31,10,8.0,1.264,,0.327,Health Care,Managed Health Care,56,43.0,7.3580000000000005,3.657,0.0
+324,CNC,Year 3,2014-12-31,16,12.0,2.012,,1.406,Health Care,Managed Health Care,56,43.0,7.3580000000000005,3.657,0.0
+325,CNC,Year 4,2015-12-31,22,17.0,2.977,,1.836,Health Care,Managed Health Care,56,43.0,7.3580000000000005,3.657,0.0
+326,CNP,Year 1,2012-12-31,7,4.0,0.365,,1.05,Utilities,MultiUtilities,31,20.0,1.514,3.987,0.0
+327,CNP,Year 2,2013-12-31,8,5.0,0.387,,0.954,Utilities,MultiUtilities,31,20.0,1.514,3.987,0.0
+328,CNP,Year 3,2014-12-31,9,6.0,0.388,,1.013,Utilities,MultiUtilities,31,20.0,1.514,3.987,0.0
+329,CNP,Year 4,2015-12-31,7,5.0,0.374,,0.97,Utilities,MultiUtilities,31,20.0,1.514,3.987,0.0
+330,COF,Year 1,2012-12-31,23,1.0,11.188,,5.024,Financials,Consumer Finance,95,4.0,47.084,18.187,0.0
+331,COF,Year 2,2013-12-31,24,1.0,11.682,,4.124,Financials,Consumer Finance,95,4.0,47.084,18.187,0.0
+332,COF,Year 3,2014-12-31,23,1.0,11.648,,4.073,Financials,Consumer Finance,95,4.0,47.084,18.187,0.0
+333,COF,Year 4,2015-12-31,25,1.0,12.566,,4.966,Financials,Consumer Finance,95,4.0,47.084,18.187,0.0
+334,COG,Year 1,2012-12-31,1,0.0,0.170113,,0.451405,Energy,Oil & Gas Exploration & Production,5,0.0,0.559619,2.357428,0.0
+335,COG,Year 2,2013-12-31,1,0.0,0.147651,,0.651052,Energy,Oil & Gas Exploration & Production,5,0.0,0.559619,2.357428,0.0
+336,COG,Year 3,2014-12-31,2,0.0,0.129602,,0.63276,Energy,Oil & Gas Exploration & Production,5,0.0,0.559619,2.357428,0.0
+337,COG,Year 4,2015-12-31,1,0.0,0.112253,,0.622211,Energy,Oil & Gas Exploration & Production,5,0.0,0.559619,2.357428,0.0
+338,COL,Year 1,2013-09-30,4,3.0,0.495,,,Industrials,Industrial Conglomerates,18,12.0,2.333,0.0,0.0
+339,COL,Year 2,2014-09-30,4,3.0,0.594,,,Industrials,Industrial Conglomerates,18,12.0,2.333,0.0,0.0
+340,COL,Year 3,2015-09-30,5,3.0,0.606,,,Industrials,Industrial Conglomerates,18,12.0,2.333,0.0,0.0
+341,COL,Year 4,2016-09-30,5,3.0,0.638,,,Industrials,Industrial Conglomerates,18,12.0,2.333,0.0,0.0
+342,COO,Year 1,2013-10-31,1,0.0,0.610735,0.058827,0.030239,Health Care,Health Care Supplies,4,0.0,2.729191,0.178198,0.260086
+343,COO,Year 2,2014-10-31,1,0.0,0.683115,0.066259,0.03571,Health Care,Health Care Supplies,4,0.0,2.729191,0.178198,0.260086
+344,COO,Year 3,2015-10-31,1,0.0,0.712543,0.069589,0.051459,Health Care,Health Care Supplies,4,0.0,2.729191,0.178198,0.260086
+345,COO,Year 4,2016-10-31,1,0.0,0.722798,0.065411,0.06079,Health Care,Health Care Supplies,4,0.0,2.729191,0.178198,0.260086
+346,COST,Year 1,2013-09-01,105,91.0,10.104,,,Consumer Staples,Hypermarkets & Super Centers,451,392.0,44.516,0.0,0.0
+347,COST,Year 2,2014-08-31,112,98.0,10.899,,,Consumer Staples,Hypermarkets & Super Centers,451,392.0,44.516,0.0,0.0
+348,COST,Year 3,2015-08-30,116,101.0,11.445,,,Consumer Staples,Hypermarkets & Super Centers,451,392.0,44.516,0.0,0.0
+349,COST,Year 4,2016-08-28,118,102.0,12.068,,,Consumer Staples,Hypermarkets & Super Centers,451,392.0,44.516,0.0,0.0
+350,COTY,Year 1,2003-06-30,0,0.0,0.00241,6.5e-05,,Consumer Staples,Personal Products,0,0.0,0.047562,0.000163,9.499999999999999e-05
+351,COTY,Year 2,2004-06-30,0,0.0,0.00394,3e-05,0.000163,Consumer Staples,Personal Products,0,0.0,0.047562,0.000163,9.499999999999999e-05
+352,COTY,Year 3,2006-02-28,0,0.0,0.015359,,,Consumer Staples,Personal Products,0,0.0,0.047562,0.000163,9.499999999999999e-05
+353,COTY,Year 4,2007-02-28,0,0.0,0.025853,,,Consumer Staples,Personal Products,0,0.0,0.047562,0.000163,9.499999999999999e-05
+354,CPB,Year 1,2013-07-28,8,5.0,1.653,0.128,,Consumer Staples,Packaged Foods & Meats,31,20.0,6.354,0.0,0.491
+355,CPB,Year 2,2014-08-03,8,5.0,1.527,0.122,,Consumer Staples,Packaged Foods & Meats,31,20.0,6.354,0.0,0.491
+356,CPB,Year 3,2015-08-02,8,5.0,1.509,0.117,,Consumer Staples,Packaged Foods & Meats,31,20.0,6.354,0.0,0.491
+357,CPB,Year 4,2016-07-31,7,5.0,1.665,0.124,,Consumer Staples,Packaged Foods & Meats,31,20.0,6.354,0.0,0.491
+358,CRM,Year 1,2013-01-31,3,0.0,2.047847,0.429479,,Information Technology,Internet Software & Services,18,2.0,12.201175,0.0,2.792494
+359,CRM,Year 2,2014-01-31,4,0.0,2.764851,0.623798,,Information Technology,Internet Software & Services,18,2.0,12.201175,0.0,2.792494
+360,CRM,Year 3,2015-01-31,5,1.0,3.437032,0.792917,,Information Technology,Internet Software & Services,18,2.0,12.201175,0.0,2.792494
+361,CRM,Year 4,2016-01-31,6,1.0,3.951445,0.9463,,Information Technology,Internet Software & Services,18,2.0,12.201175,0.0,2.792494
+362,CSCO,Year 1,2013-07-27,48,19.0,11.802,5.942,0.395,Information Technology,Networking Equipment,193,75.0,46.533,1.332,24.739
+363,CSCO,Year 2,2014-07-26,47,19.0,11.437,6.294,0.275,Information Technology,Networking Equipment,193,75.0,46.533,1.332,24.739
+364,CSCO,Year 3,2015-07-25,49,19.0,11.861,6.207,0.359,Information Technology,Networking Equipment,193,75.0,46.533,1.332,24.739
+365,CSCO,Year 4,2016-07-30,49,18.0,11.433,6.296,0.303,Information Technology,Networking Equipment,193,75.0,46.533,1.332,24.739
+366,CSRA,Year 1,2015-04-03,4,3.0,0.194207,,0.137058,Information Technology,IT Consulting & Other Services,8,6.0,0.381451,0.31930000000000003,0.0
+367,CSRA,Year 2,2016-04-01,4,3.0,0.187244,,0.182242,Information Technology,IT Consulting & Other Services,8,6.0,0.381451,0.31930000000000003,0.0
+368,DFS,Year 3,2014-12-31,9,0.0,3.34,,1.443,Financials,Consumer Finance,36,0.0,13.201,4.889,0.0
+369,DFS,Year 1,2012-11-30,8,0.0,3.052,,0.848,Financials,Consumer Finance,36,0.0,13.201,4.889,0.0
+370,DFS,Year 2,2013-12-31,9,0.0,3.194,,1.086,Financials,Consumer Finance,36,0.0,13.201,4.889,0.0
+371,DFS,Year 4,2015-12-31,10,0.0,3.615,,1.512,Financials,Consumer Finance,36,0.0,13.201,4.889,0.0
+372,CSX,Year 1,2013-12-31,12,3.0,3.518,,1.104,Industrials,Railroads,46,12.0,14.646,4.764,0.0
+373,CSX,Year 2,2014-12-26,12,4.0,3.805,,1.151,Industrials,Railroads,46,12.0,14.646,4.764,0.0
+374,CSX,Year 3,2015-12-25,11,3.0,3.726,,1.208,Industrials,Railroads,46,12.0,14.646,4.764,0.0
+375,CSX,Year 4,2016-12-30,11,2.0,3.597,,1.301,Industrials,Railroads,46,12.0,14.646,4.764,0.0
+376,CTAS,Year 1,2013-05-31,4,2.0,1.187331,,,Industrials,Diversified Support Services,16,8.0,4.907422,0.0,0.0
+377,CTAS,Year 2,2014-05-31,4,2.0,1.147039,,,Industrials,Diversified Support Services,16,8.0,4.907422,0.0,0.0
+378,CTAS,Year 3,2015-05-31,4,2.0,1.22493,,,Industrials,Diversified Support Services,16,8.0,4.907422,0.0,0.0
+379,CTAS,Year 4,2016-05-31,4,2.0,1.348122,,,Industrials,Diversified Support Services,16,8.0,4.907422,0.0,0.0
+380,CTL,Year 1,2012-12-31,18,7.0,3.244,,4.78,Telecommunications Services,Integrated Telecommunications Services,71,28.0,13.421,17.938000000000002,0.0
+381,CTL,Year 2,2013-12-31,18,7.0,3.502,,4.541,Telecommunications Services,Integrated Telecommunications Services,71,28.0,13.421,17.938000000000002,0.0
+382,CTL,Year 3,2014-12-31,18,7.0,3.347,,4.428,Telecommunications Services,Integrated Telecommunications Services,71,28.0,13.421,17.938000000000002,0.0
+383,CTL,Year 4,2015-12-31,17,7.0,3.328,,4.189,Telecommunications Services,Integrated Telecommunications Services,71,28.0,13.421,17.938000000000002,0.0
+384,CTSH,Year 1,2012-12-31,7,4.0,1.557646,,0.149089,Information Technology,IT Consulting & Other Services,37,22.0,7.830845999999999,0.846189,0.0
+385,CTSH,Year 2,2013-12-31,8,5.0,1.7276,,0.1722,Information Technology,IT Consulting & Other Services,37,22.0,7.830845999999999,0.846189,0.0
+386,CTSH,Year 3,2014-12-31,10,6.0,2.037,,0.1997,Information Technology,IT Consulting & Other Services,37,22.0,7.830845999999999,0.846189,0.0
+387,CTSH,Year 4,2015-12-31,12,7.0,2.5086,,0.3252,Information Technology,IT Consulting & Other Services,37,22.0,7.830845999999999,0.846189,0.0
+388,CTXS,Year 1,2013-12-31,2,0.0,1.476916,0.516338,0.041668,Information Technology,Internet Software & Services,11,0.0,6.235136,0.152013,2.123395
+389,CTXS,Year 2,2014-12-31,3,0.0,1.600187,0.553817,0.039577,Information Technology,Internet Software & Services,11,0.0,6.235136,0.152013,2.123395
+390,CTXS,Year 3,2015-12-31,3,0.0,1.538027,0.563975,0.041595,Information Technology,Internet Software & Services,11,0.0,6.235136,0.152013,2.123395
+391,CTXS,Year 4,2016-12-31,3,0.0,1.620006,0.489265,0.029173,Information Technology,Internet Software & Services,11,0.0,6.235136,0.152013,2.123395
+392,CVS,Year 1,2013-12-31,126,102.0,,,,Consumer Staples,Drug Retail,595,490.0,0.0,0.0,0.0
+393,CVS,Year 2,2014-12-31,139,114.0,,,,Consumer Staples,Drug Retail,595,490.0,0.0,0.0,0.0
+394,CVS,Year 3,2015-12-31,153,126.0,,,,Consumer Staples,Drug Retail,595,490.0,0.0,0.0,0.0
+395,CVS,Year 4,2016-12-31,177,148.0,,,,Consumer Staples,Drug Retail,595,490.0,0.0,0.0,0.0
+396,CVX,Year 1,2012-12-31,230,163.0,17.1,,13.413,Energy,Integrated Oil & Gas,779,558.0,68.18,65.429,0.0
+397,CVX,Year 2,2013-12-31,220,159.0,17.573,,14.186,Energy,Integrated Oil & Gas,779,558.0,68.18,65.429,0.0
+398,CVX,Year 3,2014-12-31,200,144.0,17.034,,16.793,Energy,Integrated Oil & Gas,779,558.0,68.18,65.429,0.0
+399,CVX,Year 4,2015-12-31,129,92.0,16.473,,21.037,Energy,Integrated Oil & Gas,779,558.0,68.18,65.429,0.0
+400,CXO,Year 1,2012-12-31,1,0.0,0.133796,,0.579315,Energy,Oil & Gas Exploration & Production,6,0.0,0.738506,3.575635,0.0
+401,CXO,Year 2,2013-12-31,2,0.0,0.169815,,0.778655,Energy,Oil & Gas Exploration & Production,6,0.0,0.738506,3.575635,0.0
+402,CXO,Year 3,2014-12-31,2,0.0,0.204161,,0.986812,Energy,Oil & Gas Exploration & Production,6,0.0,0.738506,3.575635,0.0
+403,CXO,Year 4,2015-12-31,1,0.0,0.230734,,1.230853,Energy,Oil & Gas Exploration & Production,6,0.0,0.738506,3.575635,0.0
+404,D,Year 1,2012-12-31,12,8.0,0.55,,1.127,Utilities,Electric Utilities,48,29.0,2.206,5.022,0.0
+405,D,Year 2,2013-12-31,13,8.0,0.563,,1.208,Utilities,Electric Utilities,48,29.0,2.206,5.022,0.0
+406,D,Year 3,2014-12-31,12,7.0,0.542,,1.292,Utilities,Electric Utilities,48,29.0,2.206,5.022,0.0
+407,D,Year 4,2015-12-31,11,6.0,0.551,,1.395,Utilities,Electric Utilities,48,29.0,2.206,5.022,0.0
+408,DAL,Year 1,2013-12-31,37,20.0,11.349,,1.658,Industrials,Airlines,156,74.0,52.832,7.1659999999999995,0.0
+409,DAL,Year 2,2014-12-31,40,22.0,12.702,,1.771,Industrials,Airlines,156,74.0,52.832,7.1659999999999995,0.0
+410,DAL,Year 3,2015-12-31,40,17.0,13.936,,1.835,Industrials,Airlines,156,74.0,52.832,7.1659999999999995,0.0
+411,DAL,Year 4,2016-12-31,39,15.0,14.845,,1.902,Industrials,Airlines,156,74.0,52.832,7.1659999999999995,0.0
+412,DD,Year 1,2013-12-31,28,17.0,6.564,2.037,,Materials,Diversified Chemicals,105,63.0,22.179,0.0,7.534
+413,DD,Year 2,2014-12-31,28,17.0,5.536,1.958,,Materials,Diversified Chemicals,105,63.0,22.179,0.0,7.534
+414,DD,Year 3,2015-12-31,25,15.0,5.074,1.898,,Materials,Diversified Chemicals,105,63.0,22.179,0.0,7.534
+415,DD,Year 4,2016-12-31,24,14.0,5.005,1.641,,Materials,Diversified Chemicals,105,63.0,22.179,0.0,7.534
+416,DE,Year 1,2013-10-31,37,25.0,4.4261,1.4773,,Industrials,Construction & Farm Machinery & Heavy Trucks,127,87.0,16.6565,0.0,5.7435
+417,DE,Year 2,2014-10-31,36,24.0,4.3777,1.452,,Industrials,Construction & Farm Machinery & Heavy Trucks,127,87.0,16.6565,0.0,5.7435
+418,DE,Year 3,2015-10-31,28,20.0,3.8344,1.4251,,Industrials,Construction & Farm Machinery & Heavy Trucks,127,87.0,16.6565,0.0,5.7435
+419,DE,Year 4,2016-10-31,26,18.0,4.0183,1.3891,,Industrials,Construction & Farm Machinery & Heavy Trucks,127,87.0,16.6565,0.0,5.7435
+420,DG,Year 1,2013-02-01,16,10.0,3.430125,,,Consumer Discretionary,General Merchandise Stores,71,49.0,15.528893,0.0,0.0
+421,DG,Year 2,2014-01-31,17,12.0,3.699557,,,Consumer Discretionary,General Merchandise Stores,71,49.0,15.528893,0.0,0.0
+422,DG,Year 3,2015-01-30,18,13.0,4.033414,,,Consumer Discretionary,General Merchandise Stores,71,49.0,15.528893,0.0,0.0
+423,DG,Year 4,2016-01-29,20,14.0,4.365797,,,Consumer Discretionary,General Merchandise Stores,71,49.0,15.528893,0.0,0.0
+424,DGX,Year 1,2012-12-31,7,4.0,1.742,,0.075,Health Care,Health Care Facilities,28,16.0,6.559,0.329,0.0
+425,DGX,Year 2,2013-12-31,7,4.0,1.74,,0.079,Health Care,Health Care Facilities,28,16.0,6.559,0.329,0.0
+426,DGX,Year 3,2014-12-31,7,4.0,1.721,,0.094,Health Care,Health Care Facilities,28,16.0,6.559,0.329,0.0
+427,DGX,Year 4,2015-12-31,7,4.0,1.356,,0.081,Health Care,Health Care Facilities,28,16.0,6.559,0.329,0.0
+428,DHI,Year 1,2013-09-30,6,4.0,0.6499,,,Consumer Discretionary,Homebuilding,36,27.0,3.5801,0.0,0.0
+429,DHI,Year 2,2014-09-30,8,6.0,0.8269,,,Consumer Discretionary,Homebuilding,36,27.0,3.5801,0.0,0.0
+430,DHI,Year 3,2015-09-30,10,8.0,1.003,,,Consumer Discretionary,Homebuilding,36,27.0,3.5801,0.0,0.0
+431,DHI,Year 4,2016-09-30,12,9.0,1.1003,,,Consumer Discretionary,Homebuilding,36,27.0,3.5801,0.0,0.0
+432,DHR,Year 1,2012-12-31,18,8.0,5.1812,1.1379,,Industrials,Industrial Conglomerates,75,34.0,21.7416,0.0,4.6384
+433,DHR,Year 2,2013-12-31,18,8.0,5.1171,1.1044,,Industrials,Industrial Conglomerates,75,34.0,21.7416,0.0,4.6384
+434,DHR,Year 3,2014-12-31,19,9.0,5.389,1.157,,Industrials,Industrial Conglomerates,75,34.0,21.7416,0.0,4.6384
+435,DHR,Year 4,2015-12-31,20,9.0,6.0543,1.2391,,Industrials,Industrial Conglomerates,75,34.0,21.7416,0.0,4.6384
+436,DIS,Year 1,2013-09-28,45,25.0,8.365,,2.192,Consumer Discretionary,Broadcasting & Cable TV,200,108.0,34.207,9.361,0.0
+437,DIS,Year 2,2014-09-27,48,26.0,8.565,,2.288,Consumer Discretionary,Broadcasting & Cable TV,200,108.0,34.207,9.361,0.0
+438,DIS,Year 3,2015-10-03,52,28.0,8.523,,2.354,Consumer Discretionary,Broadcasting & Cable TV,200,108.0,34.207,9.361,0.0
+439,DIS,Year 4,2016-10-01,55,29.0,8.754,,2.527,Consumer Discretionary,Broadcasting & Cable TV,200,108.0,34.207,9.361,0.0
+440,DISCA,Year 1,2013-12-31,5,1.0,1.598,,0.276,Consumer Discretionary,Cable & Satellite,23,7.0,6.649,1.2570000000000001,0.0
+441,DISCA,Year 2,2014-12-31,6,2.0,1.692,,0.329,Consumer Discretionary,Cable & Satellite,23,7.0,6.649,1.2570000000000001,0.0
+442,DISCA,Year 3,2015-12-31,6,2.0,1.669,,0.33,Consumer Discretionary,Cable & Satellite,23,7.0,6.649,1.2570000000000001,0.0
+443,DISCA,Year 4,2016-12-31,6,2.0,1.69,,0.322,Consumer Discretionary,Cable & Satellite,23,7.0,6.649,1.2570000000000001,0.0
+444,DISCK,Year 1,2013-12-31,5,1.0,1.598,,0.276,Consumer Discretionary,Cable & Satellite,23,7.0,6.649,1.2570000000000001,0.0
+445,DISCK,Year 2,2014-12-31,6,2.0,1.692,,0.329,Consumer Discretionary,Cable & Satellite,23,7.0,6.649,1.2570000000000001,0.0
+446,DISCK,Year 3,2015-12-31,6,2.0,1.669,,0.33,Consumer Discretionary,Cable & Satellite,23,7.0,6.649,1.2570000000000001,0.0
+447,DISCK,Year 4,2016-12-31,6,2.0,1.69,,0.322,Consumer Discretionary,Cable & Satellite,23,7.0,6.649,1.2570000000000001,0.0
+448,DLPH,Year 1,2013-12-31,15,12.0,0.916,,0.097,Consumer Discretionary,Auto Parts & Equipment,61,49.0,4.114,0.41800000000000004,0.0
+449,DLPH,Year 2,2014-12-31,15,12.0,1.036,,0.094,Consumer Discretionary,Auto Parts & Equipment,61,49.0,4.114,0.41800000000000004,0.0
+450,DLPH,Year 3,2015-12-31,15,12.0,1.017,,0.093,Consumer Discretionary,Auto Parts & Equipment,61,49.0,4.114,0.41800000000000004,0.0
+451,DLPH,Year 4,2016-12-31,16,13.0,1.145,,0.134,Consumer Discretionary,Auto Parts & Equipment,61,49.0,4.114,0.41800000000000004,0.0
+452,DLR,Year 1,2012-12-31,1,0.0,0.068538,,0.382553,Real Estate,Specialized REITs,4,0.0,0.36694499999999997,1.967057,0.0
+453,DLR,Year 2,2013-12-31,1,0.0,0.069323,,0.475464,Real Estate,Specialized REITs,4,0.0,0.36694499999999997,1.967057,0.0
+454,DLR,Year 3,2014-12-31,1,0.0,0.089468,,0.538513,Real Estate,Specialized REITs,4,0.0,0.36694499999999997,1.967057,0.0
+455,DLR,Year 4,2015-12-31,1,0.0,0.139616,,0.570527,Real Estate,Specialized REITs,4,0.0,0.36694499999999997,1.967057,0.0
+456,DLTR,Year 1,2013-02-02,7,4.0,1.7326,,,Consumer Discretionary,General Merchandise Stores,37,24.0,9.152899999999999,0.0,0.0
+457,DLTR,Year 2,2014-02-01,7,5.0,1.8195,,,Consumer Discretionary,General Merchandise Stores,37,24.0,9.152899999999999,0.0,0.0
+458,DLTR,Year 3,2015-01-31,8,5.0,1.9938,,,Consumer Discretionary,General Merchandise Stores,37,24.0,9.152899999999999,0.0,0.0
+459,DLTR,Year 4,2016-01-30,15,10.0,3.607,,,Consumer Discretionary,General Merchandise Stores,37,24.0,9.152899999999999,0.0,0.0
+460,DNB,Year 1,2012-12-31,1,,1.1232,,0.0783,Industrials,Research & Consulting Services,4,0.0,4.496,0.2499,0.0
+461,DNB,Year 2,2013-12-31,1,,1.058,,0.0604,Industrials,Research & Consulting Services,4,0.0,4.496,0.2499,0.0
+462,DNB,Year 3,2014-12-31,1,,1.1057,,0.0525,Industrials,Research & Consulting Services,4,0.0,4.496,0.2499,0.0
+463,DNB,Year 4,2015-12-31,1,,1.2091,,0.0587,Industrials,Research & Consulting Services,4,0.0,4.496,0.2499,0.0
+464,DOV,Year 1,2013-12-31,7,4.0,1.616921,,,Industrials,Industrial Machinery,26,16.0,6.780590999999999,0.0,0.0
+465,DOV,Year 2,2014-12-31,7,4.0,1.758765,,,Industrials,Industrial Machinery,26,16.0,6.780590999999999,0.0,0.0
+466,DOV,Year 3,2015-12-31,6,4.0,1.647382,,,Industrials,Industrial Machinery,26,16.0,6.780590999999999,0.0,0.0
+467,DOV,Year 4,2016-12-31,6,4.0,1.757523,,,Industrials,Industrial Machinery,26,16.0,6.780590999999999,0.0,0.0
+468,DPS,Year 1,2013-12-31,5,2.0,2.337,,0.115,Consumer Staples,Soft Drinks,23,8.0,9.318,0.434,0.0
+469,DPS,Year 2,2014-12-31,6,2.0,2.335,,0.115,Consumer Staples,Soft Drinks,23,8.0,9.318,0.434,0.0
+470,DPS,Year 3,2015-12-31,6,2.0,2.32,,0.105,Consumer Staples,Soft Drinks,23,8.0,9.318,0.434,0.0
+471,DPS,Year 4,2016-12-31,6,2.0,2.326,,0.099,Consumer Staples,Soft Drinks,23,8.0,9.318,0.434,0.0
+472,DRI,Year 1,2013-05-26,5,4.0,0.6252,,0.2783,Consumer Discretionary,Restaurants,23,18.0,2.5869999999999997,1.1922,0.0
+473,DRI,Year 2,2014-05-25,6,4.0,0.6654,,0.3044,Consumer Discretionary,Restaurants,23,18.0,2.5869999999999997,1.1922,0.0
+474,DRI,Year 3,2015-05-31,6,5.0,0.6735,,0.3193,Consumer Discretionary,Restaurants,23,18.0,2.5869999999999997,1.1922,0.0
+475,DRI,Year 4,2016-05-29,6,5.0,0.6229,,0.2902,Consumer Discretionary,Restaurants,23,18.0,2.5869999999999997,1.1922,0.0
+476,DUK,Year 1,2012-12-31,17,11.0,0.965,,2.145,Utilities,Electric Utilities,85,51.0,4.587,11.023,0.0
+477,DUK,Year 2,2013-12-31,22,13.0,1.274,,2.668,Utilities,Electric Utilities,85,51.0,4.587,11.023,0.0
+478,DUK,Year 3,2014-12-31,23,14.0,1.213,,3.066,Utilities,Electric Utilities,85,51.0,4.587,11.023,0.0
+479,DUK,Year 4,2015-12-31,23,13.0,1.135,,3.144,Utilities,Electric Utilities,85,51.0,4.587,11.023,0.0
+480,DVA,Year 1,2012-12-31,8,5.0,0.889879,,0.341969,Health Care,Health Care Facilities,44,31.0,5.632028,2.099665,0.0
+481,DVA,Year 2,2013-12-31,11,8.0,1.516508,,0.528737,Health Care,Health Care Facilities,44,31.0,5.632028,2.099665,0.0
+482,DVA,Year 3,2014-12-31,12,9.0,1.278506,,0.590935,Health Care,Health Care Facilities,44,31.0,5.632028,2.099665,0.0
+483,DVA,Year 4,2015-12-31,13,9.0,1.947135,,0.638024,Health Care,Health Care Facilities,44,31.0,5.632028,2.099665,0.0
+484,DVN,Year 1,2013-12-31,10,2.0,2.743,,2.78,Energy,Oil & Gas Exploration & Production,55,7.0,25.25,11.02,0.0
+485,DVN,Year 2,2014-12-31,20,2.0,8.29,,3.319,Energy,Oil & Gas Exploration & Production,55,7.0,25.25,11.02,0.0
+486,DVN,Year 3,2015-12-31,13,2.0,7.741,,3.129,Energy,Oil & Gas Exploration & Production,55,7.0,25.25,11.02,0.0
+487,DVN,Year 4,2016-12-31,12,1.0,6.476,,1.792,Energy,Oil & Gas Exploration & Production,55,7.0,25.25,11.02,0.0
+488,EA,Year 1,2013-03-31,3,1.0,1.078,1.153,0.03,Information Technology,Home Entertainment Software,14,4.0,4.191,0.067,4.481
+489,EA,Year 2,2014-03-31,3,1.0,1.055,1.125,0.016,Information Technology,Home Entertainment Software,14,4.0,4.191,0.067,4.481
+490,EA,Year 3,2015-03-31,4,1.0,1.03,1.094,0.014,Information Technology,Home Entertainment Software,14,4.0,4.191,0.067,4.481
+491,EA,Year 4,2016-03-31,4,1.0,1.028,1.109,0.007,Information Technology,Home Entertainment Software,14,4.0,4.191,0.067,4.481
+492,EBAY,Year 1,2013-12-31,8,1.0,3.26,0.915,0.136,Information Technology,Internet Software & Services,32,5.0,14.012,0.28600000000000003,3.935
+493,EBAY,Year 2,2014-12-31,8,1.0,3.593,0.983,0.075,Information Technology,Internet Software & Services,32,5.0,14.012,0.28600000000000003,3.935
+494,EBAY,Year 3,2015-12-31,8,1.0,3.66,0.923,0.041,Information Technology,Internet Software & Services,32,5.0,14.012,0.28600000000000003,3.935
+495,EBAY,Year 4,2016-12-31,8,2.0,3.499,1.114,0.034,Information Technology,Internet Software & Services,32,5.0,14.012,0.28600000000000003,3.935
+496,ECL,Year 1,2012-12-31,11,6.0,4.0183,,,Materials,Specialty Chemicals,51,27.0,17.3017,0.0,0.0
+497,ECL,Year 2,2013-12-31,13,7.0,4.3603,,,Materials,Specialty Chemicals,51,27.0,17.3017,0.0,0.0
+498,ECL,Year 3,2014-12-31,14,7.0,4.5776,,,Materials,Specialty Chemicals,51,27.0,17.3017,0.0,0.0
+499,ECL,Year 4,2015-12-31,13,7.0,4.3455,,,Materials,Specialty Chemicals,51,27.0,17.3017,0.0,0.0
+500,ED,Year 1,2013-12-31,12,7.0,1.895,,1.024,Utilities,Electric Utilities,48,27.0,7.74,4.441,0.0
+501,ED,Year 2,2014-12-31,12,7.0,1.877,,1.071,Utilities,Electric Utilities,48,27.0,7.74,4.441,0.0
+502,ED,Year 3,2015-12-31,12,7.0,1.937,,1.13,Utilities,Electric Utilities,48,27.0,7.74,4.441,0.0
+503,ED,Year 4,2016-12-31,12,6.0,2.031,,1.216,Utilities,Electric Utilities,48,27.0,7.74,4.441,0.0
+504,EFX,Year 1,2012-12-31,2,0.0,0.6735,,0.16,Industrials,Research & Consulting Services,8,0.0,3.0253,0.7494000000000001,0.0
+505,EFX,Year 2,2013-12-31,2,0.0,0.7158,,0.1896,Industrials,Research & Consulting Services,8,0.0,3.0253,0.7494000000000001,0.0
+506,EFX,Year 3,2014-12-31,2,0.0,0.7517,,0.2018,Industrials,Research & Consulting Services,8,0.0,3.0253,0.7494000000000001,0.0
+507,EFX,Year 4,2015-12-31,2,0.0,0.8843,,0.198,Industrials,Research & Consulting Services,8,0.0,3.0253,0.7494000000000001,0.0
+508,EIX,Year 1,2012-12-31,11,7.0,0.296,,1.562,Utilities,Electric Utilities,47,30.0,1.263,6.823,0.0
+509,EIX,Year 2,2013-12-31,12,8.0,0.309,,1.622,Utilities,Electric Utilities,47,30.0,1.263,6.823,0.0
+510,EIX,Year 3,2014-12-31,13,8.0,0.322,,1.72,Utilities,Electric Utilities,47,30.0,1.263,6.823,0.0
+511,EIX,Year 4,2015-12-31,11,7.0,0.336,,1.919,Utilities,Electric Utilities,47,30.0,1.263,6.823,0.0
+512,EL,Year 1,2013-06-30,10,2.0,6.597,,,Consumer Staples,Personal Products,41,8.0,27.9942,0.0,0.0
+513,EL,Year 2,2014-06-30,10,2.0,6.9859,,,Consumer Staples,Personal Products,41,8.0,27.9942,0.0,0.0
+514,EL,Year 3,2015-06-30,10,2.0,7.0735,,,Consumer Staples,Personal Products,41,8.0,27.9942,0.0,0.0
+515,EL,Year 4,2016-06-30,11,2.0,7.3378,,,Consumer Staples,Personal Products,41,8.0,27.9942,0.0,0.0
+516,EMN,Year 1,2012-12-31,8,6.0,0.644,0.198,,Materials,Diversified Chemicals,35,26.0,2.806,0.0,0.869
+517,EMN,Year 2,2013-12-31,9,6.0,0.645,0.193,,Materials,Diversified Chemicals,35,26.0,2.806,0.0,0.869
+518,EMN,Year 3,2014-12-31,9,7.0,0.755,0.227,,Materials,Diversified Chemicals,35,26.0,2.806,0.0,0.869
+519,EMN,Year 4,2015-12-31,9,7.0,0.762,0.251,,Materials,Diversified Chemicals,35,26.0,2.806,0.0,0.869
+520,EMR,Year 1,2013-09-30,24,14.0,6.01,,,Industrials,Industrial Conglomerates,71,40.0,18.208,0.0,0.0
+521,EMR,Year 2,2014-09-30,17,9.0,4.375,,,Industrials,Industrial Conglomerates,71,40.0,18.208,0.0,0.0
+522,EMR,Year 3,2015-09-30,16,9.0,4.065,,,Industrials,Industrial Conglomerates,71,40.0,18.208,0.0,0.0
+523,EMR,Year 4,2016-09-30,14,8.0,3.758,,,Industrials,Industrial Conglomerates,71,40.0,18.208,0.0,0.0
+524,EOG,Year 1,2012-12-31,11,1.0,3.862434,,3.169703,Energy,Oil & Gas Exploration & Production,51,7.0,16.943483999999998,14.081364,0.0
+525,EOG,Year 2,2013-12-31,14,2.0,4.621096,,3.600976,Energy,Oil & Gas Exploration & Production,51,7.0,16.943483999999998,14.081364,0.0
+526,EOG,Year 3,2014-12-31,18,2.0,5.285634,,3.997041,Energy,Oil & Gas Exploration & Production,51,7.0,16.943483999999998,14.081364,0.0
+527,EOG,Year 4,2015-12-31,8,2.0,3.17432,,3.313644,Energy,Oil & Gas Exploration & Production,51,7.0,16.943483999999998,14.081364,0.0
+528,EQIX,Year 1,2012-12-31,1,0.0,0.53118,,,Real Estate,REITs,7,3.0,2.712008,0.0,0.0
+529,EQIX,Year 2,2013-12-31,2,1.0,0.621413,,,Real Estate,REITs,7,3.0,2.712008,0.0,0.0
+530,EQIX,Year 3,2014-12-31,2,1.0,0.734119,,,Real Estate,REITs,7,3.0,2.712008,0.0,0.0
+531,EQIX,Year 4,2015-12-31,2,1.0,0.825296,,,Real Estate,REITs,7,3.0,2.712008,0.0,0.0
+532,EQR,Year 1,2012-12-31,1,0.0,0.047233,,0.560669,Real Estate,REITs,7,0.0,0.225442,3.0643979999999997,0.0
+533,EQR,Year 2,2013-12-31,2,0.0,0.062179,,0.978973,Real Estate,REITs,7,0.0,0.225442,3.0643979999999997,0.0
+534,EQR,Year 3,2014-12-31,2,0.0,0.050948,,0.758861,Real Estate,REITs,7,0.0,0.225442,3.0643979999999997,0.0
+535,EQR,Year 4,2015-12-31,2,0.0,0.065082,,0.765895,Real Estate,REITs,7,0.0,0.225442,3.0643979999999997,0.0
+536,EQT,Year 1,2013-12-31,1,0.0,0.200849,,0.653132,Energy,Oil & Gas Exploration & Production,5,0.0,0.961655,3.079566,0.0
+537,EQT,Year 2,2014-12-31,2,0.0,0.238134,,0.679298,Energy,Oil & Gas Exploration & Production,5,0.0,0.961655,3.079566,0.0
+538,EQT,Year 3,2015-12-31,1,0.0,0.249925,,0.819216,Energy,Oil & Gas Exploration & Production,5,0.0,0.961655,3.079566,0.0
+539,EQT,Year 4,2016-12-31,1,0.0,0.272747,,0.92792,Energy,Oil & Gas Exploration & Production,5,0.0,0.961655,3.079566,0.0
+540,ES,Year 1,2012-12-31,6,3.0,0.747356,,0.740791,Utilities,MultiUtilities,27,14.0,3.782286,2.914027,0.0
+541,ES,Year 2,2013-12-31,7,3.0,0.914149,,0.85968,Utilities,MultiUtilities,27,14.0,3.782286,2.914027,0.0
+542,ES,Year 3,2014-12-31,7,4.0,1.034507,,0.625361,Utilities,MultiUtilities,27,14.0,3.782286,2.914027,0.0
+543,ES,Year 4,2015-12-31,7,4.0,1.086274,,0.688195,Utilities,MultiUtilities,27,14.0,3.782286,2.914027,0.0
+544,ESS,Year 1,2012-12-31,0,0.0,0.024573,,0.169173,Real Estate,Residential REITs,1,0.0,0.13222499999999998,1.175608,0.0
+545,ESS,Year 2,2013-12-31,0,0.0,0.026684,,0.19242,Real Estate,Residential REITs,1,0.0,0.13222499999999998,1.175608,0.0
+546,ESS,Year 3,2014-12-31,0,0.0,0.040878,,0.360592,Real Estate,Residential REITs,1,0.0,0.13222499999999998,1.175608,0.0
+547,ESS,Year 4,2015-12-31,1,0.0,0.04009,,0.453423,Real Estate,Residential REITs,1,0.0,0.13222499999999998,1.175608,0.0
+548,ETFC,Year 1,2012-12-31,1,,0.921,,0.471,Financials,Investment Banking & Brokerage,4,0.0,3.815,0.9239999999999999,0.0
+549,ETFC,Year 2,2013-12-31,1,,0.888,,0.256,Financials,Investment Banking & Brokerage,4,0.0,3.815,0.9239999999999999,0.0
+550,ETFC,Year 3,2014-12-31,1,,0.958,,0.136,Financials,Investment Banking & Brokerage,4,0.0,3.815,0.9239999999999999,0.0
+551,ETFC,Year 4,2015-12-31,1,,1.048,,0.061,Financials,Investment Banking & Brokerage,4,0.0,3.815,0.9239999999999999,0.0
+552,ETN,Year 1,2012-12-31,16,11.0,2.894,0.439,,Industrials,Industrial Conglomerates,80,55.0,14.186,0.0,2.355
+553,ETN,Year 2,2013-12-31,22,15.0,3.886,0.644,,Industrials,Industrial Conglomerates,80,55.0,14.186,0.0,2.355
+554,ETN,Year 3,2014-12-31,22,15.0,3.81,0.647,,Industrials,Industrial Conglomerates,80,55.0,14.186,0.0,2.355
+555,ETN,Year 4,2015-12-31,20,14.0,3.596,0.625,,Industrials,Industrial Conglomerates,80,55.0,14.186,0.0,2.355
+556,ETR,Year 1,2012-12-31,10,6.0,0.917162,,1.144585,Utilities,Electric Utilities,44,28.0,3.743666,5.061543,0.0
+557,ETR,Year 2,2013-12-31,11,7.0,0.888051,,1.261044,Utilities,Electric Utilities,44,28.0,3.743666,5.061543,0.0
+558,ETR,Year 3,2014-12-31,12,8.0,0.863455,,1.318638,Utilities,Electric Utilities,44,28.0,3.743666,5.061543,0.0
+559,ETR,Year 4,2015-12-31,11,7.0,1.074998,,1.337276,Utilities,Electric Utilities,44,28.0,3.743666,5.061543,0.0
+560,EW,Year 1,2012-12-31,1,0.0,0.6974,0.2913,,Health Care,Health Care Equipment,7,0.0,3.2265,0.0,1.3439
+561,EW,Year 2,2013-12-31,2,0.0,0.7497,0.323,,Health Care,Health Care Equipment,7,0.0,3.2265,0.0,1.3439
+562,EW,Year 3,2014-12-31,2,0.0,0.9287,0.3465,,Health Care,Health Care Equipment,7,0.0,3.2265,0.0,1.3439
+563,EW,Year 4,2015-12-31,2,0.0,0.8507,0.3831,,Health Care,Health Care Equipment,7,0.0,3.2265,0.0,1.3439
+564,EXC,Year 1,2013-12-31,24,17.0,1.095,,2.153,Utilities,MultiUtilities,111,81.0,5.025,10.853,0.0
+565,EXC,Year 2,2014-12-31,27,21.0,1.154,,2.314,Utilities,MultiUtilities,111,81.0,5.025,10.853,0.0
+566,EXC,Year 3,2015-12-31,29,21.0,1.2,,2.45,Utilities,MultiUtilities,111,81.0,5.025,10.853,0.0
+567,EXC,Year 4,2016-12-31,31,22.0,1.576,,3.936,Utilities,MultiUtilities,111,81.0,5.025,10.853,0.0
+568,EXPD,Year 1,2012-12-31,5,4.0,1.264632,,0.03994,Industrials,Air Freight & Logistics,23,16.0,5.305109,0.183315,0.0
+569,EXPD,Year 2,2013-12-31,6,4.0,1.282709,,0.048071,Industrials,Air Freight & Logistics,23,16.0,5.305109,0.183315,0.0
+570,EXPD,Year 3,2014-12-31,6,4.0,1.337487,,0.049292,Industrials,Air Freight & Logistics,23,16.0,5.305109,0.183315,0.0
+571,EXPD,Year 4,2015-12-31,6,4.0,1.420281,,0.046012,Industrials,Air Freight & Logistics,23,16.0,5.305109,0.183315,0.0
+572,EXPE,Year 1,2013-12-31,4,1.0,3.151043,,0.071731,Consumer Discretionary,Internet & Direct Marketing Retail,23,4.0,18.136870000000002,0.6221030000000001,0.0
+573,EXPE,Year 2,2014-12-31,5,1.0,3.919856,,0.076773,Consumer Discretionary,Internet & Direct Marketing Retail,23,4.0,18.136870000000002,0.6221030000000001,0.0
+574,EXPE,Year 3,2015-12-31,6,1.0,4.785243,,0.156458,Consumer Discretionary,Internet & Direct Marketing Retail,23,4.0,18.136870000000002,0.6221030000000001,0.0
+575,EXPE,Year 4,2016-12-31,8,1.0,6.280728,,0.317141,Consumer Discretionary,Internet & Direct Marketing Retail,23,4.0,18.136870000000002,0.6221030000000001,0.0
+576,EXR,Year 1,2012-12-31,0,0.0,0.058323,,0.074453,Real Estate,Specialized REITs,0,0.0,0.273751,0.418218,0.0
+577,EXR,Year 2,2013-12-31,0,0.0,0.063268,,0.095232,Real Estate,Specialized REITs,0,0.0,0.273751,0.418218,0.0
+578,EXR,Year 3,2014-12-31,0,0.0,0.071369,,0.115076,Real Estate,Specialized REITs,0,0.0,0.273751,0.418218,0.0
+579,EXR,Year 4,2015-12-31,0,0.0,0.080791,,0.133457,Real Estate,Specialized REITs,0,0.0,0.273751,0.418218,0.0
+580,F,Year 1,2013-12-31,146,123.0,10.85,,,Consumer Discretionary,Automobile Manufacturers,590,520.0,45.39,0.0,0.0
+581,F,Year 2,2014-12-31,144,131.0,11.842,,,Consumer Discretionary,Automobile Manufacturers,590,520.0,45.39,0.0,0.0
+582,F,Year 3,2015-12-31,149,131.0,10.502,,,Consumer Discretionary,Automobile Manufacturers,590,520.0,45.39,0.0,0.0
+583,F,Year 4,2016-12-31,151,135.0,12.196,,,Consumer Discretionary,Automobile Manufacturers,590,520.0,45.39,0.0,0.0
+584,FAST,Year 1,2013-12-31,3,1.0,1.007431,,,Industrials,Building Products,12,4.0,4.409267,0.0,0.0
+585,FAST,Year 2,2014-12-31,3,1.0,1.110776,,,Industrials,Building Products,12,4.0,4.409267,0.0,0.0
+586,FAST,Year 3,2015-12-31,3,1.0,1.12159,,,Industrials,Building Products,12,4.0,4.409267,0.0,0.0
+587,FAST,Year 4,2016-12-31,3,1.0,1.16947,,,Industrials,Building Products,12,4.0,4.409267,0.0,0.0
+588,FB,Year 1,2013-12-31,7,1.0,1.778,1.415,,Information Technology,Internet Software & Services,63,8.0,13.954,0.0,14.815999999999999
+589,FB,Year 2,2014-12-31,12,2.0,2.653,2.666,,Information Technology,Internet Software & Services,63,8.0,13.954,0.0,14.815999999999999
+590,FB,Year 3,2015-12-31,17,2.0,4.02,4.816,,Information Technology,Internet Software & Services,63,8.0,13.954,0.0,14.815999999999999
+591,FB,Year 4,2016-12-31,27,3.0,5.503,5.919,,Information Technology,Internet Software & Services,63,8.0,13.954,0.0,14.815999999999999
+592,FBHS,Year 1,2012-12-31,3,2.0,0.8731,,0.0074,Industrials,Building Products,14,8.0,3.8027,0.051500000000000004,0.0
+593,FBHS,Year 2,2013-12-31,3,2.0,0.9387,,0.0094,Industrials,Building Products,14,8.0,3.8027,0.051500000000000004,0.0
+594,FBHS,Year 3,2014-12-31,4,2.0,0.9433,,0.0131,Industrials,Building Products,14,8.0,3.8027,0.051500000000000004,0.0
+595,FBHS,Year 4,2015-12-31,4,2.0,1.0476,,0.0216,Industrials,Building Products,14,8.0,3.8027,0.051500000000000004,0.0
+596,FCX,Year 1,2012-12-31,18,11.0,0.431,0.285,,Materials,Copper,74,72.0,2.249,0.0,0.748
+597,FCX,Year 2,2013-12-31,20,14.0,0.657,0.21,,Materials,Copper,74,72.0,2.249,0.0,0.748
+598,FCX,Year 3,2014-12-31,21,19.0,0.592,0.126,,Materials,Copper,74,72.0,2.249,0.0,0.748
+599,FCX,Year 4,2015-12-31,15,28.0,0.569,0.127,,Materials,Copper,74,72.0,2.249,0.0,0.748
+600,FDX,Year 1,2013-05-31,44,16.0,20.359,,2.386,Industrials,Air Freight & Logistics,186,66.0,95.517,10.215,0.0
+601,FDX,Year 2,2014-05-31,45,17.0,22.113,,2.587,Industrials,Air Freight & Logistics,186,66.0,95.517,10.215,0.0
+602,FDX,Year 3,2015-05-31,47,16.0,25.715,,2.611,Industrials,Air Freight & Logistics,186,66.0,95.517,10.215,0.0
+603,FDX,Year 4,2016-05-31,50,17.0,27.33,,2.631,Industrials,Air Freight & Logistics,186,66.0,95.517,10.215,0.0
+604,FE,Year 1,2012-12-31,15,6.0,5.353,,1.051,Utilities,Electric Utilities,59,24.0,20.396,5.574,0.0
+605,FE,Year 2,2013-12-31,14,6.0,4.315,,1.741,Utilities,Electric Utilities,59,24.0,20.396,5.574,0.0
+606,FE,Year 3,2014-12-31,15,6.0,5.759,,1.232,Utilities,Electric Utilities,59,24.0,20.396,5.574,0.0
+607,FE,Year 4,2015-12-31,15,6.0,4.969,,1.55,Utilities,Electric Utilities,59,24.0,20.396,5.574,0.0
+608,FFIV,Year 1,2013-09-30,1,0.0,0.587835,0.209614,,Information Technology,Networking Equipment,4,0.0,2.757827,0.0,1.104216
+609,FFIV,Year 2,2014-09-30,1,0.0,0.664738,0.263792,,Information Technology,Networking Equipment,4,0.0,2.757827,0.0,1.104216
+610,FFIV,Year 3,2015-09-30,1,0.0,0.73808,0.296583,,Information Technology,Networking Equipment,4,0.0,2.757827,0.0,1.104216
+611,FFIV,Year 4,2016-09-30,1,0.0,0.767174,0.334227,,Information Technology,Networking Equipment,4,0.0,2.757827,0.0,1.104216
+612,FIS,Year 1,2012-12-31,5,3.0,0.7633,,,Information Technology,Internet Software & Services,23,15.0,3.5888,0.0,0.0
+613,FIS,Year 2,2013-12-31,6,4.0,0.9078,,,Information Technology,Internet Software & Services,23,15.0,3.5888,0.0,0.0
+614,FIS,Year 3,2014-12-31,6,4.0,0.8149,,,Information Technology,Internet Software & Services,23,15.0,3.5888,0.0,0.0
+615,FIS,Year 4,2015-12-31,6,4.0,1.1028,,,Information Technology,Internet Software & Services,23,15.0,3.5888,0.0,0.0
+616,FISV,Year 1,2012-12-31,4,2.0,0.824,,,Information Technology,Internet Software & Services,18,8.0,3.81,0.0,0.0
+617,FISV,Year 2,2013-12-31,4,2.0,0.977,,,Information Technology,Internet Software & Services,18,8.0,3.81,0.0,0.0
+618,FISV,Year 3,2014-12-31,5,2.0,0.975,,,Information Technology,Internet Software & Services,18,8.0,3.81,0.0,0.0
+619,FISV,Year 4,2015-12-31,5,2.0,1.034,,,Information Technology,Internet Software & Services,18,8.0,3.81,0.0,0.0
+620,FL,Year 1,2013-02-02,6,4.0,1.294,,0.118,Consumer Discretionary,Apparel Retail,26,16.0,5.469,0.538,0.0
+621,FL,Year 2,2014-02-01,6,4.0,1.334,,0.133,Consumer Discretionary,Apparel Retail,26,16.0,5.469,0.538,0.0
+622,FL,Year 3,2015-01-31,7,4.0,1.426,,0.139,Consumer Discretionary,Apparel Retail,26,16.0,5.469,0.538,0.0
+623,FL,Year 4,2016-01-30,7,4.0,1.415,,0.148,Consumer Discretionary,Apparel Retail,26,16.0,5.469,0.538,0.0
+624,FLIR,Year 1,2012-12-31,1,0.0,0.2925,0.137354,,Information Technology,Electronic Equipment & Instruments,4,0.0,1.260778,0.0,0.560693
+625,FLIR,Year 2,2013-12-31,1,0.0,0.322739,0.147696,,Information Technology,Electronic Equipment & Instruments,4,0.0,1.260778,0.0,0.560693
+626,FLIR,Year 3,2014-12-31,1,0.0,0.331995,0.142751,,Information Technology,Electronic Equipment & Instruments,4,0.0,1.260778,0.0,0.560693
+627,FLIR,Year 4,2015-12-31,1,0.0,0.313544,0.132892,,Information Technology,Electronic Equipment & Instruments,4,0.0,1.260778,0.0,0.560693
+628,FLR,Year 1,2013-12-31,27,25.0,0.175148,,,Industrials,Diversified Commercial Services,85,80.0,0.957157,0.0,0.0
+629,FLR,Year 2,2014-12-31,21,20.0,0.182711,,,Industrials,Diversified Commercial Services,85,80.0,0.957157,0.0,0.0
+630,FLR,Year 3,2015-12-31,18,17.0,0.408225,,,Industrials,Diversified Commercial Services,85,80.0,0.957157,0.0,0.0
+631,FLR,Year 4,2016-12-31,19,18.0,0.191073,,,Industrials,Diversified Commercial Services,85,80.0,0.957157,0.0,0.0
+632,FLS,Year 1,2013-12-31,4,3.0,0.966829,,,Industrials,Industrial Machinery,15,11.0,3.840662,0.0,0.0
+633,FLS,Year 2,2014-12-31,4,3.0,0.9369,,,Industrials,Industrial Machinery,15,11.0,3.840662,0.0,0.0
+634,FLS,Year 3,2015-12-31,4,3.0,0.971611,,,Industrials,Industrial Machinery,15,11.0,3.840662,0.0,0.0
+635,FLS,Year 4,2016-12-31,3,2.0,0.965322,,,Industrials,Industrial Machinery,15,11.0,3.840662,0.0,0.0
+636,FMC,Year 1,2012-12-31,3,2.0,0.4897,0.112,,Materials,Diversified Chemicals,12,7.0,2.3135,0.0,0.4976
+637,FMC,Year 2,2013-12-31,3,1.0,0.4961,0.1156,,Materials,Diversified Chemicals,12,7.0,2.3135,0.0,0.4976
+638,FMC,Year 3,2014-12-31,3,2.0,0.5898,0.1263,,Materials,Diversified Chemicals,12,7.0,2.3135,0.0,0.4976
+639,FMC,Year 4,2015-12-31,3,2.0,0.7379,0.1437,,Materials,Diversified Chemicals,12,7.0,2.3135,0.0,0.4976
+640,FRT,Year 1,2013-12-31,0,0.0,0.03197,,0.160828,Real Estate,Retail REITs,0,0.0,0.13333,0.7000230000000001,0.0
+641,FRT,Year 2,2014-12-31,0,0.0,0.032316,,0.170814,Real Estate,Retail REITs,0,0.0,0.13333,0.7000230000000001,0.0
+642,FRT,Year 3,2015-12-31,0,0.0,0.035645,,0.174796,Real Estate,Retail REITs,0,0.0,0.13333,0.7000230000000001,0.0
+643,FRT,Year 4,2016-12-31,0,0.0,0.033399,,0.193585,Real Estate,Retail REITs,0,0.0,0.13333,0.7000230000000001,0.0
+644,FSLR,Year 1,2012-12-31,3,2.0,0.280928,0.13246,,Information Technology,Semiconductors,12,8.0,1.060208,0.0,0.541322
+645,FSLR,Year 2,2013-12-31,3,2.0,0.270261,0.1343,,Information Technology,Semiconductors,12,8.0,1.060208,0.0,0.541322
+646,FSLR,Year 3,2014-12-31,3,2.0,0.253827,0.143969,,Information Technology,Semiconductors,12,8.0,1.060208,0.0,0.541322
+647,FSLR,Year 4,2015-12-31,3,2.0,0.255192,0.130593,,Information Technology,Semiconductors,12,8.0,1.060208,0.0,0.541322
+648,FTR,Year 1,2012-12-31,5,,2.676141,,1.266807,Telecommunications Services,Integrated Telecommunications Services,18,0.0,11.238140999999999,4.895807,0.0
+649,FTR,Year 2,2013-12-31,4,,2.616,,1.17,Telecommunications Services,Integrated Telecommunications Services,18,0.0,11.238140999999999,4.895807,0.0
+650,FTR,Year 3,2014-12-31,4,,2.671,,1.139,Telecommunications Services,Integrated Telecommunications Services,18,0.0,11.238140999999999,4.895807,0.0
+651,FTR,Year 4,2015-12-31,5,,3.275,,1.32,Telecommunications Services,Integrated Telecommunications Services,18,0.0,11.238140999999999,4.895807,0.0
+652,GD,Year 1,2013-12-31,30,25.0,2.039,,,Industrials,Aerospace & Defense,122,99.0,7.915,0.0,0.0
+653,GD,Year 2,2014-12-31,30,24.0,1.984,,,Industrials,Aerospace & Defense,122,99.0,7.915,0.0,0.0
+654,GD,Year 3,2015-12-31,31,25.0,1.952,,,Industrials,Aerospace & Defense,122,99.0,7.915,0.0,0.0
+655,GD,Year 4,2016-12-31,31,25.0,1.94,,,Industrials,Aerospace & Defense,122,99.0,7.915,0.0,0.0
+656,GGP,Year 1,2012-12-31,2,0.0,0.072163,,0.76882,Real Estate,Retail REITs,8,0.0,0.310095,2.870637,0.0
+657,GGP,Year 2,2013-12-31,2,0.0,0.076864,,0.749722,Real Estate,Retail REITs,8,0.0,0.310095,2.870637,0.0
+658,GGP,Year 3,2014-12-31,2,0.0,0.088705,,0.708406,Real Estate,Retail REITs,8,0.0,0.310095,2.870637,0.0
+659,GGP,Year 4,2015-12-31,2,0.0,0.072363,,0.643689,Real Estate,Retail REITs,8,0.0,0.310095,2.870637,0.0
+660,GILD,Year 1,2012-12-31,9,2.0,1.461,1.76,,Health Care,Biotechnology,76,11.0,9.569,0.0,9.748
+661,GILD,Year 2,2013-12-31,11,2.0,1.699,2.12,,Health Care,Biotechnology,76,11.0,9.569,0.0,9.748
+662,GILD,Year 3,2014-12-31,24,3.0,2.983,2.854,,Health Care,Biotechnology,76,11.0,9.569,0.0,9.748
+663,GILD,Year 4,2015-12-31,32,4.0,3.426,3.014,,Health Care,Biotechnology,76,11.0,9.569,0.0,9.748
+664,GIS,Year 1,2013-05-26,17,11.0,3.5523,,,Consumer Staples,Packaged Foods & Meats,67,43.0,13.4735,0.0,0.0
+665,GIS,Year 2,2014-05-25,17,11.0,3.4743,,,Consumer Staples,Packaged Foods & Meats,67,43.0,13.4735,0.0,0.0
+666,GIS,Year 3,2015-05-31,17,11.0,3.328,,,Consumer Staples,Packaged Foods & Meats,67,43.0,13.4735,0.0,0.0
+667,GIS,Year 4,2016-05-29,16,10.0,3.1189,,,Consumer Staples,Packaged Foods & Meats,67,43.0,13.4735,0.0,0.0
+668,GLW,Year 1,2013-12-31,7,4.0,1.126,0.71,0.031,Information Technology,Electronic Components,34,19.0,5.308,0.182,3.036
+669,GLW,Year 2,2014-12-31,9,5.0,1.202,0.815,0.033,Information Technology,Electronic Components,34,19.0,5.308,0.182,3.036
+670,GLW,Year 3,2015-12-31,9,5.0,1.508,0.769,0.054,Information Technology,Electronic Components,34,19.0,5.308,0.182,3.036
+671,GLW,Year 4,2016-12-31,9,5.0,1.472,0.742,0.064,Information Technology,Electronic Components,34,19.0,5.308,0.182,3.036
+672,GM,Year 1,2013-12-31,155,137.0,12.382,,,Consumer Discretionary,Automobile Manufacturers,628,558.0,49.655,0.0,0.0
+673,GM,Year 2,2014-12-31,155,142.0,12.158,,,Consumer Discretionary,Automobile Manufacturers,628,558.0,49.655,0.0,0.0
+674,GM,Year 3,2015-12-31,152,134.0,13.405,,,Consumer Discretionary,Automobile Manufacturers,628,558.0,49.655,0.0,0.0
+675,GM,Year 4,2016-12-31,166,145.0,11.71,,,Consumer Discretionary,Automobile Manufacturers,628,558.0,49.655,0.0,0.0
+676,GPC,Year 1,2012-12-31,13,9.0,2.65653,,0.098383,Consumer Discretionary,Specialty Stores,57,38.0,12.275978,0.522328,0.0
+677,GPC,Year 2,2013-12-31,14,9.0,3.028028,,0.133957,Consumer Discretionary,Specialty Stores,57,38.0,12.275978,0.522328,0.0
+678,GPC,Year 3,2014-12-31,15,10.0,3.31403,,0.148313,Consumer Discretionary,Specialty Stores,57,38.0,12.275978,0.522328,0.0
+679,GPC,Year 4,2015-12-31,15,10.0,3.27739,,0.141675,Consumer Discretionary,Specialty Stores,57,38.0,12.275978,0.522328,0.0
+680,GPN,Year 1,2013-05-31,2,0.0,1.156635,,,Information Technology,Data Processing & Outsourced Services,8,2.0,4.973728,0.0,0.0
+681,GPN,Year 2,2014-05-31,2,0.0,1.196512,,,Information Technology,Data Processing & Outsourced Services,8,2.0,4.973728,0.0,0.0
+682,GPN,Year 3,2015-05-31,2,1.0,1.295014,,,Information Technology,Data Processing & Outsourced Services,8,2.0,4.973728,0.0,0.0
+683,GPN,Year 4,2016-05-31,2,1.0,1.325567,,,Information Technology,Data Processing & Outsourced Services,8,2.0,4.973728,0.0,0.0
+684,GPS,Year 1,2013-02-02,15,9.0,,,,Consumer Discretionary,Apparel Retail,62,38.0,0.0,0.0,0.0
+685,GPS,Year 2,2014-02-01,16,9.0,,,,Consumer Discretionary,Apparel Retail,62,38.0,0.0,0.0,0.0
+686,GPS,Year 3,2015-01-31,16,10.0,,,,Consumer Discretionary,Apparel Retail,62,38.0,0.0,0.0,0.0
+687,GPS,Year 4,2016-01-30,15,10.0,,,,Consumer Discretionary,Apparel Retail,62,38.0,0.0,0.0,0.0
+688,GRMN,Year 1,2012-12-29,2,1.0,0.508547,0.325773,,Consumer Discretionary,Consumer Electronics,8,4.0,2.057637,0.0,1.5128599999999999
+689,GRMN,Year 2,2013-12-28,2,1.0,0.468345,0.364923,,Consumer Discretionary,Consumer Electronics,8,4.0,2.057637,0.0,1.5128599999999999
+690,GRMN,Year 3,2014-12-27,2,1.0,0.518665,0.395121,,Consumer Discretionary,Consumer Electronics,8,4.0,2.057637,0.0,1.5128599999999999
+691,GRMN,Year 4,2015-12-26,2,1.0,0.56208,0.427043,,Consumer Discretionary,Consumer Electronics,8,4.0,2.057637,0.0,1.5128599999999999
+692,GT,Year 1,2013-12-31,19,15.0,2.816,,,Consumer Discretionary,Tires & Rubber,68,50.0,10.975999999999999,0.0,0.0
+693,GT,Year 2,2014-12-31,18,13.0,2.815,,,Consumer Discretionary,Tires & Rubber,68,50.0,10.975999999999999,0.0,0.0
+694,GT,Year 3,2015-12-31,16,12.0,2.728,,,Consumer Discretionary,Tires & Rubber,68,50.0,10.975999999999999,0.0,0.0
+695,GT,Year 4,2016-12-31,15,10.0,2.617,,,Consumer Discretionary,Tires & Rubber,68,50.0,10.975999999999999,0.0,0.0
+696,GWW,Year 1,2012-12-31,8,5.0,2.785035,,,Industrials,Industrial Materials,35,20.0,11.522897,0.0,0.0
+697,GWW,Year 2,2013-12-31,9,5.0,2.839629,,,Industrials,Industrial Materials,35,20.0,11.522897,0.0,0.0
+698,GWW,Year 3,2014-12-31,9,5.0,2.967125,,,Industrials,Industrial Materials,35,20.0,11.522897,0.0,0.0
+699,GWW,Year 4,2015-12-31,9,5.0,2.931108,,,Industrials,Industrial Materials,35,20.0,11.522897,0.0,0.0
+700,HAL,Year 1,2013-12-31,29,24.0,1.333,,,Energy,Oil & Gas Equipment & Services,99,87.0,2.054,0.0,0.0
+701,HAL,Year 2,2014-12-31,32,27.0,0.293,,,Energy,Oil & Gas Equipment & Services,99,87.0,2.054,0.0,0.0
+702,HAL,Year 3,2015-12-31,23,21.0,0.2,,,Energy,Oil & Gas Equipment & Services,99,87.0,2.054,0.0,0.0
+703,HAL,Year 4,2016-12-31,15,15.0,0.228,,,Energy,Oil & Gas Equipment & Services,99,87.0,2.054,0.0,0.0
+704,HAR,Year 1,2013-06-30,4,3.0,0.902869,,,Consumer Discretionary,Consumer Electronics,21,14.0,4.890383,0.0,0.0
+705,HAR,Year 2,2014-06-30,5,3.0,1.12694,,,Consumer Discretionary,Consumer Electronics,21,14.0,4.890383,0.0,0.0
+706,HAR,Year 3,2015-06-30,6,4.0,1.34751,,,Consumer Discretionary,Consumer Electronics,21,14.0,4.890383,0.0,0.0
+707,HAR,Year 4,2016-06-30,6,4.0,1.513064,,,Consumer Discretionary,Consumer Electronics,21,14.0,4.890383,0.0,0.0
+708,HAS,Year 1,2012-12-31,4,1.0,1.269586,0.201197,0.092369,Consumer Discretionary,Leisure Products,16,4.0,5.225339,0.40420999999999996,0.874288
+709,HAS,Year 2,2013-12-29,4,1.0,1.269777,0.207591,0.125876,Consumer Discretionary,Leisure Products,16,4.0,5.225339,0.40420999999999996,0.874288
+710,HAS,Year 3,2014-12-28,4,1.0,1.315793,0.222556,0.099794,Consumer Discretionary,Leisure Products,16,4.0,5.225339,0.40420999999999996,0.874288
+711,HAS,Year 4,2015-12-27,4,1.0,1.370183,0.242944,0.086171,Consumer Discretionary,Leisure Products,16,4.0,5.225339,0.40420999999999996,0.874288
+712,HBAN,Year 1,2012-12-31,3,0.0,1.789327,,0.193937,Financials,Banks,10,0.0,7.297076,0.573433,0.0
+713,HBAN,Year 2,2013-12-31,2,0.0,1.716639,,0.131409,Financials,Banks,10,0.0,7.297076,0.573433,0.0
+714,HBAN,Year 3,2014-12-31,2,0.0,1.843069,,0.120266,Financials,Banks,10,0.0,7.297076,0.573433,0.0
+715,HBAN,Year 4,2015-12-31,3,0.0,1.948041,,0.127821,Financials,Banks,10,0.0,7.297076,0.573433,0.0
+716,HBI,Year 1,2013-12-28,4,3.0,1.096507,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",20,12.0,5.478573,0.0,0.0
+717,HBI,Year 2,2015-01-03,5,3.0,1.340453,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",20,12.0,5.478573,0.0,0.0
+718,HBI,Year 3,2016-01-02,5,3.0,1.541214,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",20,12.0,5.478573,0.0,0.0
+719,HBI,Year 4,2016-12-31,6,3.0,1.500399,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",20,12.0,5.478573,0.0,0.0
+720,HCA,Year 1,2012-12-31,33,5.0,20.801,,1.679,Health Care,Health Care Facilities,142,22.0,90.91,7.156,0.0
+721,HCA,Year 2,2013-12-31,34,5.0,21.667,,1.753,Health Care,Health Care Facilities,142,22.0,90.91,7.156,0.0
+722,HCA,Year 3,2014-12-31,36,6.0,23.271,,1.82,Health Care,Health Care Facilities,142,22.0,90.91,7.156,0.0
+723,HCA,Year 4,2015-12-31,39,6.0,25.171,,1.904,Health Care,Health Care Facilities,142,22.0,90.91,7.156,0.0
+724,HCN,Year 1,2012-12-31,1,0.0,0.15895,,0.50622,Real Estate,REITs,9,3.0,0.871492,3.04239,0.0
+725,HCN,Year 2,2013-12-31,2,1.0,0.241719,,0.8658,Real Estate,REITs,9,3.0,0.871492,3.04239,0.0
+726,HCN,Year 3,2014-12-31,3,1.0,0.212481,,0.84413,Real Estate,REITs,9,3.0,0.871492,3.04239,0.0
+727,HCN,Year 4,2015-12-31,3,1.0,0.258342,,0.82624,Real Estate,REITs,9,3.0,0.871492,3.04239,0.0
+728,HCP,Year 1,2013-12-31,2,,0.401324,,0.423312,Real Estate,REITs,6,0.0,2.413037,1.951341,0.0
+729,HCP,Year 2,2014-12-31,1,,0.463059,,0.455016,Real Estate,REITs,6,0.0,2.413037,1.951341,0.0
+730,HCP,Year 3,2015-12-31,1,,0.706644,,0.504905,Real Estate,REITs,6,0.0,2.413037,1.951341,0.0
+731,HCP,Year 4,2016-12-31,2,,0.84201,,0.568108,Real Estate,REITs,6,0.0,2.413037,1.951341,0.0
+732,HD,Year 1,2013-02-03,74,48.0,16.508,,1.568,Consumer Discretionary,Home Improvement Retail,323,211.0,65.711,6.525,0.0
+733,HD,Year 2,2014-02-02,78,51.0,16.122,,1.627,Consumer Discretionary,Home Improvement Retail,323,211.0,65.711,6.525,0.0
+734,HD,Year 3,2015-02-01,83,54.0,16.28,,1.64,Consumer Discretionary,Home Improvement Retail,323,211.0,65.711,6.525,0.0
+735,HD,Year 4,2016-01-31,88,58.0,16.801,,1.69,Consumer Discretionary,Home Improvement Retail,323,211.0,65.711,6.525,0.0
+736,HES,Year 1,2012-12-31,12,3.0,1.126,,2.866,Energy,Integrated Oil & Gas,39,12.0,3.7369999999999997,12.732,0.0
+737,HES,Year 2,2013-12-31,11,3.0,1.045,,2.687,Energy,Integrated Oil & Gas,39,12.0,3.7369999999999997,12.732,0.0
+738,HES,Year 3,2014-12-31,10,3.0,0.863,,3.224,Energy,Integrated Oil & Gas,39,12.0,3.7369999999999997,12.732,0.0
+739,HES,Year 4,2015-12-31,6,3.0,0.703,,3.955,Energy,Integrated Oil & Gas,39,12.0,3.7369999999999997,12.732,0.0
+740,HIG,Year 1,2012-12-31,22,13.0,,,7.08,Financials,Property & Casualty Insurance,78,44.0,0.0,24.081,0.0
+741,HIG,Year 2,2013-12-31,20,11.0,,,5.97,Financials,Property & Casualty Insurance,78,44.0,0.0,24.081,0.0
+742,HIG,Year 3,2014-12-31,18,10.0,,,5.757,Financials,Property & Casualty Insurance,78,44.0,0.0,24.081,0.0
+743,HIG,Year 4,2015-12-31,18,10.0,,,5.274,Financials,Property & Casualty Insurance,78,44.0,0.0,24.081,0.0
+744,HOG,Year 1,2012-12-31,5,3.0,1.111232,,,Consumer Discretionary,Motorcycle Manufacturers,21,12.0,4.615582,0.0,0.0
+745,HOG,Year 2,2013-12-31,5,3.0,1.124753,,,Consumer Discretionary,Motorcycle Manufacturers,21,12.0,4.615582,0.0,0.0
+746,HOG,Year 3,2014-12-31,6,3.0,1.159502,,,Consumer Discretionary,Motorcycle Manufacturers,21,12.0,4.615582,0.0,0.0
+747,HOG,Year 4,2015-12-31,5,3.0,1.220095,,,Consumer Discretionary,Motorcycle Manufacturers,21,12.0,4.615582,0.0,0.0
+748,HOLX,Year 1,2013-09-28,2,1.0,0.6611,0.1976,0.1126,Health Care,Health Care Equipment,8,4.0,2.559,0.4263,0.8478
+749,HOLX,Year 2,2014-09-27,2,1.0,0.5915,0.2032,0.1138,Health Care,Health Care Equipment,8,4.0,2.559,0.4263,0.8478
+750,HOLX,Year 3,2015-09-26,2,1.0,0.624,0.2149,0.1102,Health Care,Health Care Equipment,8,4.0,2.559,0.4263,0.8478
+751,HOLX,Year 4,2016-09-24,2,1.0,0.6824,0.2321,0.0897,Health Care,Health Care Equipment,8,4.0,2.559,0.4263,0.8478
+752,HON,Year 1,2013-12-31,39,28.0,5.19,,,Industrials,Industrial Conglomerates,156,109.0,21.183,0.0,0.0
+753,HON,Year 2,2014-12-31,40,28.0,5.518,,,Industrials,Industrial Conglomerates,156,109.0,21.183,0.0,0.0
+754,HON,Year 3,2015-12-31,38,26.0,5.006,,,Industrials,Industrial Conglomerates,156,109.0,21.183,0.0,0.0
+755,HON,Year 4,2016-12-31,39,27.0,5.469,,,Industrials,Industrial Conglomerates,156,109.0,21.183,0.0,0.0
+756,HP,Year 1,2013-09-30,3,1.0,0.12625,0.015235,0.455623,Energy,Oil & Gas Drilling,10,4.0,0.501605,2.186233,0.057512999999999995
+757,HP,Year 2,2014-09-30,3,2.0,0.11619,0.015905,0.523984,Energy,Oil & Gas Drilling,10,4.0,0.501605,2.186233,0.057512999999999995
+758,HP,Year 3,2015-09-30,3,1.0,0.122878,0.016104,0.608039,Energy,Oil & Gas Drilling,10,4.0,0.501605,2.186233,0.057512999999999995
+759,HP,Year 4,2016-09-30,1,0.0,0.136287,0.010269,0.598587,Energy,Oil & Gas Drilling,10,4.0,0.501605,2.186233,0.057512999999999995
+760,HPE,Year 1,2014-10-31,55,39.0,8.717,2.197,0.906,Information Technology,"Technology Hardware, Storage & Peripherals",157,111.0,26.183,2.513,6.833
+761,HPE,Year 2,2015-10-31,52,37.0,9.047,2.338,0.852,Information Technology,"Technology Hardware, Storage & Peripherals",157,111.0,26.183,2.513,6.833
+762,HPE,Year 3,2016-10-31,50,35.0,8.419,2.298,0.755,Information Technology,"Technology Hardware, Storage & Peripherals",157,111.0,26.183,2.513,6.833
+763,HPQ,Year 1,2013-10-31,112,86.0,13.267,3.135,1.373,Information Technology,Computer Hardware,267,211.0,27.31,1.62,6.833
+764,HPQ,Year 2,2014-10-31,56,45.0,5.361,1.298,0.129,Information Technology,Computer Hardware,267,211.0,27.31,1.62,6.833
+765,HPQ,Year 3,2015-10-31,51,41.0,4.663,1.191,0.102,Information Technology,Computer Hardware,267,211.0,27.31,1.62,6.833
+766,HPQ,Year 4,2016-10-31,48,39.0,4.019,1.209,0.016,Information Technology,Computer Hardware,267,211.0,27.31,1.62,6.833
+767,HRB,Year 1,2013-04-30,2,1.0,0.828095,,0.092407,Financials,Consumer Finance,11,4.0,3.382623,0.541413,0.0
+768,HRB,Year 2,2014-04-30,3,1.0,0.830789,,0.115604,Financials,Consumer Finance,11,4.0,3.382623,0.541413,0.0
+769,HRB,Year 3,2015-04-30,3,1.0,0.818091,,0.159804,Financials,Consumer Finance,11,4.0,3.382623,0.541413,0.0
+770,HRB,Year 4,2016-04-30,3,1.0,0.905648,,0.173598,Financials,Consumer Finance,11,4.0,3.382623,0.541413,0.0
+771,HRL,Year 1,2013-10-27,8,7.0,0.62734,,,Consumer Staples,Packaged Foods & Meats,35,28.0,2.893873,0.0,0.0
+772,HRL,Year 2,2014-10-26,9,7.0,0.650948,,,Consumer Staples,Packaged Foods & Meats,35,28.0,2.893873,0.0,0.0
+773,HRL,Year 3,2015-10-31,9,7.0,0.743611,,,Consumer Staples,Packaged Foods & Meats,35,28.0,2.893873,0.0,0.0
+774,HRL,Year 4,2016-10-30,9,7.0,0.871974,,,Consumer Staples,Packaged Foods & Meats,35,28.0,2.893873,0.0,0.0
+775,HRS,Year 1,2013-06-28,5,3.0,0.914,,,Information Technology,Telecommunications Equipment,22,14.0,3.896,0.0,0.0
+776,HRS,Year 2,2014-06-27,5,3.0,0.82,,,Information Technology,Telecommunications Equipment,22,14.0,3.896,0.0,0.0
+777,HRS,Year 3,2015-07-03,5,3.0,0.976,,,Information Technology,Telecommunications Equipment,22,14.0,3.896,0.0,0.0
+778,HRS,Year 4,2016-07-01,7,5.0,1.186,,,Information Technology,Telecommunications Equipment,22,14.0,3.896,0.0,0.0
+779,HSIC,Year 1,2012-12-29,8,6.0,1.87336,,,Health Care,Health Care Distributors,37,26.0,8.291849,0.0,0.0
+780,HSIC,Year 2,2013-12-28,9,6.0,1.97896,,,Health Care,Health Care Distributors,37,26.0,8.291849,0.0,0.0
+781,HSIC,Year 3,2014-12-27,10,7.0,2.196173,,,Health Care,Health Care Distributors,37,26.0,8.291849,0.0,0.0
+782,HSIC,Year 4,2015-12-26,10,7.0,2.243356,,,Health Care,Health Care Distributors,37,26.0,8.291849,0.0,0.0
+783,HST,Year 1,2012-12-31,5,1.0,2.101,,0.722,Real Estate,REITs,20,6.0,8.0,2.836,0.0
+784,HST,Year 2,2013-12-31,5,1.0,1.968,,0.697,Real Estate,REITs,20,6.0,8.0,2.836,0.0
+785,HST,Year 3,2014-12-31,5,2.0,1.92,,0.701,Real Estate,REITs,20,6.0,8.0,2.836,0.0
+786,HST,Year 4,2015-12-31,5,2.0,2.011,,0.716,Real Estate,REITs,20,6.0,8.0,2.836,0.0
+787,HSY,Year 1,2012-12-31,6,3.0,1.703796,,,Consumer Staples,Packaged Foods & Meats,27,14.0,7.49552,0.0,0.0
+788,HSY,Year 2,2013-12-31,7,3.0,1.924132,,,Consumer Staples,Packaged Foods & Meats,27,14.0,7.49552,0.0,0.0
+789,HSY,Year 3,2014-12-31,7,4.0,1.898284,,,Consumer Staples,Packaged Foods & Meats,27,14.0,7.49552,0.0,0.0
+790,HSY,Year 4,2015-12-31,7,4.0,1.969308,,,Consumer Staples,Packaged Foods & Meats,27,14.0,7.49552,0.0,0.0
+791,HUM,Year 1,2013-12-31,41,32.0,,,6.688,Health Care,Managed Health Care,197,159.0,0.0,29.964,0.0
+792,HUM,Year 2,2014-12-31,48,38.0,,,7.972,Health Care,Managed Health Care,197,159.0,0.0,29.964,0.0
+793,HUM,Year 3,2015-12-31,54,44.0,,,7.673,Health Care,Managed Health Care,197,159.0,0.0,29.964,0.0
+794,HUM,Year 4,2016-12-31,54,45.0,,,7.631,Health Care,Managed Health Care,197,159.0,0.0,29.964,0.0
+795,IBM,Year 1,2012-12-31,102,52.0,22.389,5.816,,Information Technology,IT Consulting & Other Services,373,188.0,87.20400000000001,0.0,22.243000000000002
+796,IBM,Year 2,2013-12-31,98,49.0,22.629,5.743,,Information Technology,IT Consulting & Other Services,373,188.0,87.20400000000001,0.0,22.243000000000002
+797,IBM,Year 3,2014-12-31,92,46.0,22.438,5.437,,Information Technology,IT Consulting & Other Services,373,188.0,87.20400000000001,0.0,22.243000000000002
+798,IBM,Year 4,2015-12-31,81,41.0,19.748,5.247,,Information Technology,IT Consulting & Other Services,373,188.0,87.20400000000001,0.0,22.243000000000002
+799,IDXX,Year 1,2012-12-31,1,0.0,0.354571,0.082014,,Health Care,Health Care Equipment,4,0.0,1.6959870000000001,0.0,0.367961
+800,IDXX,Year 2,2013-12-31,1,0.0,0.401353,0.088003,,Health Care,Health Care Equipment,4,0.0,1.6959870000000001,0.0,0.367961
+801,IDXX,Year 3,2014-12-31,1,0.0,0.457598,0.098263,,Health Care,Health Care Equipment,4,0.0,1.6959870000000001,0.0,0.367961
+802,IDXX,Year 4,2015-12-31,1,0.0,0.482465,0.099681,,Health Care,Health Care Equipment,4,0.0,1.6959870000000001,0.0,0.367961
+803,IFF,Year 1,2012-12-31,2,1.0,0.453535,0.233713,,Materials,Specialty Chemicals,10,4.0,1.98386,0.0,0.993292
+804,IFF,Year 2,2013-12-31,2,1.0,0.505877,0.259838,,Materials,Specialty Chemicals,10,4.0,1.98386,0.0,0.993292
+805,IFF,Year 3,2014-12-31,3,1.0,0.514891,0.25364,,Materials,Specialty Chemicals,10,4.0,1.98386,0.0,0.993292
+806,IFF,Year 4,2015-12-31,3,1.0,0.509557,0.246101,,Materials,Specialty Chemicals,10,4.0,1.98386,0.0,0.993292
+807,ILMN,Year 1,2013-12-29,1,0.0,0.397285,0.276743,,Health Care,Life Sciences Tools & Services,6,0.0,1.975743,0.0,1.57074
+808,ILMN,Year 2,2014-12-28,1,0.0,0.471921,0.388055,,Health Care,Life Sciences Tools & Services,6,0.0,1.975743,0.0,1.57074
+809,ILMN,Year 3,2016-01-03,2,0.0,0.522046,0.401527,,Health Care,Life Sciences Tools & Services,6,0.0,1.975743,0.0,1.57074
+810,ILMN,Year 4,2017-01-01,2,0.0,0.584491,0.504415,,Health Care,Life Sciences Tools & Services,6,0.0,1.975743,0.0,1.57074
+811,INTC,Year 1,2013-12-28,52,21.0,8.088,10.611,0.291,Information Technology,Semiconductors,221,84.0,32.551,1.144,47.016000000000005
+812,INTC,Year 2,2014-12-27,55,20.0,8.136,11.537,0.294,Information Technology,Semiconductors,221,84.0,32.551,1.144,47.016000000000005
+813,INTC,Year 3,2015-12-26,55,20.0,7.93,12.128,0.265,Information Technology,Semiconductors,221,84.0,32.551,1.144,47.016000000000005
+814,INTC,Year 4,2016-12-31,59,23.0,8.397,12.74,0.294,Information Technology,Semiconductors,221,84.0,32.551,1.144,47.016000000000005
+815,INTU,Year 1,2013-07-31,3,0.0,1.534,0.647,0.03,Information Technology,Internet Software & Services,15,0.0,6.713,0.131,3.04
+816,INTU,Year 2,2014-07-31,4,0.0,1.601,0.714,0.025,Information Technology,Internet Software & Services,15,0.0,6.713,0.131,3.04
+817,INTU,Year 3,2015-07-31,4,0.0,1.771,0.798,0.042,Information Technology,Internet Software & Services,15,0.0,6.713,0.131,3.04
+818,INTU,Year 4,2016-07-31,4,0.0,1.807,0.881,0.034,Information Technology,Internet Software & Services,15,0.0,6.713,0.131,3.04
+819,IP,Year 1,2012-12-31,21,15.0,3.303,,1.473,Materials,Paper Packaging,89,62.0,13.573,5.704,0.0
+820,IP,Year 2,2013-12-31,23,16.0,3.557,,1.531,Materials,Paper Packaging,89,62.0,13.573,5.704,0.0
+821,IP,Year 3,2014-12-31,23,16.0,3.494,,1.406,Materials,Paper Packaging,89,62.0,13.573,5.704,0.0
+822,IP,Year 4,2015-12-31,22,15.0,3.219,,1.294,Materials,Paper Packaging,89,62.0,13.573,5.704,0.0
+823,IPG,Year 1,2012-12-31,6,,6.2791,,,Consumer Discretionary,Advertising,27,0.0,26.2337,0.0,0.0
+824,IPG,Year 2,2013-12-31,7,,6.4634,,,Consumer Discretionary,Advertising,27,0.0,26.2337,0.0,0.0
+825,IPG,Year 3,2014-12-31,7,,6.7485,,,Consumer Discretionary,Advertising,27,0.0,26.2337,0.0,0.0
+826,IPG,Year 4,2015-12-31,7,,6.7427,,,Consumer Discretionary,Advertising,27,0.0,26.2337,0.0,0.0
+827,IRM,Year 1,2012-12-31,3,1.0,0.850371,,0.316344,Real Estate,REITs,12,4.0,3.488934,1.336988,0.0
+828,IRM,Year 2,2013-12-31,3,1.0,0.924031,,0.322037,Real Estate,REITs,12,4.0,3.488934,1.336988,0.0
+829,IRM,Year 3,2014-12-31,3,1.0,0.869572,,0.353143,Real Estate,REITs,12,4.0,3.488934,1.336988,0.0
+830,IRM,Year 4,2015-12-31,3,1.0,0.84496,,0.345464,Real Estate,REITs,12,4.0,3.488934,1.336988,0.0
+831,ISRG,Year 1,2013-12-31,2,0.0,0.574,0.1677,,Health Care,Health Care Equipment,8,0.0,2.6108,0.0,0.7827
+832,ISRG,Year 2,2014-12-31,2,0.0,0.691,0.178,,Health Care,Health Care Equipment,8,0.0,2.6108,0.0,0.7827
+833,ISRG,Year 3,2015-12-31,2,0.0,0.6405,0.1974,,Health Care,Health Care Equipment,8,0.0,2.6108,0.0,0.7827
+834,ISRG,Year 4,2016-12-31,2,0.0,0.7053,0.2396,,Health Care,Health Care Equipment,8,0.0,2.6108,0.0,0.7827
+835,ITW,Year 1,2013-12-31,14,8.0,2.815,,0.25,Industrials,Industrial Machinery,54,30.0,10.325,0.952,0.0
+836,ITW,Year 2,2014-12-31,14,8.0,2.678,,0.245,Industrials,Industrial Machinery,54,30.0,10.325,0.952,0.0
+837,ITW,Year 3,2015-12-31,13,7.0,2.417,,0.233,Industrials,Industrial Machinery,54,30.0,10.325,0.952,0.0
+838,ITW,Year 4,2016-12-31,13,7.0,2.415,,0.224,Industrials,Industrial Machinery,54,30.0,10.325,0.952,0.0
+839,IVZ,Year 1,2012-12-31,4,,3.2078,,,Financials,Asset Management & Custody Banks,18,0.0,14.366900000000001,0.0,0.0
+840,IVZ,Year 2,2013-12-31,4,,3.5244,,,Financials,Asset Management & Custody Banks,18,0.0,14.366900000000001,0.0,0.0
+841,IVZ,Year 3,2014-12-31,5,,3.8702,,,Financials,Asset Management & Custody Banks,18,0.0,14.366900000000001,0.0,0.0
+842,IVZ,Year 4,2015-12-31,5,,3.7645,,,Financials,Asset Management & Custody Banks,18,0.0,14.366900000000001,0.0,0.0
+843,JBHT,Year 1,2012-12-31,5,3.0,1.064757,,0.229166,Industrials,Trucking,22,12.0,5.0562,1.116655,0.0
+844,JBHT,Year 2,2013-12-31,5,3.0,1.183682,,0.25338,Industrials,Trucking,22,12.0,5.0562,1.116655,0.0
+845,JBHT,Year 3,2014-12-31,6,3.0,1.341,,0.294496,Industrials,Trucking,22,12.0,5.0562,1.116655,0.0
+846,JBHT,Year 4,2015-12-31,6,3.0,1.466761,,0.339613,Industrials,Trucking,22,12.0,5.0562,1.116655,0.0
+847,JEC,Year 1,2013-09-27,11,9.0,1.17334,,,Industrials,Industrial Conglomerates,45,38.0,5.6711,0.0,0.0
+848,JEC,Year 2,2014-09-26,12,10.0,1.545716,,,Industrials,Industrial Conglomerates,45,38.0,5.6711,0.0,0.0
+849,JEC,Year 3,2015-10-02,12,10.0,1.522811,,,Industrials,Industrial Conglomerates,45,38.0,5.6711,0.0,0.0
+850,JEC,Year 4,2016-09-30,10,9.0,1.429233,,,Industrials,Industrial Conglomerates,45,38.0,5.6711,0.0,0.0
+851,JNPR,Year 1,2012-12-31,4,1.0,1.2523,1.1016,,Information Technology,Networking Equipment,16,4.0,4.9729,0.0,4.1455
+852,JNPR,Year 2,2013-12-31,4,1.0,1.2932,1.0432,,Information Technology,Networking Equipment,16,4.0,4.9729,0.0,4.1455
+853,JNPR,Year 3,2014-12-31,4,1.0,1.2547,1.0062,,Information Technology,Networking Equipment,16,4.0,4.9729,0.0,4.1455
+854,JNPR,Year 4,2015-12-31,4,1.0,1.1727,0.9945,,Information Technology,Networking Equipment,16,4.0,4.9729,0.0,4.1455
+855,JPM,Year 1,2012-12-31,93,,64.729,,3.385,Financials,Banks,370,0.0,255.484,10.576,0.0
+856,JPM,Year 2,2013-12-31,97,,70.467,,0.225,Financials,Banks,370,0.0,255.484,10.576,0.0
+857,JPM,Year 3,2014-12-31,91,,61.274,,3.139,Financials,Banks,370,0.0,255.484,10.576,0.0
+858,JPM,Year 4,2015-12-31,89,,59.014,,3.827,Financials,Banks,370,0.0,255.484,10.576,0.0
+859,JWN,Year 1,2013-02-02,12,7.0,3.357,,,Consumer Discretionary,Department Stores,51,31.0,14.755,0.0,0.0
+860,JWN,Year 2,2014-02-01,12,7.0,3.453,,,Consumer Discretionary,Department Stores,51,31.0,14.755,0.0,0.0
+861,JWN,Year 3,2015-01-31,13,8.0,3.777,,,Consumer Discretionary,Department Stores,51,31.0,14.755,0.0,0.0
+862,JWN,Year 4,2016-01-30,14,9.0,4.168,,,Consumer Discretionary,Department Stores,51,31.0,14.755,0.0,0.0
+863,K,Year 1,2012-12-29,14,8.0,3.872,,,Consumer Staples,Packaged Foods & Meats,55,33.0,14.767,0.0,0.0
+864,K,Year 2,2013-12-28,14,8.0,3.266,,,Consumer Staples,Packaged Foods & Meats,55,33.0,14.767,0.0,0.0
+865,K,Year 3,2015-01-03,14,9.0,4.039,,,Consumer Staples,Packaged Foods & Meats,55,33.0,14.767,0.0,0.0
+866,K,Year 4,2016-01-02,13,8.0,3.59,,,Consumer Staples,Packaged Foods & Meats,55,33.0,14.767,0.0,0.0
+867,KEY,Year 1,2013-09-30,1,1.0,0.174085,,0.012784,Financials,Banks,4,4.0,0.800183,0.053195,0.0
+868,KEY,Year 2,2014-09-30,1,1.0,0.194491,,0.013279,Financials,Banks,4,4.0,0.800183,0.053195,0.0
+869,KEY,Year 3,2015-09-30,1,1.0,0.207519,,0.013338,Financials,Banks,4,4.0,0.800183,0.053195,0.0
+870,KEY,Year 4,2016-09-30,1,1.0,0.224088,,0.013794,Financials,Banks,4,4.0,0.800183,0.053195,0.0
+871,KIM,Year 1,2012-12-31,0,0.0,0.123524,,0.214827,Real Estate,REITs,1,0.0,0.49593,1.042141,0.0
+872,KIM,Year 2,2013-12-31,0,0.0,0.12747,,0.224713,Real Estate,REITs,1,0.0,0.49593,1.042141,0.0
+873,KIM,Year 3,2014-12-31,0,0.0,0.122201,,0.258074,Real Estate,REITs,1,0.0,0.49593,1.042141,0.0
+874,KIM,Year 4,2015-12-31,1,0.0,0.122735,,0.344527,Real Estate,REITs,1,0.0,0.49593,1.042141,0.0
+875,KLAC,Year 1,2013-06-30,2,1.0,0.387812,0.487832,,Information Technology,Semiconductor Equipment,8,4.0,1.5589819999999999,0.0,2.039175
+876,KLAC,Year 2,2014-06-30,2,1.0,0.384907,0.539469,,Information Technology,Semiconductor Equipment,8,4.0,1.5589819999999999,0.0,2.039175
+877,KLAC,Year 3,2015-06-30,2,1.0,0.406864,0.530616,,Information Technology,Semiconductor Equipment,8,4.0,1.5589819999999999,0.0,2.039175
+878,KLAC,Year 4,2016-06-30,2,1.0,0.379399,0.481258,,Information Technology,Semiconductor Equipment,8,4.0,1.5589819999999999,0.0,2.039175
+879,KMB,Year 1,2013-12-31,19,12.0,3.706,,,Consumer Staples,Household Products,74,47.0,16.213,0.0,0.0
+880,KMB,Year 2,2014-12-31,19,13.0,4.162,,,Consumer Staples,Household Products,74,47.0,16.213,0.0,0.0
+881,KMB,Year 3,2015-12-31,18,11.0,5.011,,,Consumer Staples,Household Products,74,47.0,16.213,0.0,0.0
+882,KMB,Year 4,2016-12-31,18,11.0,3.334,,,Consumer Staples,Household Products,74,47.0,16.213,0.0,0.0
+883,KMI,Year 1,2013-12-31,14,7.0,1.007,,1.806,Energy,Oil & Gas Refining & Marketing & Transportation,57,26.0,4.2509999999999994,8.364,0.0
+884,KMI,Year 2,2014-12-31,16,8.0,1.029,,2.04,Energy,Oil & Gas Refining & Marketing & Transportation,57,26.0,4.2509999999999994,8.364,0.0
+885,KMI,Year 3,2015-12-31,14,6.0,1.126,,2.309,Energy,Oil & Gas Refining & Marketing & Transportation,57,26.0,4.2509999999999994,8.364,0.0
+886,KMI,Year 4,2016-12-31,13,5.0,1.089,,2.209,Energy,Oil & Gas Refining & Marketing & Transportation,57,26.0,4.2509999999999994,8.364,0.0
+887,KMX,Year 1,2013-02-28,10,9.0,0.731767,,,Consumer Discretionary,Specialty Stores,51,44.0,3.4011449999999996,0.0,0.0
+888,KMX,Year 2,2014-02-28,12,10.0,0.819048,,,Consumer Discretionary,Specialty Stores,51,44.0,3.4011449999999996,0.0,0.0
+889,KMX,Year 3,2015-02-28,14,12.0,0.890431,,,Consumer Discretionary,Specialty Stores,51,44.0,3.4011449999999996,0.0,0.0
+890,KMX,Year 4,2016-02-29,15,13.0,0.959899,,,Consumer Discretionary,Specialty Stores,51,44.0,3.4011449999999996,0.0,0.0
+891,KO,Year 1,2012-12-31,48,19.0,18.185,,,Consumer Staples,Soft Drinks,183,71.0,72.875,0.0,0.0
+892,KO,Year 2,2013-12-31,46,18.0,18.205,,,Consumer Staples,Soft Drinks,183,71.0,72.875,0.0,0.0
+893,KO,Year 3,2014-12-31,45,17.0,18.401,,,Consumer Staples,Soft Drinks,183,71.0,72.875,0.0,0.0
+894,KO,Year 4,2015-12-31,44,17.0,18.084,,,Consumer Staples,Soft Drinks,183,71.0,72.875,0.0,0.0
+895,KORS,Year 1,2013-03-30,2,0.0,0.621536,,0.054291,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",13,3.0,4.227936,0.45559099999999997,0.0
+896,KORS,Year 2,2014-03-29,3,1.0,0.9269,,0.0797,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",13,3.0,4.227936,0.45559099999999997,0.0
+897,KORS,Year 3,2015-03-28,4,1.0,1.2515,,0.1384,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",13,3.0,4.227936,0.45559099999999997,0.0
+898,KORS,Year 4,2016-04-02,4,1.0,1.428,,0.1832,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",13,3.0,4.227936,0.45559099999999997,0.0
+899,KR,Year 1,2013-02-02,96,76.0,15.477,,1.652,Consumer Staples,Food Retail,411,324.0,67.823,7.3919999999999995,0.0
+900,KR,Year 2,2014-02-01,98,78.0,15.809,,1.703,Consumer Staples,Food Retail,411,324.0,67.823,7.3919999999999995,0.0
+901,KR,Year 3,2015-01-31,108,85.0,17.868,,1.948,Consumer Staples,Food Retail,411,324.0,67.823,7.3919999999999995,0.0
+902,KR,Year 4,2016-01-30,109,85.0,18.669,,2.089,Consumer Staples,Food Retail,411,324.0,67.823,7.3919999999999995,0.0
+903,KSS,Year 1,2013-02-02,19,12.0,4.267,,0.833,Consumer Discretionary,General Merchandise Stores,76,48.0,17.381999999999998,3.542,0.0
+904,KSS,Year 2,2014-02-01,19,12.0,4.313,,0.889,Consumer Discretionary,General Merchandise Stores,76,48.0,17.381999999999998,3.542,0.0
+905,KSS,Year 3,2015-01-31,19,12.0,4.35,,0.886,Consumer Discretionary,General Merchandise Stores,76,48.0,17.381999999999998,3.542,0.0
+906,KSS,Year 4,2016-01-30,19,12.0,4.452,,0.934,Consumer Discretionary,General Merchandise Stores,76,48.0,17.381999999999998,3.542,0.0
+907,KSU,Year 1,2013-12-31,2,0.0,0.6021,,0.2233,Industrials,Railroads,8,0.0,2.3249,1.071,0.0
+908,KSU,Year 2,2014-12-31,2,0.0,0.632,,0.2581,Industrials,Railroads,8,0.0,2.3249,1.071,0.0
+909,KSU,Year 3,2015-12-31,2,0.0,0.5712,,0.2846,Industrials,Railroads,8,0.0,2.3249,1.071,0.0
+910,KSU,Year 4,2016-12-31,2,0.0,0.5196,,0.305,Industrials,Railroads,8,0.0,2.3249,1.071,0.0
+911,LB,Year 1,2013-02-02,10,6.0,2.72,,,Consumer Discretionary,Apparel Retail,43,24.0,11.273,0.0,0.0
+912,LB,Year 2,2014-02-01,10,6.0,2.686,,,Consumer Discretionary,Apparel Retail,43,24.0,11.273,0.0,0.0
+913,LB,Year 3,2015-01-31,11,6.0,2.855,,,Consumer Discretionary,Apparel Retail,43,24.0,11.273,0.0,0.0
+914,LB,Year 4,2016-01-30,12,6.0,3.012,,,Consumer Discretionary,Apparel Retail,43,24.0,11.273,0.0,0.0
+915,LEG,Year 1,2012-12-31,3,2.0,0.3461,,0.0251,Industrials,Industrial Conglomerates,12,8.0,1.544,0.091,0.0
+916,LEG,Year 2,2013-12-31,3,2.0,0.3469,,0.0254,Industrials,Industrial Conglomerates,12,8.0,1.544,0.091,0.0
+917,LEG,Year 3,2014-12-31,3,2.0,0.4392,,0.0197,Industrials,Industrial Conglomerates,12,8.0,1.544,0.091,0.0
+918,LEG,Year 4,2015-12-31,3,2.0,0.4118,,0.0208,Industrials,Industrial Conglomerates,12,8.0,1.544,0.091,0.0
+919,LEN,Year 1,2013-11-30,5,4.0,0.328595,,,Consumer Discretionary,Homebuilding,31,25.0,2.244635,0.0,0.0
+920,LEN,Year 2,2014-11-30,7,6.0,0.521502,,,Consumer Discretionary,Homebuilding,31,25.0,2.244635,0.0,0.0
+921,LEN,Year 3,2015-11-30,9,7.0,0.630421,,,Consumer Discretionary,Homebuilding,31,25.0,2.244635,0.0,0.0
+922,LEN,Year 4,2016-11-30,10,8.0,0.764117,,,Consumer Discretionary,Homebuilding,31,25.0,2.244635,0.0,0.0
+923,LH,Year 1,2012-12-31,5,3.0,1.1146,,0.0863,Health Care,Health Care Facilities,24,14.0,5.0636,0.4092,0.0
+924,LH,Year 2,2013-12-31,5,3.0,1.1288,,0.0817,Health Care,Health Care Facilities,24,14.0,5.0636,0.4092,0.0
+925,LH,Year 3,2014-12-31,6,3.0,1.1982,,0.0767,Health Care,Health Care Facilities,24,14.0,5.0636,0.4092,0.0
+926,LH,Year 4,2015-12-31,8,5.0,1.622,,0.1645,Health Care,Health Care Facilities,24,14.0,5.0636,0.4092,0.0
+927,LKQ,Year 1,2012-12-31,4,2.0,1.219343,,0.064093,Consumer Discretionary,Distributors,22,12.0,6.527214,0.387901,0.0
+928,LKQ,Year 2,2013-12-31,5,2.0,1.45408,,0.080969,Consumer Discretionary,Distributors,22,12.0,6.527214,0.387901,0.0
+929,LKQ,Year 3,2014-12-31,6,4.0,1.86652,,0.120719,Consumer Discretionary,Distributors,22,12.0,6.527214,0.387901,0.0
+930,LKQ,Year 4,2015-12-31,7,4.0,1.987271,,0.12212,Consumer Discretionary,Distributors,22,12.0,6.527214,0.387901,0.0
+931,LLL,Year 1,2012-12-31,13,11.0,,,,Industrials,Industrial Conglomerates,44,39.0,0.0,0.0,0.0
+932,LLL,Year 2,2013-12-31,11,10.0,,,,Industrials,Industrial Conglomerates,44,39.0,0.0,0.0,0.0
+933,LLL,Year 3,2014-12-31,10,9.0,,,,Industrials,Industrial Conglomerates,44,39.0,0.0,0.0,0.0
+934,LLL,Year 4,2015-12-31,10,9.0,,,,Industrials,Industrial Conglomerates,44,39.0,0.0,0.0,0.0
+935,LLTC,Year 1,2013-06-30,1,0.0,0.151382,0.235184,,Information Technology,Semiconductors,4,0.0,0.651096,0.0,1.028841
+936,LLTC,Year 2,2014-06-29,1,0.0,0.159642,0.250434,,Information Technology,Semiconductors,4,0.0,0.651096,0.0,1.028841
+937,LLTC,Year 3,2015-06-28,1,0.0,0.169952,0.266761,,Information Technology,Semiconductors,4,0.0,0.651096,0.0,1.028841
+938,LLTC,Year 4,2016-07-03,1,0.0,0.17012,0.276462,,Information Technology,Semiconductors,4,0.0,0.651096,0.0,1.028841
+939,LLY,Year 1,2012-12-31,22,4.0,6.8395,5.2781,,Health Care,Pharmaceuticals,83,17.0,26.158900000000003,0.0,20.3394
+940,LLY,Year 2,2013-12-31,23,4.0,6.6067,5.5313,,Health Care,Pharmaceuticals,83,17.0,26.158900000000003,0.0,20.3394
+941,LLY,Year 3,2014-12-31,19,4.0,6.2803,4.7336,,Health Care,Pharmaceuticals,83,17.0,26.158900000000003,0.0,20.3394
+942,LLY,Year 4,2015-12-31,19,5.0,6.4324,4.7964,,Health Care,Pharmaceuticals,83,17.0,26.158900000000003,0.0,20.3394
+943,LMT,Year 1,2013-12-31,45,41.0,-0.318,,,Industrials,Aerospace & Defense,171,154.0,-1.354,0.0,0.0
+944,LMT,Year 2,2014-12-31,39,35.0,-0.329,,,Industrials,Aerospace & Defense,171,154.0,-1.354,0.0,0.0
+945,LMT,Year 3,2015-12-31,40,36.0,-0.22,,,Industrials,Aerospace & Defense,171,154.0,-1.354,0.0,0.0
+946,LMT,Year 4,2016-12-31,47,42.0,-0.487,,,Industrials,Aerospace & Defense,171,154.0,-1.354,0.0,0.0
+947,LNT,Year 1,2012-12-31,3,2.0,0.0982,,0.3324,Utilities,Electric Utilities,12,8.0,0.40259999999999996,1.4927,0.0
+948,LNT,Year 2,2013-12-31,3,2.0,0.0996,,0.3709,Utilities,Electric Utilities,12,8.0,0.40259999999999996,1.4927,0.0
+949,LNT,Year 3,2014-12-31,3,2.0,0.1011,,0.3881,Utilities,Electric Utilities,12,8.0,0.40259999999999996,1.4927,0.0
+950,LNT,Year 4,2015-12-31,3,2.0,0.1037,,0.4013,Utilities,Electric Utilities,12,8.0,0.40259999999999996,1.4927,0.0
+951,LOW,Year 1,2013-02-01,50,33.0,12.244,,1.523,Consumer Discretionary,Home Improvement Retail,218,141.0,52.505,5.954,0.0
+952,LOW,Year 2,2014-01-31,53,34.0,12.865,,1.462,Consumer Discretionary,Home Improvement Retail,218,141.0,52.505,5.954,0.0
+953,LOW,Year 3,2015-01-30,56,36.0,13.281,,1.485,Consumer Discretionary,Home Improvement Retail,218,141.0,52.505,5.954,0.0
+954,LOW,Year 4,2016-01-29,59,38.0,14.115,,1.484,Consumer Discretionary,Home Improvement Retail,218,141.0,52.505,5.954,0.0
+955,LRCX,Year 1,2013-06-30,3,2.0,0.6013,0.683688,,Information Technology,Semiconductor Equipment,17,9.0,2.4372059999999998,0.0,3.139113
+956,LRCX,Year 2,2014-06-29,4,2.0,0.613341,0.716471,,Information Technology,Semiconductor Equipment,17,9.0,2.4372059999999998,0.0,3.139113
+957,LRCX,Year 3,2015-06-28,5,2.0,0.591611,0.825242,,Information Technology,Semiconductor Equipment,17,9.0,2.4372059999999998,0.0,3.139113
+958,LRCX,Year 4,2016-06-26,5,3.0,0.630954,0.913712,,Information Technology,Semiconductor Equipment,17,9.0,2.4372059999999998,0.0,3.139113
+959,LUK,Year 1,2012-12-31,7,7.0,0.360586,,0.116388,Financials,Multi-Sector Holdings,36,29.0,8.014916,0.693939,0.0
+960,LUK,Year 2,2013-12-31,9,7.0,2.177616,,0.167425,Financials,Multi-Sector Holdings,36,29.0,8.014916,0.693939,0.0
+961,LUK,Year 3,2014-12-31,10,8.0,2.856642,,0.185993,Financials,Multi-Sector Holdings,36,29.0,8.014916,0.693939,0.0
+962,LUK,Year 4,2015-12-31,10,7.0,2.620072,,0.224133,Financials,Multi-Sector Holdings,36,29.0,8.014916,0.693939,0.0
+963,LUV,Year 1,2013-12-31,17,8.0,7.161,,0.867,Industrials,Airlines,74,27.0,32.737,4.041,0.0
+964,LUV,Year 2,2014-12-31,18,7.0,7.639,,0.938,Industrials,Airlines,74,27.0,32.737,4.041,0.0
+965,LUV,Year 3,2015-12-31,19,6.0,8.625,,1.015,Industrials,Airlines,74,27.0,32.737,4.041,0.0
+966,LUV,Year 4,2016-12-31,20,6.0,9.312,,1.221,Industrials,Airlines,74,27.0,32.737,4.041,0.0
+967,LVLT,Year 1,2012-12-31,6,3.0,1.201,,0.749,Telecommunications Services,Alternative Carriers,26,13.0,5.011,3.523,0.0
+968,LVLT,Year 2,2013-12-31,6,3.0,1.162,,0.8,Telecommunications Services,Alternative Carriers,26,13.0,5.011,3.523,0.0
+969,LVLT,Year 3,2014-12-31,6,3.0,1.181,,0.808,Telecommunications Services,Alternative Carriers,26,13.0,5.011,3.523,0.0
+970,LVLT,Year 4,2015-12-31,8,4.0,1.467,,1.166,Telecommunications Services,Alternative Carriers,26,13.0,5.011,3.523,0.0
+971,LYB,Year 1,2012-12-31,45,39.0,0.909,0.172,,Materials,Diversified Chemicals,166,139.0,3.4130000000000003,0.0,0.5509999999999999
+972,LYB,Year 2,2013-12-31,44,37.0,0.87,0.15,,Materials,Diversified Chemicals,166,139.0,3.4130000000000003,0.0,0.5509999999999999
+973,LYB,Year 3,2014-12-31,45,38.0,0.806,0.127,,Materials,Diversified Chemicals,166,139.0,3.4130000000000003,0.0,0.5509999999999999
+974,LYB,Year 4,2015-12-31,32,25.0,0.828,0.102,,Materials,Diversified Chemicals,166,139.0,3.4130000000000003,0.0,0.5509999999999999
+975,M,Year 1,2013-02-02,27,16.0,8.482,,,Consumer Discretionary,Department Stores,109,64.0,33.533,0.0,0.0
+976,M,Year 2,2014-02-01,27,16.0,8.44,,,Consumer Discretionary,Department Stores,109,64.0,33.533,0.0,0.0
+977,M,Year 3,2015-01-31,28,16.0,8.355,,,Consumer Discretionary,Department Stores,109,64.0,33.533,0.0,0.0
+978,M,Year 4,2016-01-30,27,16.0,8.256,,,Consumer Discretionary,Department Stores,109,64.0,33.533,0.0,0.0
+979,MA,Year 1,2013-12-31,8,,3.456,,0.258,Information Technology,Internet Software & Services,36,0.0,16.157,1.318,0.0
+980,MA,Year 2,2014-12-31,9,,4.014,,0.321,Information Technology,Internet Software & Services,36,0.0,16.157,1.318,0.0
+981,MA,Year 3,2015-12-31,9,,4.162,,0.366,Information Technology,Internet Software & Services,36,0.0,16.157,1.318,0.0
+982,MA,Year 4,2016-12-31,10,,4.525,,0.373,Information Technology,Internet Software & Services,36,0.0,16.157,1.318,0.0
+983,MAA,Year 1,2012-12-31,0,0.0,0.047115,,0.121211,Real Estate,Residential REITs,1,0.0,0.202491,0.904522,0.0
+984,MAA,Year 2,2013-12-31,0,0.0,0.04372,,0.186979,Real Estate,Residential REITs,1,0.0,0.202491,0.904522,0.0
+985,MAA,Year 3,2014-12-31,0,0.0,0.057664,,0.301812,Real Estate,Residential REITs,1,0.0,0.202491,0.904522,0.0
+986,MAA,Year 4,2015-12-31,1,0.0,0.053992,,0.29452,Real Estate,Residential REITs,1,0.0,0.202491,0.904522,0.0
+987,MAC,Year 1,2012-12-31,0,0.0,0.020412,,0.277621,Real Estate,Retail REITs,3,0.0,0.107466,1.4779740000000001,0.0
+988,MAC,Year 2,2013-12-31,1,0.0,0.027772,,0.357165,Real Estate,Retail REITs,3,0.0,0.107466,1.4779740000000001,0.0
+989,MAC,Year 3,2014-12-31,1,0.0,0.029412,,0.378716,Real Estate,Retail REITs,3,0.0,0.107466,1.4779740000000001,0.0
+990,MAC,Year 4,2015-12-31,1,0.0,0.02987,,0.464472,Real Estate,Retail REITs,3,0.0,0.107466,1.4779740000000001,0.0
+991,MAR,Year 1,2012-12-31,11,10.0,0.582,,0.102,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",50,44.0,2.524,0.516,0.0
+992,MAR,Year 2,2013-12-31,12,11.0,0.649,,0.127,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",50,44.0,2.524,0.516,0.0
+993,MAR,Year 3,2014-12-31,13,11.0,0.659,,0.148,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",50,44.0,2.524,0.516,0.0
+994,MAR,Year 4,2015-12-31,14,12.0,0.634,,0.139,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",50,44.0,2.524,0.516,0.0
+995,MAS,Year 1,2013-12-31,6,4.0,1.347,,,Industrials,Building Products,27,16.0,5.427,0.0,0.0
+996,MAS,Year 2,2014-12-31,7,4.0,1.338,,,Industrials,Building Products,27,16.0,5.427,0.0,0.0
+997,MAS,Year 3,2015-12-31,7,4.0,1.339,,,Industrials,Building Products,27,16.0,5.427,0.0,0.0
+998,MAS,Year 4,2016-12-31,7,4.0,1.403,,,Industrials,Building Products,27,16.0,5.427,0.0,0.0
+999,MAT,Year 1,2012-12-31,6,3.0,2.388182,,,Consumer Discretionary,Leisure Products,23,11.0,9.311706,0.0,0.0
+1000,MAT,Year 2,2013-12-31,6,3.0,2.31078,,,Consumer Discretionary,Leisure Products,23,11.0,9.311706,0.0,0.0
+1001,MAT,Year 3,2014-12-31,6,3.0,2.347308,,,Consumer Discretionary,Leisure Products,23,11.0,9.311706,0.0,0.0
+1002,MAT,Year 4,2015-12-31,5,2.0,2.265436,,,Consumer Discretionary,Leisure Products,23,11.0,9.311706,0.0,0.0
+1003,MCD,Year 1,2012-12-31,27,16.0,2.2117,,,Consumer Discretionary,Restaurants,107,64.0,9.5003,0.0,0.0
+1004,MCD,Year 2,2013-12-31,28,17.0,2.1384,,,Consumer Discretionary,Restaurants,107,64.0,9.5003,0.0,0.0
+1005,MCD,Year 3,2014-12-31,27,16.0,2.5065,,,Consumer Discretionary,Restaurants,107,64.0,9.5003,0.0,0.0
+1006,MCD,Year 4,2015-12-31,25,15.0,2.6437,,,Consumer Discretionary,Restaurants,107,64.0,9.5003,0.0,0.0
+1007,MCHP,Year 1,2013-03-31,1,0.0,0.261471,0.254723,0.111537,Information Technology,Semiconductors,6,0.0,1.105234,0.557713,1.281905
+1008,MCHP,Year 2,2014-03-31,1,0.0,0.267278,0.305043,0.094534,Information Technology,Semiconductors,6,0.0,1.105234,0.557713,1.281905
+1009,MCHP,Year 3,2015-03-31,2,0.0,0.274815,0.349543,0.176746,Information Technology,Semiconductors,6,0.0,1.105234,0.557713,1.281905
+1010,MCHP,Year 4,2016-03-31,2,0.0,0.30167,0.372596,0.174896,Information Technology,Semiconductors,6,0.0,1.105234,0.557713,1.281905
+1011,MCK,Year 1,2013-03-31,122,115.0,4.11,0.433,,Health Care,Health Care Distributors,628,590.0,24.675,0.0,1.674
+1012,MCK,Year 2,2014-03-31,137,129.0,5.388,0.457,,Health Care,Health Care Distributors,628,590.0,24.675,0.0,1.674
+1013,MCK,Year 3,2015-03-31,179,167.0,7.901,0.392,,Health Care,Health Care Distributors,628,590.0,24.675,0.0,1.674
+1014,MCK,Year 4,2016-03-31,190,179.0,7.276,0.392,,Health Care,Health Care Distributors,628,590.0,24.675,0.0,1.674
+1015,MCO,Year 1,2012-12-31,2,0.0,0.7522,,0.0935,Financials,Diversified Financial Services,10,0.0,3.3649,0.396,0.0
+1016,MCO,Year 2,2013-12-31,2,0.0,0.8221,,0.0934,Financials,Diversified Financial Services,10,0.0,3.3649,0.396,0.0
+1017,MCO,Year 3,2014-12-31,3,0.0,0.8693,,0.0956,Financials,Diversified Financial Services,10,0.0,3.3649,0.396,0.0
+1018,MCO,Year 4,2015-12-31,3,0.0,0.9213,,0.1135,Financials,Diversified Financial Services,10,0.0,3.3649,0.396,0.0
+1019,MDLZ,Year 1,2012-12-31,35,21.0,9.176,,0.217,Consumer Staples,Packaged Foods & Meats,133,82.0,33.889,0.821,0.0
+1020,MDLZ,Year 2,2013-12-31,35,22.0,8.679,,0.217,Consumer Staples,Packaged Foods & Meats,133,82.0,33.889,0.821,0.0
+1021,MDLZ,Year 3,2014-12-31,34,21.0,8.457,,0.206,Consumer Staples,Packaged Foods & Meats,133,82.0,33.889,0.821,0.0
+1022,MDLZ,Year 4,2015-12-31,29,18.0,7.577,,0.181,Consumer Staples,Packaged Foods & Meats,133,82.0,33.889,0.821,0.0
+1023,MET,Year 1,2012-12-31,68,37.0,9.098,,17.755,Financials,Life & Health Insurance,278,152.0,33.853,68.217,0.0
+1024,MET,Year 2,2013-12-31,68,38.0,9.438,,16.602,Financials,Life & Health Insurance,278,152.0,33.853,68.217,0.0
+1025,MET,Year 3,2014-12-31,73,39.0,8.319,,17.091,Financials,Life & Health Insurance,278,152.0,33.853,68.217,0.0
+1026,MET,Year 4,2015-12-31,69,38.0,6.998,,16.769,Financials,Life & Health Insurance,278,152.0,33.853,68.217,0.0
+1027,MHK,Year 1,2012-12-31,5,4.0,1.11055,,,Consumer Discretionary,Home Furnishings,27,19.0,5.438944,0.0,0.0
+1028,MHK,Year 2,2013-12-31,7,5.0,1.373878,,,Consumer Discretionary,Home Furnishings,27,19.0,5.438944,0.0,0.0
+1029,MHK,Year 3,2014-12-31,7,5.0,1.381396,,,Consumer Discretionary,Home Furnishings,27,19.0,5.438944,0.0,0.0
+1030,MHK,Year 4,2015-12-31,8,5.0,1.57312,,,Consumer Discretionary,Home Furnishings,27,19.0,5.438944,0.0,0.0
+1031,MJN,Year 1,2012-12-31,3,1.0,1.4573,0.1001,,Consumer Staples,Packaged Foods & Meats,15,4.0,6.1559,0.0,0.42379999999999995
+1032,MJN,Year 2,2013-12-31,4,1.0,1.5486,0.1002,,Consumer Staples,Packaged Foods & Meats,15,4.0,6.1559,0.0,0.42379999999999995
+1033,MJN,Year 3,2014-12-31,4,1.0,1.6176,0.1151,,Consumer Staples,Packaged Foods & Meats,15,4.0,6.1559,0.0,0.42379999999999995
+1034,MJN,Year 4,2015-12-31,4,1.0,1.5324,0.1084,,Consumer Staples,Packaged Foods & Meats,15,4.0,6.1559,0.0,0.42379999999999995
+1035,MKC,Year 1,2013-11-30,4,2.0,1.0903,,,Consumer Staples,Packaged Foods & Meats,16,8.0,4.5147,0.0,0.0
+1036,MKC,Year 2,2014-11-30,4,2.0,1.122,,,Consumer Staples,Packaged Foods & Meats,16,8.0,4.5147,0.0,0.0
+1037,MKC,Year 3,2015-11-30,4,2.0,1.1274,,,Consumer Staples,Packaged Foods & Meats,16,8.0,4.5147,0.0,0.0
+1038,MKC,Year 4,2016-11-30,4,2.0,1.175,,,Consumer Staples,Packaged Foods & Meats,16,8.0,4.5147,0.0,0.0
+1039,MLM,Year 1,2012-12-31,2,1.0,0.135824,,,Materials,Construction Materials,9,6.0,0.679605,0.0,0.0
+1040,MLM,Year 2,2013-12-31,2,1.0,0.145298,,,Materials,Construction Materials,9,6.0,0.679605,0.0,0.0
+1041,MLM,Year 3,2014-12-31,2,2.0,0.164596,,,Materials,Construction Materials,9,6.0,0.679605,0.0,0.0
+1042,MLM,Year 4,2015-12-31,3,2.0,0.233887,,,Materials,Construction Materials,9,6.0,0.679605,0.0,0.0
+1043,MMC,Year 1,2012-12-31,11,,7.134,,2.961,Financials,Insurance Brokers,47,0.0,29.209,12.193999999999999,0.0
+1044,MMC,Year 2,2013-12-31,12,,7.226,,2.958,Financials,Insurance Brokers,47,0.0,29.209,12.193999999999999,0.0
+1045,MMC,Year 3,2014-12-31,12,,7.515,,3.135,Financials,Insurance Brokers,47,0.0,29.209,12.193999999999999,0.0
+1046,MMC,Year 4,2015-12-31,12,,7.334,,3.14,Financials,Insurance Brokers,47,0.0,29.209,12.193999999999999,0.0
+1047,MMM,Year 1,2013-12-31,30,16.0,6.384,1.715,,Industrials,Industrial Conglomerates,121,62.0,25.146,0.0,6.9830000000000005
+1048,MMM,Year 2,2014-12-31,31,16.0,6.469,1.77,,Industrials,Industrial Conglomerates,121,62.0,25.146,0.0,6.9830000000000005
+1049,MMM,Year 3,2015-12-31,30,15.0,6.182,1.763,,Industrials,Industrial Conglomerates,121,62.0,25.146,0.0,6.9830000000000005
+1050,MMM,Year 4,2016-12-31,30,15.0,6.111,1.735,,Industrials,Industrial Conglomerates,121,62.0,25.146,0.0,6.9830000000000005
+1051,MNST,Year 1,2012-12-31,2,0.0,,,,Consumer Staples,Soft Drinks,8,3.0,0.0,0.0,0.0
+1052,MNST,Year 2,2013-12-31,2,1.0,,,,Consumer Staples,Soft Drinks,8,3.0,0.0,0.0,0.0
+1053,MNST,Year 3,2014-12-31,2,1.0,,,,Consumer Staples,Soft Drinks,8,3.0,0.0,0.0,0.0
+1054,MNST,Year 4,2015-12-31,2,1.0,,,,Consumer Staples,Soft Drinks,8,3.0,0.0,0.0,0.0
+1055,MO,Year 1,2012-12-31,24,15.0,2.249,,,Consumer Staples,Tobacco,97,57.0,9.901,0.0,0.0
+1056,MO,Year 2,2013-12-31,24,14.0,2.362,,,Consumer Staples,Tobacco,97,57.0,9.901,0.0,0.0
+1057,MO,Year 3,2014-12-31,24,14.0,2.541,,,Consumer Staples,Tobacco,97,57.0,9.901,0.0,0.0
+1058,MO,Year 4,2015-12-31,25,14.0,2.749,,,Consumer Staples,Tobacco,97,57.0,9.901,0.0,0.0
+1059,MON,Year 1,2013-08-31,14,7.0,2.55,1.533,,Materials,Fertilizers & Agricultural Chemicals,57,26.0,10.843,0.0,6.35
+1060,MON,Year 2,2014-08-31,15,7.0,2.774,1.725,,Materials,Fertilizers & Agricultural Chemicals,57,26.0,10.843,0.0,6.35
+1061,MON,Year 3,2015-08-31,15,6.0,2.686,1.58,,Materials,Fertilizers & Agricultural Chemicals,57,26.0,10.843,0.0,6.35
+1062,MON,Year 4,2016-08-31,13,6.0,2.833,1.512,,Materials,Fertilizers & Agricultural Chemicals,57,26.0,10.843,0.0,6.35
+1063,MOS,Year 1,2013-05-31,9,7.0,0.5506,,,Materials,Fertilizers & Agricultural Chemicals,33,27.0,1.9865,0.0,0.0
+1064,MOS,Year 2,2014-12-31,9,7.0,0.5058,,,Materials,Fertilizers & Agricultural Chemicals,33,27.0,1.9865,0.0,0.0
+1065,MOS,Year 3,2015-12-31,8,7.0,0.4391,,,Materials,Fertilizers & Agricultural Chemicals,33,27.0,1.9865,0.0,0.0
+1066,MOS,Year 4,2016-12-31,7,6.0,0.491,,,Materials,Fertilizers & Agricultural Chemicals,33,27.0,1.9865,0.0,0.0
+1067,MPC,Year 1,2012-12-31,82,68.0,7.202,,0.995,Energy,Oil & Gas Refining & Marketing & Transportation,351,294.0,33.532,5.187,0.0
+1068,MPC,Year 2,2013-12-31,100,87.0,7.851,,1.22,Energy,Oil & Gas Refining & Marketing & Transportation,351,294.0,33.532,5.187,0.0
+1069,MPC,Year 3,2014-12-31,97,84.0,8.45,,1.326,Energy,Oil & Gas Refining & Marketing & Transportation,351,294.0,33.532,5.187,0.0
+1070,MPC,Year 4,2015-12-31,72,55.0,10.029,,1.646,Energy,Oil & Gas Refining & Marketing & Transportation,351,294.0,33.532,5.187,0.0
+1071,MRK,Year 1,2012-12-31,47,16.0,12.776,8.168,,Health Care,Pharmaceuticals,172,62.0,46.606,0.0,29.555
+1072,MRK,Year 2,2013-12-31,44,16.0,11.911,7.503,,Health Care,Pharmaceuticals,172,62.0,46.606,0.0,29.555
+1073,MRK,Year 3,2014-12-31,42,16.0,11.606,7.18,,Health Care,Pharmaceuticals,172,62.0,46.606,0.0,29.555
+1074,MRK,Year 4,2015-12-31,39,14.0,10.313,6.704,,Health Care,Pharmaceuticals,172,62.0,46.606,0.0,29.555
+1075,MRO,Year 1,2012-12-31,11,2.0,4.017,,2.008,Energy,Oil & Gas Exploration & Production,37,7.0,12.943999999999999,10.326,0.0
+1076,MRO,Year 2,2013-12-31,11,2.0,3.469,,2.5,Energy,Oil & Gas Exploration & Production,37,7.0,12.943999999999999,10.326,0.0
+1077,MRO,Year 3,2014-12-31,10,2.0,3.627,,2.861,Energy,Oil & Gas Exploration & Production,37,7.0,12.943999999999999,10.326,0.0
+1078,MRO,Year 4,2015-12-31,5,1.0,1.831,,2.957,Energy,Oil & Gas Exploration & Production,37,7.0,12.943999999999999,10.326,0.0
+1079,MSFT,Year 1,2013-06-30,77,20.0,20.289,10.411,,Information Technology,Systems Software,341,112.0,80.361,0.0,45.826
+1080,MSFT,Year 2,2014-06-30,86,27.0,20.488,11.381,,Information Technology,Systems Software,341,112.0,80.361,0.0,45.826
+1081,MSFT,Year 3,2015-06-30,93,33.0,20.324,12.046,,Information Technology,Systems Software,341,112.0,80.361,0.0,45.826
+1082,MSFT,Year 4,2016-06-30,85,32.0,19.26,11.988,,Information Technology,Systems Software,341,112.0,80.361,0.0,45.826
+1083,MTB,Year 1,2012-12-31,4,0.0,2.448629,,0.264631,Financials,Banks,16,0.0,10.441741,0.850791,0.0
+1084,MTB,Year 2,2013-12-31,4,0.0,2.540954,,0.231912,Financials,Banks,16,0.0,10.441741,0.850791,0.0
+1085,MTB,Year 3,2014-12-31,4,0.0,2.65565,,0.157824,Financials,Banks,16,0.0,10.441741,0.850791,0.0
+1086,MTB,Year 4,2015-12-31,4,0.0,2.796508,,0.196424,Financials,Banks,16,0.0,10.441741,0.850791,0.0
+1087,MTD,Year 1,2013-12-31,2,1.0,0.692693,0.116346,0.024539,Health Care,Life Sciences Tools & Services,8,4.0,2.854707,0.120727,0.47868700000000003
+1088,MTD,Year 2,2014-12-31,2,1.0,0.728582,0.123297,0.029185,Health Care,Life Sciences Tools & Services,8,4.0,2.854707,0.120727,0.47868700000000003
+1089,MTD,Year 3,2015-12-31,2,1.0,0.70081,0.119076,0.030951,Health Care,Life Sciences Tools & Services,8,4.0,2.854707,0.120727,0.47868700000000003
+1090,MTD,Year 4,2016-12-31,2,1.0,0.732622,0.119968,0.036052,Health Care,Life Sciences Tools & Services,8,4.0,2.854707,0.120727,0.47868700000000003
+1091,MU,Year 1,2013-08-29,9,7.0,0.554,0.931,,Information Technology,Semiconductors,53,36.0,2.8200000000000003,0.0,5.459
+1092,MU,Year 2,2014-08-28,16,10.0,0.939,1.371,,Information Technology,Semiconductors,53,36.0,2.8200000000000003,0.0,5.459
+1093,MU,Year 3,2015-09-03,16,10.0,0.674,1.54,,Information Technology,Semiconductors,53,36.0,2.8200000000000003,0.0,5.459
+1094,MU,Year 4,2016-09-01,12,9.0,0.653,1.617,,Information Technology,Semiconductors,53,36.0,2.8200000000000003,0.0,5.459
+1095,MUR,Year 1,2012-12-31,4,1.0,0.285144,,1.291456,Energy,Integrated Oil & Gas,16,3.0,1.595318,6.51936,0.0
+1096,MUR,Year 2,2013-12-31,5,1.0,0.466498,,1.60239,Energy,Integrated Oil & Gas,16,3.0,1.595318,6.51936,0.0
+1097,MUR,Year 3,2014-12-31,5,1.0,0.471219,,1.957025,Energy,Integrated Oil & Gas,16,3.0,1.595318,6.51936,0.0
+1098,MUR,Year 4,2015-12-31,2,0.0,0.372457,,1.668489,Energy,Integrated Oil & Gas,16,3.0,1.595318,6.51936,0.0
+1099,MYL,Year 1,2014-12-31,7,4.0,1.5457,0.5818,,Health Care,Pharmaceuticals,16,9.0,3.7264,0.0,1.2537
+1100,MYL,Year 2,2015-12-31,9,5.0,2.1807,0.6719,,Health Care,Pharmaceuticals,16,9.0,3.7264,0.0,1.2537
+1101,NBL,Year 1,2013-12-31,5,0.0,0.446,,1.568,Energy,Oil & Gas Exploration & Production,16,1.0,1.919,7.912,0.0
+1102,NBL,Year 2,2014-12-31,5,0.0,0.495,,1.759,Energy,Oil & Gas Exploration & Production,16,1.0,1.919,7.912,0.0
+1103,NBL,Year 3,2015-12-31,3,0.0,0.745,,2.131,Energy,Oil & Gas Exploration & Production,16,1.0,1.919,7.912,0.0
+1104,NBL,Year 4,2016-12-31,3,1.0,0.233,,2.454,Energy,Oil & Gas Exploration & Production,16,1.0,1.919,7.912,0.0
+1105,NWL,Year 2,2013-12-31,5,3.0,1.3995,,,Consumer Discretionary,Housewares & Specialties,20,12.0,5.9749,0.0,0.0
+1106,NWL,Year 1,2012-12-31,5,3.0,1.4035,,,Consumer Discretionary,Housewares & Specialties,20,12.0,5.9749,0.0,0.0
+1107,NWL,Year 3,2014-12-31,5,3.0,1.5459,,,Consumer Discretionary,Housewares & Specialties,20,12.0,5.9749,0.0,0.0
+1108,NWL,Year 4,2015-12-31,5,3.0,1.626,,,Consumer Discretionary,Housewares & Specialties,20,12.0,5.9749,0.0,0.0
+1109,NDAQ,Year 1,2012-12-31,3,1.0,0.832,,0.104,Financials,Diversified Financial Services,12,4.0,4.031,0.501,0.0
+1110,NDAQ,Year 2,2013-12-31,3,1.0,1.054,,0.122,Financials,Diversified Financial Services,12,4.0,4.031,0.501,0.0
+1111,NDAQ,Year 3,2014-12-31,3,1.0,1.095,,0.137,Financials,Diversified Financial Services,12,4.0,4.031,0.501,0.0
+1112,NDAQ,Year 4,2015-12-31,3,1.0,1.05,,0.138,Financials,Diversified Financial Services,12,4.0,4.031,0.501,0.0
+1113,NEE,Year 1,2012-12-31,14,8.0,1.186,,1.518,Utilities,MultiUtilities,63,32.0,5.189,9.062999999999999,0.0
+1114,NEE,Year 2,2013-12-31,15,8.0,1.28,,2.163,Utilities,MultiUtilities,63,32.0,5.189,9.062999999999999,0.0
+1115,NEE,Year 3,2014-12-31,17,8.0,1.324,,2.551,Utilities,MultiUtilities,63,32.0,5.189,9.062999999999999,0.0
+1116,NEE,Year 4,2015-12-31,17,8.0,1.399,,2.831,Utilities,MultiUtilities,63,32.0,5.189,9.062999999999999,0.0
+1117,NEM,Year 1,2012-12-31,9,4.0,0.757,0.704,1.032,Materials,Gold,31,17.0,2.556,4.862,1.787
+1118,NEM,Year 2,2013-12-31,8,5.0,0.584,0.469,1.362,Materials,Gold,31,17.0,2.556,4.862,1.787
+1119,NEM,Year 3,2014-12-31,7,4.0,0.545,0.325,1.229,Materials,Gold,31,17.0,2.556,4.862,1.787
+1120,NEM,Year 4,2015-12-31,7,4.0,0.67,0.289,1.239,Materials,Gold,31,17.0,2.556,4.862,1.787
+1121,NFLX,Year 1,2013-12-31,4,3.0,0.650243,0.378769,,Information Technology,Internet Software & Services,23,16.0,4.327468,0.0,2.3539760000000003
+1122,NFLX,Year 2,2014-12-31,5,3.0,0.876927,0.472321,,Information Technology,Internet Software & Services,23,16.0,4.327468,0.0,2.3539760000000003
+1123,NFLX,Year 3,2015-12-31,6,4.0,1.231421,0.650788,,Information Technology,Internet Software & Services,23,16.0,4.327468,0.0,2.3539760000000003
+1124,NFLX,Year 4,2016-12-31,8,6.0,1.568877,0.852098,,Information Technology,Internet Software & Services,23,16.0,4.327468,0.0,2.3539760000000003
+1125,NFX,Year 1,2012-12-31,1,0.0,0.311,,0.704,Energy,Oil & Gas Exploration & Production,5,0.0,6.183999999999999,3.176,0.0
+1126,NFX,Year 2,2013-12-31,1,0.0,0.311,,0.685,Energy,Oil & Gas Exploration & Production,5,0.0,6.183999999999999,3.176,0.0
+1127,NFX,Year 3,2014-12-31,2,0.0,0.358,,0.87,Energy,Oil & Gas Exploration & Production,5,0.0,6.183999999999999,3.176,0.0
+1128,NFX,Year 4,2015-12-31,1,0.0,5.204,,0.917,Energy,Oil & Gas Exploration & Production,5,0.0,6.183999999999999,3.176,0.0
+1129,NKE,Year 1,2013-05-31,25,14.0,7.796,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",114,62.0,36.923,0.0,0.0
+1130,NKE,Year 2,2014-05-31,27,15.0,8.766,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",114,62.0,36.923,0.0,0.0
+1131,NKE,Year 3,2015-05-31,30,16.0,9.892,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",114,62.0,36.923,0.0,0.0
+1132,NKE,Year 4,2016-05-31,32,17.0,10.469,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",114,62.0,36.923,0.0,0.0
+1133,NLSN,Year 1,2013-12-31,5,2.0,1.815,,0.51,Industrials,Research & Consulting Services,23,8.0,7.498,2.26,0.0
+1134,NLSN,Year 2,2014-12-31,6,2.0,1.917,,0.573,Industrials,Research & Consulting Services,23,8.0,7.498,2.26,0.0
+1135,NLSN,Year 3,2015-12-31,6,2.0,1.915,,0.574,Industrials,Research & Consulting Services,23,8.0,7.498,2.26,0.0
+1136,NLSN,Year 4,2016-12-31,6,2.0,1.851,,0.603,Industrials,Research & Consulting Services,23,8.0,7.498,2.26,0.0
+1137,NOV,Year 1,2012-12-31,17,12.0,1.654,,,Energy,Oil & Gas Equipment & Services,71,52.0,7.415,0.0,0.0
+1138,NOV,Year 2,2013-12-31,19,14.0,1.905,,,Energy,Oil & Gas Equipment & Services,71,52.0,7.415,0.0,0.0
+1139,NOV,Year 3,2014-12-31,21,15.0,2.092,,,Energy,Oil & Gas Equipment & Services,71,52.0,7.415,0.0,0.0
+1140,NOV,Year 4,2015-12-31,14,11.0,1.764,,,Energy,Oil & Gas Equipment & Services,71,52.0,7.415,0.0,0.0
+1141,NSC,Year 1,2013-12-31,11,4.0,3.002,,0.916,Industrials,Railroads,41,14.0,11.552999999999999,3.947,0.0
+1142,NSC,Year 2,2014-12-31,11,4.0,2.897,,0.951,Industrials,Railroads,41,14.0,11.552999999999999,3.947,0.0
+1143,NSC,Year 3,2015-12-31,10,3.0,2.911,,1.054,Industrials,Railroads,41,14.0,11.552999999999999,3.947,0.0
+1144,NSC,Year 4,2016-12-31,9,3.0,2.743,,1.026,Industrials,Railroads,41,14.0,11.552999999999999,3.947,0.0
+1145,NTAP,Year 1,2013-04-26,6,2.0,2.2474,0.9042,,Information Technology,Internet Software & Services,23,8.0,8.7224,0.0,3.6032
+1146,NTAP,Year 2,2014-04-25,6,2.0,2.179,0.918,,Information Technology,Internet Software & Services,23,8.0,8.7224,0.0,3.6032
+1147,NTAP,Year 3,2015-04-24,6,2.0,2.197,0.92,,Information Technology,Internet Software & Services,23,8.0,8.7224,0.0,3.6032
+1148,NTAP,Year 4,2016-04-29,5,2.0,2.099,0.861,,Information Technology,Internet Software & Services,23,8.0,8.7224,0.0,3.6032
+1149,NUE,Year 1,2012-12-31,19,17.0,0.4549,,,Materials,Steel,75,67.0,1.9025979999999998,0.0,0.0
+1150,NUE,Year 2,2013-12-31,19,17.0,0.467904,,,Materials,Steel,75,67.0,1.9025979999999998,0.0,0.0
+1151,NUE,Year 3,2014-12-31,21,19.0,0.520805,,,Materials,Steel,75,67.0,1.9025979999999998,0.0,0.0
+1152,NUE,Year 4,2015-12-31,16,14.0,0.458989,,,Materials,Steel,75,67.0,1.9025979999999998,0.0,0.0
+1153,NVDA,Year 1,2013-01-27,4,2.0,0.430822,1.147282,,Information Technology,Semiconductors,17,7.0,1.9488219999999998,0.0,5.174282
+1154,NVDA,Year 2,2014-01-26,4,1.0,0.436,1.336,,Information Technology,Semiconductors,17,7.0,1.9488219999999998,0.0,5.174282
+1155,NVDA,Year 3,2015-01-25,4,2.0,0.48,1.36,,Information Technology,Semiconductors,17,7.0,1.9488219999999998,0.0,5.174282
+1156,NVDA,Year 4,2016-01-31,5,2.0,0.602,1.331,,Information Technology,Semiconductors,17,7.0,1.9488219999999998,0.0,5.174282
+1157,O,Year 1,2012-12-31,0,0.0,0.038123,,0.147515,Real Estate,Retail REITs,1,0.0,0.195387,1.2381600000000001,0.0
+1158,O,Year 2,2013-12-31,0,0.0,0.056881,,0.306769,Real Estate,Retail REITs,1,0.0,0.195387,1.2381600000000001,0.0
+1159,O,Year 3,2014-12-31,0,0.0,0.051085,,0.374661,Real Estate,Retail REITs,1,0.0,0.195387,1.2381600000000001,0.0
+1160,O,Year 4,2015-12-31,1,0.0,0.049298,,0.409215,Real Estate,Retail REITs,1,0.0,0.195387,1.2381600000000001,0.0
+1161,OKE,Year 1,2012-12-31,10,8.0,0.491725,,0.205334,Energy,Oil & Gas Exploration & Production,40,33.0,2.401529,1.0939809999999999,0.0
+1162,OKE,Year 2,2013-12-31,11,10.0,0.541586,,0.239343,Energy,Oil & Gas Exploration & Production,40,33.0,2.401529,1.0939809999999999,0.0
+1163,OKE,Year 3,2014-12-31,12,10.0,0.674887,,0.294684,Energy,Oil & Gas Exploration & Production,40,33.0,2.401529,1.0939809999999999,0.0
+1164,OKE,Year 4,2015-12-31,7,5.0,0.693331,,0.35462,Energy,Oil & Gas Exploration & Production,40,33.0,2.401529,1.0939809999999999,0.0
+1165,OMC,Year 1,2014-12-31,15,12.0,0.4772,,0.2944,Consumer Discretionary,Advertising,45,36.0,1.3529,0.8784000000000001,0.0
+1166,OMC,Year 2,2015-12-31,15,12.0,0.4318,,0.2911,Consumer Discretionary,Advertising,45,36.0,1.3529,0.8784000000000001,0.0
+1167,OMC,Year 3,2016-12-31,15,12.0,0.4439,,0.2929,Consumer Discretionary,Advertising,45,36.0,1.3529,0.8784000000000001,0.0
+1168,ORLY,Year 1,2012-12-31,6,3.0,2.120025,,,Consumer Discretionary,Specialty Stores,26,12.0,9.47269,0.0,0.0
+1169,ORLY,Year 2,2013-12-31,6,3.0,2.265516,,,Consumer Discretionary,Specialty Stores,26,12.0,9.47269,0.0,0.0
+1170,ORLY,Year 3,2014-12-31,7,3.0,2.438527,,,Consumer Discretionary,Specialty Stores,26,12.0,9.47269,0.0,0.0
+1171,ORLY,Year 4,2015-12-31,7,3.0,2.648622,,,Consumer Discretionary,Specialty Stores,26,12.0,9.47269,0.0,0.0
+1172,OXY,Year 1,2012-12-31,20,6.0,1.879,,3.585,Energy,Oil & Gas Exploration & Production,71,23.0,7.6530000000000005,16.593,0.0
+1173,OXY,Year 2,2013-12-31,20,6.0,2.108,,4.203,Energy,Oil & Gas Exploration & Production,71,23.0,7.6530000000000005,16.593,0.0
+1174,OXY,Year 3,2014-12-31,19,6.0,2.053,,4.261,Energy,Oil & Gas Exploration & Production,71,23.0,7.6530000000000005,16.593,0.0
+1175,OXY,Year 4,2015-12-31,12,5.0,1.613,,4.544,Energy,Oil & Gas Exploration & Production,71,23.0,7.6530000000000005,16.593,0.0
+1176,PBCT,Year 1,2012-12-31,1,0.0,0.8038,,0.076,Financials,Thrifts & Mortgage Finance,4,0.0,3.27,0.2686,0.0
+1177,PBCT,Year 2,2013-12-31,1,0.0,0.8128,,0.0699,Financials,Thrifts & Mortgage Finance,4,0.0,3.27,0.2686,0.0
+1178,PBCT,Year 3,2014-12-31,1,0.0,0.8167,,0.0654,Financials,Thrifts & Mortgage Finance,4,0.0,3.27,0.2686,0.0
+1179,PBCT,Year 4,2015-12-31,1,0.0,0.8367,,0.0573,Financials,Thrifts & Mortgage Finance,4,0.0,3.27,0.2686,0.0
+1180,PBI,Year 1,2012-12-31,3,1.0,1.489735,0.11425,,Industrials,"Technology, Hardware, Software and Supplies",12,4.0,5.568192,0.0,0.444749
+1181,PBI,Year 2,2013-12-31,3,1.0,1.420096,0.110412,,Industrials,"Technology, Hardware, Software and Supplies",12,4.0,5.568192,0.0,0.444749
+1182,PBI,Year 3,2014-12-31,3,1.0,1.3784,0.109931,,Industrials,"Technology, Hardware, Software and Supplies",12,4.0,5.568192,0.0,0.444749
+1183,PBI,Year 4,2015-12-31,3,1.0,1.279961,0.110156,,Industrials,"Technology, Hardware, Software and Supplies",12,4.0,5.568192,0.0,0.444749
+1184,PCAR,Year 1,2012-12-31,16,13.0,0.5716,0.2793,0.5174,Industrials,Construction & Farm Machinery & Heavy Trucks,68,56.0,2.234,2.2613,0.9861
+1185,PCAR,Year 2,2013-12-31,16,13.0,0.5595,0.2514,0.5717,Industrials,Construction & Farm Machinery & Heavy Trucks,68,56.0,2.234,2.2613,0.9861
+1186,PCAR,Year 3,2014-12-31,18,15.0,0.5614,0.2156,0.5885,Industrials,Construction & Farm Machinery & Heavy Trucks,68,56.0,2.234,2.2613,0.9861
+1187,PCAR,Year 4,2015-12-31,18,15.0,0.5415,0.2398,0.5837,Industrials,Construction & Farm Machinery & Heavy Trucks,68,56.0,2.234,2.2613,0.9861
+1188,PCG,Year 1,2013-12-31,15,11.0,,,2.077,Utilities,MultiUtilities,65,47.0,0.0,9.876999999999999,0.0
+1189,PCG,Year 2,2014-12-31,17,12.0,,,2.433,Utilities,MultiUtilities,65,47.0,0.0,9.876999999999999,0.0
+1190,PCG,Year 3,2015-12-31,16,12.0,,,2.612,Utilities,MultiUtilities,65,47.0,0.0,9.876999999999999,0.0
+1191,PCG,Year 4,2016-12-31,17,12.0,,,2.755,Utilities,MultiUtilities,65,47.0,0.0,9.876999999999999,0.0
+1192,PCLN,Year 1,2012-12-31,5,1.0,2.188747,,0.065141,Consumer Discretionary,Internet & Direct Marketing Retail,28,2.0,14.737648,0.66343,0.0
+1193,PCLN,Year 2,2013-12-31,6,1.0,3.185497,,0.117975,Consumer Discretionary,Internet & Direct Marketing Retail,28,2.0,14.737648,0.66343,0.0
+1194,PCLN,Year 3,2014-12-31,8,0.0,4.302998,,0.20782,Consumer Discretionary,Internet & Direct Marketing Retail,28,2.0,14.737648,0.66343,0.0
+1195,PCLN,Year 4,2015-12-31,9,0.0,5.060406,,0.272494,Consumer Discretionary,Internet & Direct Marketing Retail,28,2.0,14.737648,0.66343,0.0
+1196,PDCO,Year 1,2013-04-27,3,2.0,,,,Health Care,Health Care Supplies,14,10.0,0.0,0.0,0.0
+1197,PDCO,Year 2,2014-04-26,3,2.0,,,,Health Care,Health Care Supplies,14,10.0,0.0,0.0,0.0
+1198,PDCO,Year 3,2015-04-25,3,2.0,,,,Health Care,Health Care Supplies,14,10.0,0.0,0.0,0.0
+1199,PDCO,Year 4,2016-04-30,5,4.0,,,,Health Care,Health Care Supplies,14,10.0,0.0,0.0,0.0
+1200,PEG,Year 1,2012-12-31,9,6.0,0.098,,1.054,Utilities,Electric Utilities,38,25.0,0.166,4.673,0.0
+1201,PEG,Year 2,2013-12-31,9,6.0,0.068,,1.178,Utilities,Electric Utilities,38,25.0,0.166,4.673,0.0
+1202,PEG,Year 3,2014-12-31,10,7.0,,,1.227,Utilities,Electric Utilities,38,25.0,0.166,4.673,0.0
+1203,PEG,Year 4,2015-12-31,10,6.0,,,1.214,Utilities,Electric Utilities,38,25.0,0.166,4.673,0.0
+1204,PEP,Year 1,2013-12-28,66,31.0,25.357,,0.11,Consumer Staples,Soft Drinks,257,118.0,100.402,0.347,0.0
+1205,PEP,Year 2,2014-12-27,66,31.0,25.772,,0.092,Consumer Staples,Soft Drinks,257,118.0,100.402,0.347,0.0
+1206,PEP,Year 3,2015-12-26,63,28.0,24.538,,0.075,Consumer Staples,Soft Drinks,257,118.0,100.402,0.347,0.0
+1207,PEP,Year 4,2016-12-31,62,28.0,24.735,,0.07,Consumer Staples,Soft Drinks,257,118.0,100.402,0.347,0.0
+1208,PFE,Year 1,2012-12-31,54,9.0,15.171,7.482,5.109,Health Care,Pharmaceuticals,202,36.0,58.432,17.475,30.243000000000002
+1209,PFE,Year 2,2013-12-31,51,9.0,14.355,6.678,4.599,Health Care,Pharmaceuticals,202,36.0,58.432,17.475,30.243000000000002
+1210,PFE,Year 3,2014-12-31,49,9.0,14.097,8.393,4.039,Health Care,Pharmaceuticals,202,36.0,58.432,17.475,30.243000000000002
+1211,PFE,Year 4,2015-12-31,48,9.0,14.809,7.69,3.728,Health Care,Pharmaceuticals,202,36.0,58.432,17.475,30.243000000000002
+1212,PFG,Year 1,2013-12-31,9,4.0,0.189,,3.2929,Financials,Diversified Financial Services,42,21.0,0.6865,14.2722,0.0
+1213,PFG,Year 2,2014-12-31,10,5.0,0.1774,,3.5743,Financials,Diversified Financial Services,42,21.0,0.6865,14.2722,0.0
+1214,PFG,Year 3,2015-12-31,11,6.0,0.1635,,3.6724,Financials,Diversified Financial Services,42,21.0,0.6865,14.2722,0.0
+1215,PFG,Year 4,2016-12-31,12,6.0,0.1566,,3.7326,Financials,Diversified Financial Services,42,21.0,0.6865,14.2722,0.0
+1216,PG,Year 1,2013-12-31,2,0.0,0.346393,0.859947,,Consumer Staples,Personal Products,12,0.0,2.881883,0.0,5.804171999999999
+1217,PG,Year 2,2014-12-31,2,0.0,0.519267,1.271353,,Consumer Staples,Personal Products,12,0.0,2.881883,0.0,5.804171999999999
+1218,PG,Year 3,2015-12-31,4,0.0,0.838526,1.620577,,Consumer Staples,Personal Products,12,0.0,2.881883,0.0,5.804171999999999
+1219,PG,Year 4,2016-12-31,4,0.0,1.177697,2.052295,,Consumer Staples,Personal Products,12,0.0,2.881883,0.0,5.804171999999999
+1220,PGR,Year 1,2012-12-31,17,15.0,0.0154,,0.0361,Financials,Property & Casualty Insurance,74,66.0,0.0759,0.2033,0.0
+1221,PGR,Year 2,2013-12-31,18,16.0,0.0188,,0.0388,Financials,Property & Casualty Insurance,74,66.0,0.0759,0.2033,0.0
+1222,PGR,Year 3,2014-12-31,19,17.0,0.0189,,0.0509,Financials,Property & Casualty Insurance,74,66.0,0.0759,0.2033,0.0
+1223,PGR,Year 4,2015-12-31,20,18.0,0.0228,,0.0775,Financials,Property & Casualty Insurance,74,66.0,0.0759,0.2033,0.0
+1224,PH,Year 1,2013-06-30,13,10.0,1.554973,,,Industrials,Industrial Conglomerates,49,37.0,6.093071,0.0,0.0
+1225,PH,Year 2,2014-06-30,13,10.0,1.633992,,,Industrials,Industrial Conglomerates,49,37.0,6.093071,0.0,0.0
+1226,PH,Year 3,2015-06-30,12,9.0,1.544746,,,Industrials,Industrial Conglomerates,49,37.0,6.093071,0.0,0.0
+1227,PH,Year 4,2016-06-30,11,8.0,1.35936,,,Industrials,Industrial Conglomerates,49,37.0,6.093071,0.0,0.0
+1228,PHM,Year 1,2013-12-31,5,4.0,0.5685,,,Consumer Discretionary,Homebuilding,22,17.0,3.181768,0.0,0.0
+1229,PHM,Year 2,2014-12-31,5,4.0,0.86139,,,Consumer Discretionary,Homebuilding,22,17.0,3.181768,0.0,0.0
+1230,PHM,Year 3,2015-12-31,5,4.0,0.794728,,,Consumer Discretionary,Homebuilding,22,17.0,3.181768,0.0,0.0
+1231,PHM,Year 4,2016-12-31,7,5.0,0.95715,,,Consumer Discretionary,Homebuilding,22,17.0,3.181768,0.0,0.0
+1232,PKI,Year 1,2012-12-30,2,1.0,0.62737,0.131835,,Health Care,Health Care Equipment,8,4.0,2.467451,0.0,0.511304
+1233,PKI,Year 2,2013-12-29,2,1.0,0.581898,0.1324,,Health Care,Health Care Equipment,8,4.0,2.467451,0.0,0.511304
+1234,PKI,Year 3,2014-12-28,2,1.0,0.659335,0.121141,,Health Care,Health Care Equipment,8,4.0,2.467451,0.0,0.511304
+1235,PKI,Year 4,2016-01-03,2,1.0,0.598848,0.125928,,Health Care,Health Care Equipment,8,4.0,2.467451,0.0,0.511304
+1236,PM,Year 1,2013-12-31,80,59.0,6.89,,0.093,Consumer Staples,Tobacco,307,232.0,26.951999999999998,0.34199999999999997,0.0
+1237,PM,Year 2,2014-12-31,80,60.0,7.001,,0.093,Consumer Staples,Tobacco,307,232.0,26.951999999999998,0.34199999999999997,0.0
+1238,PM,Year 3,2015-12-31,73,56.0,6.656,,0.082,Consumer Staples,Tobacco,307,232.0,26.951999999999998,0.34199999999999997,0.0
+1239,PM,Year 4,2016-12-31,74,57.0,6.405,,0.074,Consumer Staples,Tobacco,307,232.0,26.951999999999998,0.34199999999999997,0.0
+1240,PNC,Year 1,2012-12-31,16,0.0,10.486,,0.987,Financials,Banks,64,0.0,39.117999999999995,2.158,0.0
+1241,PNC,Year 2,2013-12-31,16,0.0,9.681,,0.643,Financials,Banks,64,0.0,39.117999999999995,2.158,0.0
+1242,PNC,Year 3,2014-12-31,16,0.0,9.488,,0.273,Financials,Banks,64,0.0,39.117999999999995,2.158,0.0
+1243,PNC,Year 4,2015-12-31,16,0.0,9.463,,0.255,Financials,Banks,64,0.0,39.117999999999995,2.158,0.0
+1244,PNR,Year 1,2012-12-31,4,3.0,1.1177,0.0923,,Industrials,Industrial Machinery,23,15.0,5.4395,0.0,0.452
+1245,PNR,Year 2,2013-12-31,6,4.0,1.4937,0.1228,,Industrials,Industrial Machinery,23,15.0,5.4395,0.0,0.452
+1246,PNR,Year 3,2014-12-31,7,4.0,1.4938,0.1173,,Industrials,Industrial Machinery,23,15.0,5.4395,0.0,0.452
+1247,PNR,Year 4,2015-12-31,6,4.0,1.3343,0.1196,,Industrials,Industrial Machinery,23,15.0,5.4395,0.0,0.452
+1248,PNW,Year 1,2012-12-31,3,1.0,0.166154,,0.404336,Utilities,MultiUtilities,12,6.0,0.690237,1.731824,0.0
+1249,PNW,Year 2,2013-12-31,3,2.0,0.172161,,0.415708,Utilities,MultiUtilities,12,6.0,0.690237,1.731824,0.0
+1250,PNW,Year 3,2014-12-31,3,2.0,0.175178,,0.417358,Utilities,MultiUtilities,12,6.0,0.690237,1.731824,0.0
+1251,PNW,Year 4,2015-12-31,3,1.0,0.176744,,0.494422,Utilities,MultiUtilities,12,6.0,0.690237,1.731824,0.0
+1252,PPG,Year 1,2013-12-31,14,8.0,3.486,0.463,0.452,Materials,Diversified Chemicals,56,32.0,15.753,1.835,1.888
+1253,PPG,Year 2,2014-12-31,14,8.0,4.013,0.483,0.45,Materials,Diversified Chemicals,56,32.0,15.753,1.835,1.888
+1254,PPG,Year 3,2015-12-31,14,8.0,3.624,0.476,0.471,Materials,Diversified Chemicals,56,32.0,15.753,1.835,1.888
+1255,PPG,Year 4,2016-12-31,14,8.0,4.63,0.466,0.462,Materials,Diversified Chemicals,56,32.0,15.753,1.835,1.888
+1256,PPL,Year 1,2012-12-31,12,4.0,3.143,,1.087,Utilities,Electric Utilities,33,7.0,9.661,3.7359999999999998,0.0
+1257,PPL,Year 2,2013-12-31,7,1.0,2.108,,0.843,Utilities,Electric Utilities,33,7.0,9.661,3.7359999999999998,0.0
+1258,PPL,Year 3,2014-12-31,7,1.0,2.173,,0.923,Utilities,Electric Utilities,33,7.0,9.661,3.7359999999999998,0.0
+1259,PPL,Year 4,2015-12-31,7,1.0,2.237,,0.883,Utilities,Electric Utilities,33,7.0,9.661,3.7359999999999998,0.0
+1260,PRU,Year 1,2012-12-31,84,66.0,17.504,,,Financials,Diversified Financial Services,236,157.0,69.065,0.0,0.0
+1261,PRU,Year 2,2013-12-31,41,26.0,16.172,,,Financials,Diversified Financial Services,236,157.0,69.065,0.0,0.0
+1262,PRU,Year 3,2014-12-31,54,33.0,18.786,,,Financials,Diversified Financial Services,236,157.0,69.065,0.0,0.0
+1263,PRU,Year 4,2015-12-31,57,32.0,16.603,,,Financials,Diversified Financial Services,236,157.0,69.065,0.0,0.0
+1264,PSX,Year 1,2012-12-31,179,158.0,15.443,,0.931,Energy,Oil & Gas Refining & Marketing & Transportation,609,527.0,63.489999999999995,4.02,0.0
+1265,PSX,Year 2,2013-12-31,171,152.0,15.597,,0.971,Energy,Oil & Gas Refining & Marketing & Transportation,609,527.0,63.489999999999995,4.02,0.0
+1266,PSX,Year 3,2014-12-31,161,140.0,16.703,,1.019,Energy,Oil & Gas Refining & Marketing & Transportation,609,527.0,63.489999999999995,4.02,0.0
+1267,PSX,Year 4,2015-12-31,98,77.0,15.747,,1.099,Energy,Oil & Gas Refining & Marketing & Transportation,609,527.0,63.489999999999995,4.02,0.0
+1268,PVH,Year 1,2013-02-03,6,2.0,2.5943,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",30,11.0,13.3991,0.0,0.0
+1269,PVH,Year 2,2014-02-02,8,3.0,3.6735,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",30,11.0,13.3991,0.0,0.0
+1270,PVH,Year 3,2015-02-01,8,3.0,3.7136,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",30,11.0,13.3991,0.0,0.0
+1271,PVH,Year 4,2016-01-31,8,3.0,3.4177,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",30,11.0,13.3991,0.0,0.0
+1272,PWR,Year 1,2012-12-31,5,4.0,0.434894,,0.037691,Industrials,Industrial Conglomerates,25,21.0,2.218303,0.132661,0.0
+1273,PWR,Year 2,2013-12-31,6,5.0,0.485069,,0.025865,Industrials,Industrial Conglomerates,25,21.0,2.218303,0.132661,0.0
+1274,PWR,Year 3,2014-12-31,7,6.0,0.705477,,0.034257,Industrials,Industrial Conglomerates,25,21.0,2.218303,0.132661,0.0
+1275,PWR,Year 4,2015-12-31,7,6.0,0.592863,,0.034848,Industrials,Industrial Conglomerates,25,21.0,2.218303,0.132661,0.0
+1276,PX,Year 1,2012-12-31,11,6.0,1.227,0.098,1.001,Materials,Industrial Gases,44,23.0,5.309,4.386,0.385
+1277,PX,Year 2,2013-12-31,11,6.0,1.349,0.098,1.109,Materials,Industrial Gases,44,23.0,5.309,4.386,0.385
+1278,PX,Year 3,2014-12-31,12,6.0,1.437,0.096,1.17,Materials,Industrial Gases,44,23.0,5.309,4.386,0.385
+1279,PX,Year 4,2015-12-31,10,5.0,1.296,0.093,1.106,Materials,Industrial Gases,44,23.0,5.309,4.386,0.385
+1280,QCOM,Year 1,2013-09-29,24,9.0,2.849,4.967,,Information Technology,Semiconductors,98,38.0,11.419,0.0,21.085
+1281,QCOM,Year 2,2014-09-28,26,10.0,2.774,5.477,,Information Technology,Semiconductors,98,38.0,11.419,0.0,21.085
+1282,QCOM,Year 3,2015-09-27,25,10.0,3.637,5.49,,Information Technology,Semiconductors,98,38.0,11.419,0.0,21.085
+1283,QCOM,Year 4,2016-09-25,23,9.0,2.159,5.151,,Information Technology,Semiconductors,98,38.0,11.419,0.0,21.085
+1284,QRVO,Year 1,2014-03-29,1,0.0,0.180317,0.197269,,Information Technology,Semiconductors,4,2.0,1.078487,0.0,0.903526
+1285,QRVO,Year 2,2015-03-28,1,1.0,0.309348,0.257494,,Information Technology,Semiconductors,4,2.0,1.078487,0.0,0.903526
+1286,QRVO,Year 3,2016-04-02,2,1.0,0.588822,0.448763,,Information Technology,Semiconductors,4,2.0,1.078487,0.0,0.903526
+1287,R,Year 1,2013-12-31,6,5.0,0.92234,,,Industrials,Industrial Conglomerates,24,20.0,3.870091,0.0,0.0
+1288,R,Year 2,2014-12-31,6,5.0,1.030014,,,Industrials,Industrial Conglomerates,24,20.0,3.870091,0.0,0.0
+1289,R,Year 3,2015-12-31,6,5.0,0.961579,,,Industrials,Industrial Conglomerates,24,20.0,3.870091,0.0,0.0
+1290,R,Year 4,2016-12-31,6,5.0,0.956158,,,Industrials,Industrial Conglomerates,24,20.0,3.870091,0.0,0.0
+1291,RCL,Year 1,2012-12-31,7,5.0,1.011543,,0.730493,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",30,20.0,4.191818,3.084657,0.0
+1292,RCL,Year 2,2013-12-31,7,5.0,1.044819,,0.754711,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",30,20.0,4.191818,3.084657,0.0
+1293,RCL,Year 3,2014-12-31,8,5.0,1.048952,,0.772445,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",30,20.0,4.191818,3.084657,0.0
+1294,RCL,Year 4,2015-12-31,8,5.0,1.086504,,0.827008,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",30,20.0,4.191818,3.084657,0.0
+1295,REGN,Year 1,2013-12-31,2,0.0,0.346393,0.859947,,Health Care,Biotechnology,12,0.0,2.881883,0.0,5.804171999999999
+1296,REGN,Year 2,2014-12-31,2,0.0,0.519267,1.271353,,Health Care,Biotechnology,12,0.0,2.881883,0.0,5.804171999999999
+1297,REGN,Year 3,2015-12-31,4,0.0,0.838526,1.620577,,Health Care,Biotechnology,12,0.0,2.881883,0.0,5.804171999999999
+1298,REGN,Year 4,2016-12-31,4,0.0,1.177697,2.052295,,Health Care,Biotechnology,12,0.0,2.881883,0.0,5.804171999999999
+1299,RHI,Year 1,2013-12-31,4,2.0,1.324815,,0.0017,Industrials,Human Resource & Employment Services,18,9.0,5.8905650000000005,0.003686,0.0
+1300,RHI,Year 2,2014-12-31,4,2.0,1.425734,,0.000557,Industrials,Human Resource & Employment Services,18,9.0,5.8905650000000005,0.003686,0.0
+1301,RHI,Year 3,2015-12-31,5,2.0,1.533799,,0.000192,Industrials,Human Resource & Employment Services,18,9.0,5.8905650000000005,0.003686,0.0
+1302,RHI,Year 4,2016-12-31,5,3.0,1.606217,,0.001237,Industrials,Human Resource & Employment Services,18,9.0,5.8905650000000005,0.003686,0.0
+1303,RHT,Year 1,2013-02-28,1,0.0,0.660887,0.26315,,Information Technology,Systems Software,5,0.0,3.35085,0.0,1.361591
+1304,RHT,Year 2,2014-02-28,1,0.0,0.750292,0.317263,,Information Technology,Systems Software,5,0.0,3.35085,0.0,1.361591
+1305,RHT,Year 3,2015-02-28,1,0.0,0.89844,0.367856,,Information Technology,Systems Software,5,0.0,3.35085,0.0,1.361591
+1306,RHT,Year 4,2016-02-29,2,0.0,1.041231,0.413322,,Information Technology,Systems Software,5,0.0,3.35085,0.0,1.361591
+1307,RL,Year 1,2013-03-30,6,2.0,2.971,,0.027,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",27,11.0,12.803,0.111,0.0
+1308,RL,Year 2,2014-03-29,7,3.0,3.142,,0.035,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",27,11.0,12.803,0.111,0.0
+1309,RL,Year 3,2015-03-28,7,3.0,3.301,,0.025,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",27,11.0,12.803,0.111,0.0
+1310,RL,Year 4,2016-04-02,7,3.0,3.389,,0.024,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",27,11.0,12.803,0.111,0.0
+1311,ROK,Year 1,2013-09-30,6,3.0,1.5377,,,Industrials,Industrial Conglomerates,23,12.0,6.0816,0.0,0.0
+1312,ROK,Year 2,2014-09-30,6,3.0,1.5701,,,Industrials,Industrial Conglomerates,23,12.0,6.0816,0.0,0.0
+1313,ROK,Year 3,2015-09-30,6,3.0,1.5064,,,Industrials,Industrial Conglomerates,23,12.0,6.0816,0.0,0.0
+1314,ROK,Year 4,2016-09-30,5,3.0,1.4674,,,Industrials,Industrial Conglomerates,23,12.0,6.0816,0.0,0.0
+1315,ROP,Year 1,2012-12-31,2,1.0,0.91413,,,Industrials,Industrial Conglomerates,11,4.0,4.193851,0.0,0.0
+1316,ROP,Year 2,2013-12-31,3,1.0,1.040567,,,Industrials,Industrial Conglomerates,11,4.0,4.193851,0.0,0.0
+1317,ROP,Year 3,2014-12-31,3,1.0,1.102426,,,Industrials,Industrial Conglomerates,11,4.0,4.193851,0.0,0.0
+1318,ROP,Year 4,2015-12-31,3,1.0,1.136728,,,Industrials,Industrial Conglomerates,11,4.0,4.193851,0.0,0.0
+1319,ROST,Year 1,2013-02-02,9,7.0,1.437886,,,Consumer Discretionary,Apparel Retail,41,29.0,6.318378,0.0,0.0
+1320,ROST,Year 2,2014-02-01,10,7.0,1.526366,,,Consumer Discretionary,Apparel Retail,41,29.0,6.318378,0.0,0.0
+1321,ROST,Year 3,2015-01-31,11,7.0,1.615371,,,Consumer Discretionary,Apparel Retail,41,29.0,6.318378,0.0,0.0
+1322,ROST,Year 4,2016-01-30,11,8.0,1.738755,,,Consumer Discretionary,Apparel Retail,41,29.0,6.318378,0.0,0.0
+1323,RRC,Year 1,2012-12-31,1,0.0,0.248136,,0.445228,Energy,Oil & Gas Exploration & Production,5,0.0,0.996963,2.0698119999999998,0.0
+1324,RRC,Year 2,2013-12-31,1,0.0,0.391707,,0.492397,Energy,Oil & Gas Exploration & Production,5,0.0,0.996963,2.0698119999999998,0.0
+1325,RRC,Year 3,2014-12-31,2,0.0,0.191802,,0.551032,Energy,Oil & Gas Exploration & Production,5,0.0,0.996963,2.0698119999999998,0.0
+1326,RRC,Year 4,2015-12-31,1,0.0,0.165318,,0.581155,Energy,Oil & Gas Exploration & Production,5,0.0,0.996963,2.0698119999999998,0.0
+1327,RSG,Year 1,2013-12-31,8,5.0,1.0881,,0.8774,Industrials,Industrial Conglomerates,34,20.0,4.208,3.746,0.0
+1328,RSG,Year 2,2014-12-31,8,5.0,0.9984,,0.9069,Industrials,Industrial Conglomerates,34,20.0,4.208,3.746,0.0
+1329,RSG,Year 3,2015-12-31,9,5.0,1.067,,0.9706,Industrials,Industrial Conglomerates,34,20.0,4.208,3.746,0.0
+1330,RSG,Year 4,2016-12-31,9,5.0,1.0545,,0.9911,Industrials,Industrial Conglomerates,34,20.0,4.208,3.746,0.0
+1331,SBUX,Year 1,2013-09-29,14,6.0,5.6558,,0.6214,Consumer Discretionary,Restaurants,70,27.0,26.8431,3.2057,0.0
+1332,SBUX,Year 2,2014-09-28,16,6.0,6.0868,,0.7096,Consumer Discretionary,Restaurants,70,27.0,26.8431,3.2057,0.0
+1333,SBUX,Year 3,2015-09-27,19,7.0,7.1302,,0.8939,Consumer Discretionary,Restaurants,70,27.0,26.8431,3.2057,0.0
+1334,SBUX,Year 4,2016-10-02,21,8.0,7.9703,,0.9808,Consumer Discretionary,Restaurants,70,27.0,26.8431,3.2057,0.0
+1335,SCG,Year 1,2012-12-31,4,2.0,0.207,,0.356,Utilities,MultiUtilities,16,9.0,0.89,1.476,0.0
+1336,SCG,Year 2,2013-12-31,4,2.0,0.22,,0.378,Utilities,MultiUtilities,16,9.0,0.89,1.476,0.0
+1337,SCG,Year 3,2014-12-31,4,3.0,0.229,,0.384,Utilities,MultiUtilities,16,9.0,0.89,1.476,0.0
+1338,SCG,Year 4,2015-12-31,4,2.0,0.234,,0.358,Utilities,MultiUtilities,16,9.0,0.89,1.476,0.0
+1339,SE,Year 1,2012-12-31,5,2.0,0.337,,0.746,Energy,Oil & Gas Refining & Marketing & Transportation,20,8.0,1.456,3.0780000000000003,0.0
+1340,SE,Year 2,2013-12-31,5,2.0,0.373,,0.772,Energy,Oil & Gas Refining & Marketing & Transportation,20,8.0,1.456,3.0780000000000003,0.0
+1341,SE,Year 3,2014-12-31,5,2.0,0.393,,0.796,Energy,Oil & Gas Refining & Marketing & Transportation,20,8.0,1.456,3.0780000000000003,0.0
+1342,SE,Year 4,2015-12-31,5,2.0,0.353,,0.764,Energy,Oil & Gas Refining & Marketing & Transportation,20,8.0,1.456,3.0780000000000003,0.0
+1343,SEE,Year 1,2013-12-31,7,5.0,1.7883,,0.1232,Materials,Paper Packaging,27,18.0,6.8983,0.4257,0.0
+1344,SEE,Year 2,2014-12-31,7,5.0,1.8494,,0.1189,Materials,Paper Packaging,27,18.0,6.8983,0.4257,0.0
+1345,SEE,Year 3,2015-12-31,7,4.0,1.6562,,0.0887,Materials,Paper Packaging,27,18.0,6.8983,0.4257,0.0
+1346,SEE,Year 4,2016-12-31,6,4.0,1.6044,,0.0949,Materials,Paper Packaging,27,18.0,6.8983,0.4257,0.0
+1347,SHW,Year 1,2012-12-31,9,5.0,3.264896,,,Materials,Specialty Chemicals,41,20.0,14.53933,0.0,0.0
+1348,SHW,Year 2,2013-12-31,10,5.0,3.4702,,,Materials,Specialty Chemicals,41,20.0,14.53933,0.0,0.0
+1349,SHW,Year 3,2014-12-31,11,5.0,3.860448,,,Materials,Specialty Chemicals,41,20.0,14.53933,0.0,0.0
+1350,SHW,Year 4,2015-12-31,11,5.0,3.943786,,,Materials,Specialty Chemicals,41,20.0,14.53933,0.0,0.0
+1351,SIG,Year 1,2013-02-02,3,2.0,0.9769,,,Consumer Discretionary,Specialty Stores,18,11.0,5.2212,0.0,0.0
+1352,SIG,Year 2,2014-02-01,4,2.0,1.01,,,Consumer Discretionary,Specialty Stores,18,11.0,5.2212,0.0,0.0
+1353,SIG,Year 3,2015-02-02,5,3.0,1.4976,,,Consumer Discretionary,Specialty Stores,18,11.0,5.2212,0.0,0.0
+1354,SIG,Year 4,2016-01-30,6,4.0,1.7367,,,Consumer Discretionary,Specialty Stores,18,11.0,5.2212,0.0,0.0
+1355,SJM,Year 1,2013-04-30,5,3.0,1.0204,,0.0968,Consumer Staples,Packaged Foods & Meats,22,13.0,4.7334,0.515,0.0
+1356,SJM,Year 2,2014-04-30,5,3.0,1.0131,,0.0989,Consumer Staples,Packaged Foods & Meats,22,13.0,4.7334,0.515,0.0
+1357,SJM,Year 3,2015-04-30,5,3.0,1.0858,,0.1109,Consumer Staples,Packaged Foods & Meats,22,13.0,4.7334,0.515,0.0
+1358,SJM,Year 4,2016-04-30,7,4.0,1.6141,,0.2084,Consumer Staples,Packaged Foods & Meats,22,13.0,4.7334,0.515,0.0
+1359,SLG,Year 1,2012-12-31,1,0.0,0.12031,,0.330418,Real Estate,Office REITs,4,0.0,0.515077,1.6529559999999999,0.0
+1360,SLG,Year 2,2013-12-31,1,0.0,0.122128,,0.340316,Real Estate,Office REITs,4,0.0,0.515077,1.6529559999999999,0.0
+1361,SLG,Year 3,2014-12-31,1,0.0,0.133502,,0.393987,Real Estate,Office REITs,4,0.0,0.515077,1.6529559999999999,0.0
+1362,SLG,Year 4,2015-12-31,1,0.0,0.139137,,0.588235,Real Estate,Office REITs,4,0.0,0.515077,1.6529559999999999,0.0
+1363,SNA,Year 1,2013-12-31,3,1.0,1.0124,,,Consumer Discretionary,Household Appliances,12,4.0,4.1689,0.0,0.0
+1364,SNA,Year 2,2015-01-03,3,1.0,1.0487,,,Consumer Discretionary,Household Appliances,12,4.0,4.1689,0.0,0.0
+1365,SNA,Year 3,2016-01-02,3,1.0,1.0537,,,Consumer Discretionary,Household Appliances,12,4.0,4.1689,0.0,0.0
+1366,SNA,Year 4,2016-12-31,3,1.0,1.0541,,,Consumer Discretionary,Household Appliances,12,4.0,4.1689,0.0,0.0
+1367,SNI,Year 1,2012-12-31,2,0.0,0.655473,,0.107591,Consumer Discretionary,Broadcasting & Cable TV,9,0.0,2.934506,0.49134900000000004,0.0
+1368,SNI,Year 2,2013-12-31,2,0.0,0.729055,,0.11758,Consumer Discretionary,Broadcasting & Cable TV,9,0.0,2.934506,0.49134900000000004,0.0
+1369,SNI,Year 3,2014-12-31,2,0.0,0.764799,,0.128582,Consumer Discretionary,Broadcasting & Cable TV,9,0.0,2.934506,0.49134900000000004,0.0
+1370,SNI,Year 4,2015-12-31,3,0.0,0.785179,,0.137596,Consumer Discretionary,Broadcasting & Cable TV,9,0.0,2.934506,0.49134900000000004,0.0
+1371,SO,Year 1,2012-12-31,16,9.0,0.914,,1.787,Utilities,Electric Utilities,68,38.0,3.826,7.667,0.0
+1372,SO,Year 2,2013-12-31,17,9.0,0.934,,1.901,Utilities,Electric Utilities,68,38.0,3.826,7.667,0.0
+1373,SO,Year 3,2014-12-31,18,11.0,0.981,,1.945,Utilities,Electric Utilities,68,38.0,3.826,7.667,0.0
+1374,SO,Year 4,2015-12-31,17,9.0,0.997,,2.034,Utilities,Electric Utilities,68,38.0,3.826,7.667,0.0
+1375,SPG,Year 1,2012-12-31,4,0.0,0.376687,,1.068382,Real Estate,REITs,17,0.0,1.678736,4.497477,0.0
+1376,SPG,Year 2,2013-12-31,4,0.0,0.402369,,1.1077,Real Estate,REITs,17,0.0,1.678736,4.497477,0.0
+1377,SPG,Year 3,2014-12-31,4,0.0,0.446845,,1.143827,Real Estate,REITs,17,0.0,1.678736,4.497477,0.0
+1378,SPG,Year 4,2015-12-31,5,0.0,0.452835,,1.177568,Real Estate,REITs,17,0.0,1.678736,4.497477,0.0
+1379,SPLS,Year 1,2013-02-02,24,17.0,4.884284,,0.0789,Consumer Discretionary,Specialty Stores,90,65.0,19.035284,0.2629,0.0
+1380,SPLS,Year 2,2014-02-01,23,17.0,4.735,,0.055,Consumer Discretionary,Specialty Stores,90,65.0,19.035284,0.2629,0.0
+1381,SPLS,Year 3,2015-01-31,22,16.0,4.816,,0.062,Consumer Discretionary,Specialty Stores,90,65.0,19.035284,0.2629,0.0
+1382,SPLS,Year 4,2016-01-30,21,15.0,4.6,,0.067,Consumer Discretionary,Specialty Stores,90,65.0,19.035284,0.2629,0.0
+1383,SRCL,Year 1,2012-12-31,1,1.0,0.356817,,0.031652,Industrials,Industrial Conglomerates,7,4.0,1.950167,0.183965,0.0
+1384,SRCL,Year 2,2013-12-31,2,1.0,0.39061,,0.038405,Industrials,Industrial Conglomerates,7,4.0,1.950167,0.183965,0.0
+1385,SRCL,Year 3,2014-12-31,2,1.0,0.489937,,0.048138,Industrials,Industrial Conglomerates,7,4.0,1.950167,0.183965,0.0
+1386,SRCL,Year 4,2015-12-31,2,1.0,0.712803,,0.06577,Industrials,Industrial Conglomerates,7,4.0,1.950167,0.183965,0.0
+1387,SRE,Year 1,2012-12-31,9,6.0,0.359,,1.09,Utilities,MultiUtilities,40,26.0,1.744,4.609,0.0
+1388,SRE,Year 2,2013-12-31,10,7.0,0.574,,1.113,Utilities,MultiUtilities,40,26.0,1.744,4.609,0.0
+1389,SRE,Year 3,2014-12-31,11,7.0,0.414,,1.156,Utilities,MultiUtilities,40,26.0,1.744,4.609,0.0
+1390,SRE,Year 4,2015-12-31,10,6.0,0.397,,1.25,Utilities,MultiUtilities,40,26.0,1.744,4.609,0.0
+1391,STI,Year 1,2012-12-31,11,0.0,6.073,,1.441,Financials,Banks,35,0.0,22.519,2.589,0.0
+1392,STI,Year 2,2013-12-31,8,0.0,5.808,,0.576,Financials,Banks,35,0.0,22.519,2.589,0.0
+1393,STI,Year 3,2014-12-31,8,0.0,5.518,,0.367,Financials,Banks,35,0.0,22.519,2.589,0.0
+1394,STI,Year 4,2015-12-31,8,0.0,5.12,,0.205,Financials,Banks,35,0.0,22.519,2.589,0.0
+1395,STX,Year 1,2013-06-28,14,10.0,0.635,1.133,0.079,Information Technology,Computer Storage & Peripherals,51,36.0,2.229,0.429,4.949
+1396,STX,Year 2,2014-06-27,13,9.0,0.722,1.226,0.098,Information Technology,Computer Storage & Peripherals,51,36.0,2.229,0.429,4.949
+1397,STX,Year 3,2015-07-03,13,9.0,0.237,1.353,0.129,Information Technology,Computer Storage & Peripherals,51,36.0,2.229,0.429,4.949
+1398,STX,Year 4,2016-07-01,11,8.0,0.635,1.237,0.123,Information Technology,Computer Storage & Peripherals,51,36.0,2.229,0.429,4.949
+1399,STZ,Year 1,2013-02-28,2,1.0,0.5854,,,Consumer Staples,Distillers & Vintners,18,9.0,3.7361,0.0,0.0
+1400,STZ,Year 2,2014-02-28,4,2.0,0.8951,,,Consumer Staples,Distillers & Vintners,18,9.0,3.7361,0.0,0.0
+1401,STZ,Year 3,2015-02-28,6,3.0,1.0784,,,Consumer Staples,Distillers & Vintners,18,9.0,3.7361,0.0,0.0
+1402,STZ,Year 4,2016-02-29,6,3.0,1.1772,,,Consumer Staples,Distillers & Vintners,18,9.0,3.7361,0.0,0.0
+1403,SWK,Year 1,2013-12-28,10,6.0,2.9603,,,Consumer Discretionary,Household Appliances,43,27.0,11.2549,0.0,0.0
+1404,SWK,Year 2,2015-01-03,11,7.0,2.8146,,,Consumer Discretionary,Household Appliances,43,27.0,11.2549,0.0,0.0
+1405,SWK,Year 3,2016-01-02,11,7.0,2.6811,,,Consumer Discretionary,Household Appliances,43,27.0,11.2549,0.0,0.0
+1406,SWK,Year 4,2016-12-31,11,7.0,2.7989,,,Consumer Discretionary,Household Appliances,43,27.0,11.2549,0.0,0.0
+1407,SWKS,Year 1,2013-09-27,1,1.0,0.1597,0.2263,0.0291,Information Technology,Semiconductors,9,4.0,0.726,0.12190000000000001,1.0941
+1408,SWKS,Year 2,2014-10-03,2,1.0,0.1791,0.2522,0.0259,Information Technology,Semiconductors,9,4.0,0.726,0.12190000000000001,1.0941
+1409,SWKS,Year 3,2015-10-02,3,1.0,0.1913,0.3032,0.0335,Information Technology,Semiconductors,9,4.0,0.726,0.12190000000000001,1.0941
+1410,SWKS,Year 4,2016-09-30,3,1.0,0.1959,0.3124,0.0334,Information Technology,Semiconductors,9,4.0,0.726,0.12190000000000001,1.0941
+1411,SWN,Year 1,2012-12-31,2,0.0,0.835,,0.811,Energy,Oil & Gas Exploration & Production,12,0.0,4.391,3.6310000000000002,0.0
+1412,SWN,Year 2,2013-12-31,3,0.0,1.052,,0.787,Energy,Oil & Gas Exploration & Production,12,0.0,4.391,3.6310000000000002,0.0
+1413,SWN,Year 3,2014-12-31,4,0.0,1.296,,0.942,Energy,Oil & Gas Exploration & Production,12,0.0,4.391,3.6310000000000002,0.0
+1414,SWN,Year 4,2015-12-31,3,0.0,1.208,,1.091,Energy,Oil & Gas Exploration & Production,12,0.0,4.391,3.6310000000000002,0.0
+1415,SYF,Year 1,2012-12-31,10,0.0,2.123,,4.549,Financials,Consumer Finance,46,0.0,10.798,21.176000000000002,0.0
+1416,SYF,Year 2,2013-12-31,11,0.0,2.484,,5.445,Financials,Consumer Finance,46,0.0,10.798,21.176000000000002,0.0
+1417,SYF,Year 3,2014-12-31,12,0.0,2.927,,5.492,Financials,Consumer Finance,46,0.0,10.798,21.176000000000002,0.0
+1418,SYF,Year 4,2015-12-31,13,0.0,3.264,,5.69,Financials,Consumer Finance,46,0.0,10.798,21.176000000000002,0.0
+1419,SYK,Year 1,2013-12-31,9,3.0,4.089,0.536,0.138,Health Care,Health Care Equipment,38,12.0,16.598,0.855,2.49
+1420,SYK,Year 2,2014-12-31,9,3.0,4.308,0.614,0.188,Health Care,Health Care Equipment,38,12.0,16.598,0.855,2.49
+1421,SYK,Year 3,2015-12-31,9,3.0,3.906,0.625,0.21,Health Care,Health Care Equipment,38,12.0,16.598,0.855,2.49
+1422,SYK,Year 4,2016-12-31,11,3.0,4.295,0.715,0.319,Health Care,Health Care Equipment,38,12.0,16.598,0.855,2.49
+1423,SYMC,Year 1,2013-03-29,6,1.0,3.236,1.026,0.286,Information Technology,Application Software,16,1.0,9.021,0.523,3.308
+1424,SYMC,Year 2,2014-03-28,4,0.0,2.186,0.722,0.093,Information Technology,Application Software,16,1.0,9.021,0.523,3.308
+1425,SYMC,Year 3,2015-04-03,3,0.0,2.012,0.812,0.087,Information Technology,Application Software,16,1.0,9.021,0.523,3.308
+1426,SYMC,Year 4,2016-04-01,3,0.0,1.587,0.748,0.057,Information Technology,Application Software,16,1.0,9.021,0.523,3.308
+1427,SYY,Year 1,2013-06-29,44,36.0,6.338129,,,Consumer Staples,Food Distributors,188,155.0,6.338129,0.0,0.0
+1428,SYY,Year 2,2014-06-28,46,38.0,,,,Consumer Staples,Food Distributors,188,155.0,6.338129,0.0,0.0
+1429,SYY,Year 3,2015-06-27,48,40.0,,,,Consumer Staples,Food Distributors,188,155.0,6.338129,0.0,0.0
+1430,SYY,Year 4,2016-07-02,50,41.0,,,,Consumer Staples,Food Distributors,188,155.0,6.338129,0.0,0.0
+1431,T,Year 1,2012-12-31,127,55.0,41.066,,18.143,Telecommunications Services,Integrated Telecommunications Services,533,233.0,144.251,76.827,0.0
+1432,T,Year 2,2013-12-31,128,51.0,28.414,,18.395,Telecommunications Services,Integrated Telecommunications Services,533,233.0,144.251,76.827,0.0
+1433,T,Year 3,2014-12-31,132,60.0,41.817,,18.273,Telecommunications Services,Integrated Telecommunications Services,533,233.0,144.251,76.827,0.0
+1434,T,Year 4,2015-12-31,146,67.0,32.954,,22.016,Telecommunications Services,Integrated Telecommunications Services,533,233.0,144.251,76.827,0.0
+1435,TAP,Year 1,2013-12-31,4,2.0,1.1938,,,Consumer Staples,Brewers,15,9.0,5.0068,0.0,0.0
+1436,TAP,Year 2,2014-12-31,4,2.0,1.1639,,,Consumer Staples,Brewers,15,9.0,5.0068,0.0,0.0
+1437,TAP,Year 3,2015-12-31,3,2.0,1.0518,,,Consumer Staples,Brewers,15,9.0,5.0068,0.0,0.0
+1438,TAP,Year 4,2016-12-31,4,3.0,1.5973,,,Consumer Staples,Brewers,15,9.0,5.0068,0.0,0.0
+1439,TDC,Year 1,2012-12-31,2,1.0,0.728,0.183,,Information Technology,Application Software,8,4.0,3.02,0.0,0.8009999999999999
+1440,TDC,Year 2,2013-12-31,2,1.0,0.757,0.184,,Information Technology,Application Software,8,4.0,3.02,0.0,0.8009999999999999
+1441,TDC,Year 3,2014-12-31,2,1.0,0.77,0.206,,Information Technology,Application Software,8,4.0,3.02,0.0,0.8009999999999999
+1442,TDC,Year 4,2015-12-31,2,1.0,0.765,0.228,,Information Technology,Application Software,8,4.0,3.02,0.0,0.8009999999999999
+1443,TDG,Year 1,2013-09-30,1,0.0,0.254468,,0.045639,Industrials,Aerospace & Defense,8,3.0,1.2353960000000002,0.240911,0.0
+1444,TDG,Year 2,2014-09-30,2,1.0,0.276446,,0.063608,Industrials,Aerospace & Defense,8,3.0,1.2353960000000002,0.240911,0.0
+1445,TDG,Year 3,2015-09-30,2,1.0,0.321624,,0.054219,Industrials,Aerospace & Defense,8,3.0,1.2353960000000002,0.240911,0.0
+1446,TDG,Year 4,2016-09-30,3,1.0,0.382858,,0.077445,Industrials,Aerospace & Defense,8,3.0,1.2353960000000002,0.240911,0.0
+1447,TEL,Year 1,2013-09-27,11,7.0,1.44,0.59,,Information Technology,Electronic Manufacturing Services,46,31.0,5.941,0.0,2.444
+1448,TEL,Year 2,2014-09-26,11,8.0,1.534,0.583,,Information Technology,Electronic Manufacturing Services,46,31.0,5.941,0.0,2.444
+1449,TEL,Year 3,2015-09-25,12,8.0,1.504,0.627,,Information Technology,Electronic Manufacturing Services,46,31.0,5.941,0.0,2.444
+1450,TEL,Year 4,2016-09-30,12,8.0,1.463,0.644,,Information Technology,Electronic Manufacturing Services,46,31.0,5.941,0.0,2.444
+1451,TGNA,Year 1,2012-12-30,5,2.0,1.303427,,0.194039,Consumer Discretionary,Publishing,11,2.0,3.670434,0.625796,0.0
+1452,TGNA,Year 2,2013-12-29,1,0.0,0.531932,,0.074833,Consumer Discretionary,Publishing,11,2.0,3.670434,0.625796,0.0
+1453,TGNA,Year 3,2014-12-31,2,0.0,0.766854,,0.151837,Consumer Discretionary,Publishing,11,2.0,3.670434,0.625796,0.0
+1454,TGNA,Year 4,2015-12-31,3,0.0,1.068221,,0.205087,Consumer Discretionary,Publishing,11,2.0,3.670434,0.625796,0.0
+1455,TGT,Year 1,2013-02-02,73,50.0,15.11,,2.044,Consumer Discretionary,General Merchandise Stores,289,202.0,58.916,8.382,0.0
+1456,TGT,Year 2,2014-02-01,71,50.0,14.465,,1.996,Consumer Discretionary,General Merchandise Stores,289,202.0,58.916,8.382,0.0
+1457,TGT,Year 3,2015-01-31,72,51.0,14.676,,2.129,Consumer Discretionary,General Merchandise Stores,289,202.0,58.916,8.382,0.0
+1458,TGT,Year 4,2016-01-30,73,51.0,14.665,,2.213,Consumer Discretionary,General Merchandise Stores,289,202.0,58.916,8.382,0.0
+1459,TIF,Year 1,2013-01-31,3,1.0,1.466067,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",15,4.0,6.879167,0.0,0.0
+1460,TIF,Year 2,2014-01-31,4,1.0,2.0361,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",15,4.0,6.879167,0.0,0.0
+1461,TIF,Year 3,2015-01-31,4,1.0,1.6458,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",15,4.0,6.879167,0.0,0.0
+1462,TIF,Year 4,2016-01-31,4,1.0,1.7312,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",15,4.0,6.879167,0.0,0.0
+1463,TJX,Year 1,2013-02-02,25,18.0,4.250446,,,Consumer Discretionary,Apparel Retail,111,79.0,18.618634,0.0,0.0
+1464,TJX,Year 2,2014-02-01,27,19.0,4.467089,,,Consumer Discretionary,Apparel Retail,111,79.0,18.618634,0.0,0.0
+1465,TJX,Year 3,2015-01-31,29,20.0,4.695384,,,Consumer Discretionary,Apparel Retail,111,79.0,18.618634,0.0,0.0
+1466,TJX,Year 4,2016-01-30,30,22.0,5.205715,,,Consumer Discretionary,Apparel Retail,111,79.0,18.618634,0.0,0.0
+1467,TMK,Year 1,2012-12-31,3,1.0,,,0.787329,Financials,Life & Health Insurance,12,5.0,0.0,3.3699719999999997,0.0
+1468,TMK,Year 2,2013-12-31,3,1.0,,,0.819711,Financials,Life & Health Insurance,12,5.0,0.0,3.3699719999999997,0.0
+1469,TMK,Year 3,2014-12-31,3,1.0,,,0.855908,Financials,Life & Health Insurance,12,5.0,0.0,3.3699719999999997,0.0
+1470,TMK,Year 4,2015-12-31,3,2.0,,,0.907024,Financials,Life & Health Insurance,12,5.0,0.0,3.3699719999999997,0.0
+1471,TMO,Year 1,2012-12-31,12,7.0,3.3549,0.3764,,Health Care,Health Care Equipment,57,32.0,16.3094,0.0,2.1553
+1472,TMO,Year 2,2013-12-31,13,7.0,3.4463,0.3955,,Health Care,Health Care Equipment,57,32.0,16.3094,0.0,2.1553
+1473,TMO,Year 3,2014-12-31,16,9.0,4.8961,0.6911,,Health Care,Health Care Equipment,57,32.0,16.3094,0.0,2.1553
+1474,TMO,Year 4,2015-12-31,16,9.0,4.6121,0.6923,,Health Care,Health Care Equipment,57,32.0,16.3094,0.0,2.1553
+1475,TRIP,Year 1,2012-12-31,0,0.0,0.429,,0.026,Consumer Discretionary,Internet & Direct Marketing Retail,2,0.0,2.936,0.22,0.0
+1476,TRIP,Year 2,2013-12-31,0,0.0,0.597,,0.036,Consumer Discretionary,Internet & Direct Marketing Retail,2,0.0,2.936,0.22,0.0
+1477,TRIP,Year 3,2014-12-31,1,0.0,0.801,,0.065,Consumer Discretionary,Internet & Direct Marketing Retail,2,0.0,2.936,0.22,0.0
+1478,TRIP,Year 4,2015-12-31,1,0.0,1.109,,0.093,Consumer Discretionary,Internet & Direct Marketing Retail,2,0.0,2.936,0.22,0.0
+1479,TRV,Year 1,2013-12-31,26,13.0,3.757,,3.821,Financials,Property & Casualty Insurance,106,54.0,15.969000000000001,15.573,0.0
+1480,TRV,Year 2,2014-12-31,27,13.0,3.964,,3.882,Financials,Property & Casualty Insurance,106,54.0,15.969000000000001,15.573,0.0
+1481,TRV,Year 3,2015-12-31,26,13.0,4.094,,3.885,Financials,Property & Casualty Insurance,106,54.0,15.969000000000001,15.573,0.0
+1482,TRV,Year 4,2016-12-31,27,15.0,4.154,,3.985,Financials,Property & Casualty Insurance,106,54.0,15.969000000000001,15.573,0.0
+1483,TSCO,Year 1,2012-12-29,4,3.0,1.040287,,0.088975,Consumer Discretionary,Specialty Retail,20,13.0,4.794626,0.42720400000000003,0.0
+1484,TSCO,Year 2,2013-12-28,5,3.0,1.138934,,0.100025,Consumer Discretionary,Specialty Retail,20,13.0,4.794626,0.42720400000000003,0.0
+1485,TSCO,Year 3,2014-12-27,5,3.0,1.246308,,0.114635,Consumer Discretionary,Specialty Retail,20,13.0,4.794626,0.42720400000000003,0.0
+1486,TSCO,Year 4,2015-12-26,6,4.0,1.369097,,0.123569,Consumer Discretionary,Specialty Retail,20,13.0,4.794626,0.42720400000000003,0.0
+1487,TSN,Year 1,2013-10-03,34,32.0,0.983,,,Consumer Staples,Packaged Foods & Meats,148,135.0,5.85,0.0,0.0
+1488,TSN,Year 2,2014-10-03,37,34.0,1.255,,,Consumer Staples,Packaged Foods & Meats,148,135.0,5.85,0.0,0.0
+1489,TSN,Year 3,2015-10-03,41,37.0,1.748,,,Consumer Staples,Packaged Foods & Meats,148,135.0,5.85,0.0,0.0
+1490,TSN,Year 4,2016-10-01,36,32.0,1.864,,,Consumer Staples,Packaged Foods & Meats,148,135.0,5.85,0.0,0.0
+1491,TSO,Year 1,2012-12-31,29,26.0,1.702,,0.418,Energy,Oil & Gas Refining & Marketing & Transportation,134,117.0,9.332,2.225,0.0
+1492,TSO,Year 2,2013-12-31,37,34.0,2.248,,0.489,Energy,Oil & Gas Refining & Marketing & Transportation,134,117.0,9.332,2.225,0.0
+1493,TSO,Year 3,2014-12-31,40,35.0,2.762,,0.562,Energy,Oil & Gas Refining & Marketing & Transportation,134,117.0,9.332,2.225,0.0
+1494,TSO,Year 4,2015-12-31,28,22.0,2.62,,0.756,Energy,Oil & Gas Refining & Marketing & Transportation,134,117.0,9.332,2.225,0.0
+1495,TSS,Year 1,2012-12-31,1,1.0,0.247597,,,Information Technology,Internet Software & Services,7,4.0,1.296562,0.0,0.0
+1496,TSS,Year 2,2013-12-31,2,1.0,0.312367,,,Information Technology,Internet Software & Services,7,4.0,1.296562,0.0,0.0
+1497,TSS,Year 3,2014-12-31,2,1.0,0.346345,,,Information Technology,Internet Software & Services,7,4.0,1.296562,0.0,0.0
+1498,TSS,Year 4,2015-12-31,2,1.0,0.390253,,,Information Technology,Internet Software & Services,7,4.0,1.296562,0.0,0.0
+1499,TXN,Year 1,2012-12-31,12,6.0,1.804,1.877,,Information Technology,Semiconductors,50,21.0,7.253,0.0,6.037
+1500,TXN,Year 2,2013-12-31,12,5.0,1.858,1.522,,Information Technology,Semiconductors,50,21.0,7.253,0.0,6.037
+1501,TXN,Year 3,2014-12-31,13,5.0,1.843,1.358,,Information Technology,Semiconductors,50,21.0,7.253,0.0,6.037
+1502,TXN,Year 4,2015-12-31,13,5.0,1.748,1.28,,Information Technology,Semiconductors,50,21.0,7.253,0.0,6.037
+1503,TXT,Year 1,2012-12-29,12,10.0,1.165,,,Industrials,Industrial Conglomerates,50,41.0,4.9559999999999995,0.0,0.0
+1504,TXT,Year 2,2013-12-28,12,10.0,1.126,,,Industrials,Industrial Conglomerates,50,41.0,4.9559999999999995,0.0,0.0
+1505,TXT,Year 3,2015-01-03,13,11.0,1.361,,,Industrials,Industrial Conglomerates,50,41.0,4.9559999999999995,0.0,0.0
+1506,TXT,Year 4,2016-01-02,13,10.0,1.304,,,Industrials,Industrial Conglomerates,50,41.0,4.9559999999999995,0.0,0.0
+1507,UA,Year 1,2012-12-31,1,0.0,0.670602,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",9,4.0,4.197425,0.0,0.0
+1508,UA,Year 2,2013-12-31,2,1.0,0.871572,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",9,4.0,4.197425,0.0,0.0
+1509,UA,Year 3,2014-12-31,3,1.0,1.158251,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",9,4.0,4.197425,0.0,0.0
+1510,UA,Year 4,2015-12-31,3,2.0,1.497,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",9,4.0,4.197425,0.0,0.0
+1511,UAA,Year 1,2012-12-31,1,0.0,0.670602,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",9,4.0,4.197425,0.0,0.0
+1512,UAA,Year 2,2013-12-31,2,1.0,0.871572,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",9,4.0,4.197425,0.0,0.0
+1513,UAA,Year 3,2014-12-31,3,1.0,1.158251,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",9,4.0,4.197425,0.0,0.0
+1514,UAA,Year 4,2015-12-31,3,2.0,1.497,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",9,4.0,4.197425,0.0,0.0
+1515,UAL,Year 1,2012-12-31,37,17.0,16.448,,1.522,Industrials,Airlines,150,62.0,70.295,6.709,0.0
+1516,UAL,Year 2,2013-12-31,38,17.0,17.629,,1.689,Industrials,Airlines,150,62.0,70.295,6.709,0.0
+1517,UAL,Year 3,2014-12-31,38,16.0,17.795,,1.679,Industrials,Airlines,150,62.0,70.295,6.709,0.0
+1518,UAL,Year 4,2015-12-31,37,12.0,18.423,,1.819,Industrials,Airlines,150,62.0,70.295,6.709,0.0
+1519,UDR,Year 1,2012-12-31,0,0.0,0.058005,,0.346031,Real Estate,Residential REITs,0,0.0,0.223471,1.43751,0.0
+1520,UDR,Year 2,2013-12-31,0,0.0,0.037121,,0.346273,Real Estate,Residential REITs,0,0.0,0.223471,1.43751,0.0
+1521,UDR,Year 3,2014-12-31,0,0.0,0.056612,,0.363929,Real Estate,Residential REITs,0,0.0,0.223471,1.43751,0.0
+1522,UDR,Year 4,2015-12-31,0,0.0,0.071733,,0.381277,Real Estate,Residential REITs,0,0.0,0.223471,1.43751,0.0
+1523,ULTA,Year 1,2013-02-02,2,1.0,0.48888,,,Consumer Discretionary,Specialty Stores,10,6.0,2.66063,0.0,0.0
+1524,ULTA,Year 2,2014-02-02,2,1.0,0.59639,,,Consumer Discretionary,Specialty Stores,10,6.0,2.66063,0.0,0.0
+1525,ULTA,Year 3,2015-01-31,3,2.0,0.712006,,,Consumer Discretionary,Specialty Stores,10,6.0,2.66063,0.0,0.0
+1526,ULTA,Year 4,2016-01-31,3,2.0,0.863354,,,Consumer Discretionary,Specialty Stores,10,6.0,2.66063,0.0,0.0
+1527,UNH,Year 1,2013-12-31,122,89.0,,,23.207,Health Care,Managed Health Care,593,402.0,0.0,146.857,0.0
+1528,UNH,Year 2,2014-12-31,130,93.0,,,26.567,Health Care,Managed Health Care,593,402.0,0.0,146.857,0.0
+1529,UNH,Year 3,2015-12-31,157,103.0,,,42.211,Health Care,Managed Health Care,593,402.0,0.0,146.857,0.0
+1530,UNH,Year 4,2016-12-31,184,117.0,,,54.872,Health Care,Managed Health Care,593,402.0,0.0,146.857,0.0
+1531,UNM,Year 1,2012-12-31,10,7.0,0.7868,,1.1616,Financials,Diversified Financial Services,40,28.0,3.2332,4.8997,0.0
+1532,UNM,Year 2,2013-12-31,10,7.0,0.7904,,1.1704,Financials,Diversified Financial Services,40,28.0,3.2332,4.8997,0.0
+1533,UNM,Year 3,2014-12-31,10,7.0,0.8209,,1.272,Financials,Diversified Financial Services,40,28.0,3.2332,4.8997,0.0
+1534,UNM,Year 4,2015-12-31,10,7.0,0.8351,,1.2957,Financials,Diversified Financial Services,40,28.0,3.2332,4.8997,0.0
+1535,UNP,Year 1,2013-12-31,21,5.0,6.891,,1.777,Industrials,Railroads,84,18.0,28.324,7.731,0.0
+1536,UNP,Year 2,2014-12-31,23,6.0,7.234,,1.904,Industrials,Railroads,84,18.0,28.324,7.731,0.0
+1537,UNP,Year 3,2015-12-31,21,4.0,7.315,,2.012,Industrials,Railroads,84,18.0,28.324,7.731,0.0
+1538,UNP,Year 4,2016-12-31,19,3.0,6.884,,2.038,Industrials,Railroads,84,18.0,28.324,7.731,0.0
+1539,UPS,Year 1,2012-12-31,54,13.0,37.352,,1.858,Industrials,Air Freight & Logistics,225,52.0,142.433,7.732,0.0
+1540,UPS,Year 2,2013-12-31,55,13.0,32.834,,1.867,Industrials,Air Freight & Logistics,225,52.0,142.433,7.732,0.0
+1541,UPS,Year 3,2014-12-31,58,14.0,36.583,,1.923,Industrials,Air Freight & Logistics,225,52.0,142.433,7.732,0.0
+1542,UPS,Year 4,2015-12-31,58,12.0,35.664,,2.084,Industrials,Air Freight & Logistics,225,52.0,142.433,7.732,0.0
+1543,URBN,Year 1,2013-01-31,2,1.0,0.657246,,,Consumer Discretionary,Apparel Retail,11,6.0,3.049625,0.0,0.0
+1544,URBN,Year 2,2014-01-31,3,1.0,0.734511,,,Consumer Discretionary,Apparel Retail,11,6.0,3.049625,0.0,0.0
+1545,URBN,Year 3,2015-01-31,3,2.0,0.809545,,,Consumer Discretionary,Apparel Retail,11,6.0,3.049625,0.0,0.0
+1546,URBN,Year 4,2016-01-31,3,2.0,0.848323,,,Consumer Discretionary,Apparel Retail,11,6.0,3.049625,0.0,0.0
+1547,USB,Year 1,2013-07-31,2,1.0,0.441168,0.06263,,Financials,Banks,8,4.0,1.786668,0.0,0.24013
+1548,USB,Year 2,2014-07-31,2,1.0,0.4603,0.0618,,Financials,Banks,8,4.0,1.786668,0.0,0.24013
+1549,USB,Year 3,2015-07-31,2,1.0,0.4601,0.0602,,Financials,Banks,8,4.0,1.786668,0.0,0.24013
+1550,USB,Year 4,2016-07-31,2,1.0,0.4251,0.0555,,Financials,Banks,8,4.0,1.786668,0.0,0.24013
+1551,UTX,Year 1,2013-12-31,56,40.0,5.241,2.342,,Industrials,Industrial Conglomerates,226,161.0,21.547,0.0,9.433
+1552,UTX,Year 2,2014-12-31,57,40.0,4.934,2.475,,Industrials,Industrial Conglomerates,226,161.0,21.547,0.0,9.433
+1553,UTX,Year 3,2015-12-31,56,40.0,6.097,2.279,,Industrials,Industrial Conglomerates,226,161.0,21.547,0.0,9.433
+1554,UTX,Year 4,2016-12-31,57,41.0,5.275,2.337,,Industrials,Industrial Conglomerates,226,161.0,21.547,0.0,9.433
+1555,V,Year 1,2013-09-30,11,1.0,2.207,,0.397,Information Technology,Internet Software & Services,51,6.0,11.147,1.828,0.0
+1556,V,Year 2,2014-09-30,12,1.0,2.242,,0.435,Information Technology,Internet Software & Services,51,6.0,11.147,1.828,0.0
+1557,V,Year 3,2015-09-30,13,2.0,2.229,,0.494,Information Technology,Internet Software & Services,51,6.0,11.147,1.828,0.0
+1558,V,Year 4,2016-09-30,15,2.0,4.469,,0.502,Information Technology,Internet Software & Services,51,6.0,11.147,1.828,0.0
+1559,VAR,Year 1,2013-09-27,2,1.0,0.432589,0.208208,,Health Care,Health Care Equipment,11,4.0,1.9486890000000001,0.0,0.941708
+1560,VAR,Year 2,2014-09-26,3,1.0,0.4706,0.2348,,Health Care,Health Care Equipment,11,4.0,1.9486890000000001,0.0,0.941708
+1561,VAR,Year 3,2015-10-02,3,1.0,0.4885,0.2452,,Health Care,Health Care Equipment,11,4.0,1.9486890000000001,0.0,0.941708
+1562,VAR,Year 4,2016-09-30,3,1.0,0.557,0.2535,,Health Care,Health Care Equipment,11,4.0,1.9486890000000001,0.0,0.941708
+1563,VFC,Year 1,2012-12-31,10,5.0,3.596708,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",45,22.0,15.776011,0.0,0.0
+1564,VFC,Year 2,2013-12-31,11,5.0,3.841032,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",45,22.0,15.776011,0.0,0.0
+1565,VFC,Year 3,2015-01-03,12,6.0,4.159885,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",45,22.0,15.776011,0.0,0.0
+1566,VFC,Year 4,2016-01-02,12,6.0,4.178386,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",45,22.0,15.776011,0.0,0.0
+1567,VIAB,Year 1,2013-09-30,13,6.0,2.829,,0.237,Consumer Discretionary,Broadcasting & Cable TV,51,24.0,11.439,0.897,0.0
+1568,VIAB,Year 2,2014-09-30,13,6.0,2.899,,0.217,Consumer Discretionary,Broadcasting & Cable TV,51,24.0,11.439,0.897,0.0
+1569,VIAB,Year 3,2015-09-30,13,6.0,2.86,,0.222,Consumer Discretionary,Broadcasting & Cable TV,51,24.0,11.439,0.897,0.0
+1570,VIAB,Year 4,2016-09-30,12,6.0,2.851,,0.221,Consumer Discretionary,Broadcasting & Cable TV,51,24.0,11.439,0.897,0.0
+1571,VLO,Year 1,2012-12-31,138,126.0,5.229,,1.549,Energy,Oil & Gas Refining & Marketing & Transportation,493,445.0,20.374000000000002,6.801,0.0
+1572,VLO,Year 2,2013-12-31,138,127.0,5.081,,1.72,Energy,Oil & Gas Refining & Marketing & Transportation,493,445.0,20.374000000000002,6.801,0.0
+1573,VLO,Year 3,2014-12-31,130,118.0,5.111,,1.69,Energy,Oil & Gas Refining & Marketing & Transportation,493,445.0,20.374000000000002,6.801,0.0
+1574,VLO,Year 4,2015-12-31,87,74.0,4.953,,1.842,Energy,Oil & Gas Refining & Marketing & Transportation,493,445.0,20.374000000000002,6.801,0.0
+1575,VMC,Year 1,2012-12-31,2,2.0,0.308143,,,Materials,Construction Materials,9,8.0,1.1874120000000001,0.0,0.0
+1576,VMC,Year 2,2013-12-31,2,2.0,0.274217,,,Materials,Construction Materials,9,8.0,1.1874120000000001,0.0,0.0
+1577,VMC,Year 3,2014-12-31,2,2.0,0.292358,,,Materials,Construction Materials,9,8.0,1.1874120000000001,0.0,0.0
+1578,VMC,Year 4,2015-12-31,3,2.0,0.312694,,,Materials,Construction Materials,9,8.0,1.1874120000000001,0.0,0.0
+1579,VNO,Year 1,2013-12-31,2,0.0,0.177366,0.03221,0.461627,Real Estate,REITs,8,2.0,0.701222,2.050941,0.03221
+1580,VNO,Year 2,2014-12-31,2,0.0,0.16927,,0.481303,Real Estate,REITs,8,2.0,0.701222,2.050941,0.03221
+1581,VNO,Year 3,2015-12-31,2,1.0,0.175307,,0.542952,Real Estate,REITs,8,2.0,0.701222,2.050941,0.03221
+1582,VNO,Year 4,2016-12-31,2,1.0,0.179279,,0.565059,Real Estate,REITs,8,2.0,0.701222,2.050941,0.03221
+1583,VRSK,Year 1,2012-12-31,1,0.0,0.220068,,0.098844,Industrials,Research & Consulting Services,5,0.0,0.9890460000000001,0.586635,0.0
+1584,VRSK,Year 2,2013-12-31,1,0.0,0.228982,,0.129931,Industrials,Research & Consulting Services,5,0.0,0.9890460000000001,0.586635,0.0
+1585,VRSK,Year 3,2014-12-31,1,0.0,0.227306,,0.142376,Industrials,Research & Consulting Services,5,0.0,0.9890460000000001,0.586635,0.0
+1586,VRSK,Year 4,2015-12-31,2,0.0,0.31269,,0.215484,Industrials,Research & Consulting Services,5,0.0,0.9890460000000001,0.586635,0.0
+1587,VRSN,Year 1,2012-12-31,0,0.0,0.186971,0.061694,,Information Technology,Internet Software & Services,2,0.0,0.752918,0.0,0.263486
+1588,VRSN,Year 2,2013-12-31,0,0.0,0.179545,0.070297,,Information Technology,Internet Software & Services,2,0.0,0.752918,0.0,0.263486
+1589,VRSN,Year 3,2014-12-31,1,0.0,0.189488,0.067777,,Information Technology,Internet Software & Services,2,0.0,0.752918,0.0,0.263486
+1590,VRSN,Year 4,2015-12-31,1,0.0,0.196914,0.063718,,Information Technology,Internet Software & Services,2,0.0,0.752918,0.0,0.263486
+1591,VRTX,Year 1,2012-12-31,1,0.0,0.432681,0.765905,,Health Care,Biotechnology,3,0.0,1.470853,0.0,3.49943
+1592,VRTX,Year 2,2013-12-31,1,0.0,0.356188,0.882097,,Health Care,Biotechnology,3,0.0,1.470853,0.0,3.49943
+1593,VRTX,Year 3,2014-12-31,0,0.0,0.305409,0.855506,,Health Care,Biotechnology,3,0.0,1.470853,0.0,3.49943
+1594,VRTX,Year 4,2015-12-31,1,0.0,0.376575,0.995922,,Health Care,Biotechnology,3,0.0,1.470853,0.0,3.49943
+1595,VTR,Year 1,2013-12-31,2,1.0,0.132447,,0.629908,Real Estate,REITs,10,4.0,0.562783,3.148105,0.0
+1596,VTR,Year 2,2014-12-31,2,1.0,0.147481,,0.725216,Real Estate,REITs,10,4.0,0.562783,3.148105,0.0
+1597,VTR,Year 3,2015-12-31,3,1.0,0.145992,,0.894057,Real Estate,REITs,10,4.0,0.562783,3.148105,0.0
+1598,VTR,Year 4,2016-12-31,3,1.0,0.136863,,0.898924,Real Estate,REITs,10,4.0,0.562783,3.148105,0.0
+1599,VZ,Year 1,2012-12-31,115,46.0,39.951,,16.46,Telecommunications Services,Integrated Telecommunications Services,493,191.0,138.042,65.616,0.0
+1600,VZ,Year 2,2013-12-31,120,44.0,27.089,,16.606,Telecommunications Services,Integrated Telecommunications Services,493,191.0,138.042,65.616,0.0
+1601,VZ,Year 3,2014-12-31,127,49.0,41.016,,16.533,Telecommunications Services,Integrated Telecommunications Services,493,191.0,138.042,65.616,0.0
+1602,VZ,Year 4,2015-12-31,131,52.0,29.986,,16.017,Telecommunications Services,Integrated Telecommunications Services,493,191.0,138.042,65.616,0.0
+1603,WAT,Year 1,2012-12-31,1,0.0,0.47727,0.096004,0.013829,Health Care,Health Care Distributors,5,0.0,1.978689,0.044504,0.422811
+1604,WAT,Year 2,2013-12-31,1,0.0,0.492965,0.100536,0.009918,Health Care,Health Care Distributors,5,0.0,1.978689,0.044504,0.422811
+1605,WAT,Year 3,2014-12-31,1,0.0,0.512707,0.107726,0.010634,Health Care,Health Care Distributors,5,0.0,1.978689,0.044504,0.422811
+1606,WAT,Year 4,2015-12-31,2,0.0,0.495747,0.118545,0.010123,Health Care,Health Care Distributors,5,0.0,1.978689,0.044504,0.422811
+1607,WDC,Year 1,2013-06-28,15,10.0,1.525,1.572,,Information Technology,Computer Storage & Peripherals,56,39.0,4.739,0.0,6.506
+1608,WDC,Year 2,2014-06-27,15,10.0,0.908,1.661,,Information Technology,Computer Storage & Peripherals,56,39.0,4.739,0.0,6.506
+1609,WDC,Year 3,2015-07-03,14,10.0,0.964,1.646,,Information Technology,Computer Storage & Peripherals,56,39.0,4.739,0.0,6.506
+1610,WDC,Year 4,2016-07-01,12,9.0,1.342,1.627,,Information Technology,Computer Storage & Peripherals,56,39.0,4.739,0.0,6.506
+1611,WEC,Year 1,2012-12-31,4,2.0,0.1214,,0.3642,Utilities,Electric Utilities,17,10.0,0.5243,1.6575,0.0
+1612,WEC,Year 2,2013-12-31,4,2.0,0.1167,,0.3401,Utilities,Electric Utilities,17,10.0,0.5243,1.6575,0.0
+1613,WEC,Year 3,2014-12-31,4,3.0,0.1218,,0.3914,Utilities,Electric Utilities,17,10.0,0.5243,1.6575,0.0
+1614,WEC,Year 4,2015-12-31,5,3.0,0.1644,,0.5618,Utilities,Electric Utilities,17,10.0,0.5243,1.6575,0.0
+1615,WFC,Year 1,2012-12-31,91,1.0,48.724,,8.891,Financials,Banks,357,3.0,192.457,19.157,0.0
+1616,WFC,Year 2,2013-12-31,88,1.0,47.338,,3.813,Financials,Banks,357,3.0,192.457,19.157,0.0
+1617,WFC,Year 3,2014-12-31,88,1.0,47.667,,2.765,Financials,Banks,357,3.0,192.457,19.157,0.0
+1618,WFC,Year 4,2015-12-31,90,0.0,48.728,,3.688,Financials,Banks,357,3.0,192.457,19.157,0.0
+1619,WFM,Year 1,2013-09-29,12,8.0,3.682,,,Consumer Staples,Food Retail,56,36.0,16.663,0.0,0.0
+1620,WFM,Year 2,2014-09-28,14,9.0,4.032,,,Consumer Staples,Food Retail,56,36.0,16.663,0.0,0.0
+1621,WFM,Year 3,2015-09-27,15,9.0,4.472,,,Consumer Staples,Food Retail,56,36.0,16.663,0.0,0.0
+1622,WFM,Year 4,2016-09-25,15,10.0,4.477,,,Consumer Staples,Food Retail,56,36.0,16.663,0.0,0.0
+1623,WHR,Year 1,2013-12-31,18,15.0,1.828,,0.025,Consumer Discretionary,Household Appliances,77,65.0,8.08,0.20299999999999999,0.0
+1624,WHR,Year 2,2014-12-31,19,16.0,2.038,,0.033,Consumer Discretionary,Household Appliances,77,65.0,8.08,0.20299999999999999,0.0
+1625,WHR,Year 3,2015-12-31,20,17.0,2.13,,0.074,Consumer Discretionary,Household Appliances,77,65.0,8.08,0.20299999999999999,0.0
+1626,WHR,Year 4,2016-12-31,20,17.0,2.084,,0.071,Consumer Discretionary,Household Appliances,77,65.0,8.08,0.20299999999999999,0.0
+1627,WM,Year 1,2013-12-31,13,9.0,1.468,,1.333,Industrials,Environmental Services,51,34.0,5.702,5.171,0.0
+1628,WM,Year 2,2014-12-31,13,9.0,1.481,,1.292,Industrials,Environmental Services,51,34.0,5.702,5.171,0.0
+1629,WM,Year 3,2015-12-31,12,8.0,1.343,,1.245,Industrials,Environmental Services,51,34.0,5.702,5.171,0.0
+1630,WM,Year 4,2016-12-31,13,8.0,1.41,,1.301,Industrials,Environmental Services,51,34.0,5.702,5.171,0.0
+1631,WMB,Year 1,2012-12-31,7,4.0,0.595,,0.756,Energy,Oil & Gas Exploration & Production,27,15.0,2.3890000000000002,4.484999999999999,0.0
+1632,WMB,Year 2,2013-12-31,6,4.0,0.546,,0.815,Energy,Oil & Gas Exploration & Production,27,15.0,2.3890000000000002,4.484999999999999,0.0
+1633,WMB,Year 3,2014-12-31,7,4.0,0.384,,1.176,Energy,Oil & Gas Exploration & Production,27,15.0,2.3890000000000002,4.484999999999999,0.0
+1634,WMB,Year 4,2015-12-31,7,3.0,0.864,,1.738,Energy,Oil & Gas Exploration & Production,27,15.0,2.3890000000000002,4.484999999999999,0.0
+1635,WMT,Year 1,2013-01-31,468,352.0,88.629,,,Consumer Staples,Hypermarkets & Super Centers,1911,1435.0,370.44100000000003,0.0,0.0
+1636,WMT,Year 2,2014-01-31,476,358.0,91.353,,,Consumer Staples,Hypermarkets & Super Centers,1911,1435.0,370.44100000000003,0.0,0.0
+1637,WMT,Year 3,2015-01-31,485,365.0,93.418,,,Consumer Staples,Hypermarkets & Super Centers,1911,1435.0,370.44100000000003,0.0,0.0
+1638,WMT,Year 4,2016-01-31,482,360.0,97.041,,,Consumer Staples,Hypermarkets & Super Centers,1911,1435.0,370.44100000000003,0.0,0.0
+1639,WRK,Year 1,2014-09-30,9,7.0,0.9376,,0.086,Materials,Paper Packaging,34,26.0,3.7138,0.41669999999999996,0.0
+1640,WRK,Year 2,2015-09-30,11,8.0,1.0261,,0.1189,Materials,Paper Packaging,34,26.0,3.7138,0.41669999999999996,0.0
+1641,WRK,Year 3,2016-09-30,14,11.0,1.7501,,0.2118,Materials,Paper Packaging,34,26.0,3.7138,0.41669999999999996,0.0
+1642,WU,Year 1,2012-12-31,5,3.0,1.1406,,,Information Technology,Internet Software & Services,20,12.0,4.6844,0.0,0.0
+1643,WU,Year 2,2013-12-31,5,3.0,1.1996,,,Information Technology,Internet Software & Services,20,12.0,4.6844,0.0,0.0
+1644,WU,Year 3,2014-12-31,5,3.0,1.1693,,,Information Technology,Internet Software & Services,20,12.0,4.6844,0.0,0.0
+1645,WU,Year 4,2015-12-31,5,3.0,1.1749,,,Information Technology,Internet Software & Services,20,12.0,4.6844,0.0,0.0
+1646,WY,Year 1,2012-12-31,5,4.0,0.32,0.032,,Real Estate,REITs,26,19.0,1.483,0.0,0.116
+1647,WY,Year 2,2013-12-31,7,5.0,0.494,0.033,,Real Estate,REITs,26,19.0,1.483,0.0,0.116
+1648,WY,Year 3,2014-12-31,7,5.0,0.249,0.027,,Real Estate,REITs,26,19.0,1.483,0.0,0.116
+1649,WY,Year 4,2015-12-31,7,5.0,0.42,0.024,,Real Estate,REITs,26,19.0,1.483,0.0,0.116
+1650,WYN,Year 1,2012-12-31,4,2.0,1.389,,0.185,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",19,8.0,5.991,0.868,0.0
+1651,WYN,Year 2,2013-12-31,5,2.0,1.471,,0.216,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",19,8.0,5.991,0.868,0.0
+1652,WYN,Year 3,2014-12-31,5,2.0,1.557,,0.233,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",19,8.0,5.991,0.868,0.0
+1653,WYN,Year 4,2015-12-31,5,2.0,1.574,,0.234,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",19,8.0,5.991,0.868,0.0
+1654,WYNN,Year 1,2012-12-31,5,3.0,0.481677,,0.373199,Consumer Discretionary,Casinos & Gaming,19,11.0,1.925832,1.380998,0.0
+1655,WYNN,Year 2,2013-12-31,5,3.0,0.465926,,0.371051,Consumer Discretionary,Casinos & Gaming,19,11.0,1.925832,1.380998,0.0
+1656,WYNN,Year 3,2014-12-31,5,3.0,0.502901,,0.314119,Consumer Discretionary,Casinos & Gaming,19,11.0,1.925832,1.380998,0.0
+1657,WYNN,Year 4,2015-12-31,4,2.0,0.475328,,0.322629,Consumer Discretionary,Casinos & Gaming,19,11.0,1.925832,1.380998,0.0
+1658,XEC,Year 1,2012-12-31,1,0.0,0.188302,,0.513916,Energy,Oil & Gas Exploration & Production,5,0.0,0.6653819999999999,2.714734,0.0
+1659,XEC,Year 2,2013-12-31,1,0.0,0.072143,,0.615874,Energy,Oil & Gas Exploration & Production,5,0.0,0.6653819999999999,2.714734,0.0
+1660,XEC,Year 3,2014-12-31,2,0.0,0.22507,,0.806021,Energy,Oil & Gas Exploration & Production,5,0.0,0.6653819999999999,2.714734,0.0
+1661,XEC,Year 4,2015-12-31,1,0.0,0.179867,,0.778923,Energy,Oil & Gas Exploration & Production,5,0.0,0.6653819999999999,2.714734,0.0
+1662,XEL,Year 1,2012-12-31,10,6.0,0.669451,,0.926053,Utilities,MultiUtilities,42,27.0,2.984102,4.047485,0.0
+1663,XEL,Year 2,2013-12-31,10,7.0,0.681226,,0.977863,Utilities,MultiUtilities,42,27.0,2.984102,4.047485,0.0
+1664,XEL,Year 3,2014-12-31,11,7.0,0.767608,,1.019045,Utilities,MultiUtilities,42,27.0,2.984102,4.047485,0.0
+1665,XEL,Year 4,2015-12-31,11,7.0,0.865817,,1.124524,Utilities,MultiUtilities,42,27.0,2.984102,4.047485,0.0
+1666,XL,Year 1,2012-12-31,7,5.0,,,1.173955,Financials,Property & Casualty Insurance,29,20.0,0.0,5.695387,0.0
+1667,XL,Year 2,2013-12-31,7,5.0,,,1.213178,Financials,Property & Casualty Insurance,29,20.0,0.0,5.695387,0.0
+1668,XL,Year 3,2014-12-31,6,4.0,,,1.341315,Financials,Property & Casualty Insurance,29,20.0,0.0,5.695387,0.0
+1669,XL,Year 4,2015-12-31,9,6.0,,,1.966939,Financials,Property & Casualty Insurance,29,20.0,0.0,5.695387,0.0
+1670,XLNX,Year 1,2013-03-30,2,0.0,0.365684,0.475522,0.009508,Information Technology,Semiconductors,8,0.0,1.429613,0.035482,2.027605
+1671,XLNX,Year 2,2014-03-29,2,0.0,0.378607,0.492447,0.009887,Information Technology,Semiconductors,8,0.0,1.429613,0.035482,2.027605
+1672,XLNX,Year 3,2015-03-28,2,0.0,0.35367,0.525745,0.009537,Information Technology,Semiconductors,8,0.0,1.429613,0.035482,2.027605
+1673,XLNX,Year 4,2016-04-02,2,0.0,0.331652,0.533891,0.00655,Information Technology,Semiconductors,8,0.0,1.429613,0.035482,2.027605
+1674,XOM,Year 1,2012-12-31,451,302.0,81.844,,15.888,Energy,Integrated Oil & Gas,1524,1017.0,294.21,68.41499999999999,0.0
+1675,XOM,Year 2,2013-12-31,420,284.0,76.696,,17.182,Energy,Integrated Oil & Gas,1524,1017.0,294.21,68.41499999999999,0.0
+1676,XOM,Year 3,2014-12-31,394,266.0,74.226,,17.297,Energy,Integrated Oil & Gas,1524,1017.0,294.21,68.41499999999999,0.0
+1677,XOM,Year 4,2015-12-31,259,165.0,61.444,,18.048,Energy,Integrated Oil & Gas,1524,1017.0,294.21,68.41499999999999,0.0
+1678,XRAY,Year 1,2012-12-31,2,1.0,1.148731,,,Health Care,Health Care Supplies,8,4.0,4.5139309999999995,0.0,0.0
+1679,XRAY,Year 2,2013-12-31,2,1.0,1.1448,,,Health Care,Health Care Supplies,8,4.0,4.5139309999999995,0.0,0.0
+1680,XRAY,Year 3,2014-12-31,2,1.0,1.1431,,,Health Care,Health Care Supplies,8,4.0,4.5139309999999995,0.0,0.0
+1681,XRAY,Year 4,2015-12-31,2,1.0,1.0773,,,Health Care,Health Care Supplies,8,4.0,4.5139309999999995,0.0,0.0
+1682,XRX,Year 1,2012-12-31,20,13.0,4.398,0.655,0.301,Information Technology,IT Consulting & Other Services,77,51.0,16.429,1.2309999999999999,2.3979999999999997
+1683,XRX,Year 2,2013-12-31,20,13.0,4.219,0.603,0.305,Information Technology,IT Consulting & Other Services,77,51.0,16.429,1.2309999999999999,2.3979999999999997
+1684,XRX,Year 3,2014-12-31,19,13.0,4.02,0.577,0.315,Information Technology,IT Consulting & Other Services,77,51.0,16.429,1.2309999999999999,2.3979999999999997
+1685,XRX,Year 4,2015-12-31,18,12.0,3.792,0.563,0.31,Information Technology,IT Consulting & Other Services,77,51.0,16.429,1.2309999999999999,2.3979999999999997
+1686,XYL,Year 1,2012-12-31,3,2.0,0.936,0.106,,Industrials,Industrial Conglomerates,12,8.0,3.7,0.0,0.409
+1687,XYL,Year 2,2013-12-31,3,2.0,0.99,0.104,,Industrials,Industrial Conglomerates,12,8.0,3.7,0.0,0.409
+1688,XYL,Year 3,2014-12-31,3,2.0,0.92,0.104,,Industrials,Industrial Conglomerates,12,8.0,3.7,0.0,0.409
+1689,XYL,Year 4,2015-12-31,3,2.0,0.854,0.095,,Industrials,Industrial Conglomerates,12,8.0,3.7,0.0,0.409
+1690,YHOO,Year 1,2012-12-31,4,1.0,1.641819,0.885824,0.035819,Information Technology,Internet Software & Services,16,5.0,6.932326,0.226452,4.17772
+1691,YHOO,Year 2,2013-12-31,4,1.0,1.751275,0.957587,0.044841,Information Technology,Internet Software & Services,16,5.0,6.932326,0.226452,4.17772
+1692,YHOO,Year 3,2014-12-31,4,1.0,1.77071,1.156386,0.06675,Information Technology,Internet Software & Services,16,5.0,6.932326,0.226452,4.17772
+1693,YHOO,Year 4,2015-12-31,4,2.0,1.768522,1.177923,0.079042,Information Technology,Internet Software & Services,16,5.0,6.932326,0.226452,4.17772
+1694,YUM,Year 1,2012-12-29,13,9.0,1.45,,,Consumer Discretionary,Restaurants,52,36.0,6.154999999999999,0.0,0.0
+1695,YUM,Year 2,2013-12-28,13,9.0,1.454,,,Consumer Discretionary,Restaurants,52,36.0,6.154999999999999,0.0,0.0
+1696,YUM,Year 3,2014-12-27,13,9.0,1.505,,,Consumer Discretionary,Restaurants,52,36.0,6.154999999999999,0.0,0.0
+1697,YUM,Year 4,2015-12-26,13,9.0,1.746,,,Consumer Discretionary,Restaurants,52,36.0,6.154999999999999,0.0,0.0
+1698,ZBH,Year 1,2012-12-31,4,1.0,1.8221,0.2256,,Health Care,Health Care Equipment,17,4.0,7.6825,0.5084,0.8848
+1699,ZBH,Year 2,2013-12-31,4,1.0,1.7963,0.203,0.0785,Health Care,Health Care Equipment,17,4.0,7.6825,0.5084,0.8848
+1700,ZBH,Year 3,2014-12-31,4,1.0,1.7722,0.1874,0.0925,Health Care,Health Care Equipment,17,4.0,7.6825,0.5084,0.8848
+1701,ZBH,Year 4,2015-12-31,5,1.0,2.2919,0.2688,0.3374,Health Care,Health Care Equipment,17,4.0,7.6825,0.5084,0.8848
+1702,ZION,Year 1,2012-12-31,2,0.0,1.579007,,0.031237,Financials,Regional Banks,8,0.0,6.524679,-0.079401,0.0
+1703,ZION,Year 2,2013-12-31,2,0.0,1.700064,,-0.072761,Financials,Regional Banks,8,0.0,6.524679,-0.079401,0.0
+1704,ZION,Year 3,2014-12-31,2,0.0,1.654369,,-0.087159,Financials,Regional Banks,8,0.0,6.524679,-0.079401,0.0
+1705,ZION,Year 4,2015-12-31,2,0.0,1.591239,,0.049282,Financials,Regional Banks,8,0.0,6.524679,-0.079401,0.0
+1706,ZTS,Year 1,2013-12-31,4,1.0,1.613,0.399,0.06,Health Care,Pharmaceuticals,16,4.0,6.152,0.266,1.5350000000000001
+1707,ZTS,Year 2,2014-12-31,4,1.0,1.643,0.396,0.06,Health Care,Pharmaceuticals,16,4.0,6.152,0.266,1.5350000000000001
+1708,ZTS,Year 3,2015-12-31,4,1.0,1.532,0.364,0.061,Health Care,Pharmaceuticals,16,4.0,6.152,0.266,1.5350000000000001
+1709,ZTS,Year 4,2016-12-31,4,1.0,1.364,0.376,0.085,Health Care,Pharmaceuticals,16,4.0,6.152,0.266,1.5350000000000001
