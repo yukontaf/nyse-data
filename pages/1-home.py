@@ -466,7 +466,7 @@ card10 = dbc.Card(
         dcc.Graph(figure=revenue_pct_change_histogram, style={"width": "80%"})
     ])
 )
-layout = html.Div([tabs1, tabs2, card3, *breaks(2), card4,
+layout = html.Div([ tabs2, card3, *breaks(2), card4,
                   *breaks(2), card6, *breaks(2), card7, *breaks(2), card8, *breaks(2), card9, *breaks(2), card10])
 
 
